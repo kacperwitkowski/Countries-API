@@ -1,0 +1,1592 @@
+{
+ "countries": [
+{
+ "id": 0,
+ "name": "Afghanistan",
+"capital":"Kabul",
+ "isoAlpha3": "AFG",
+ "population": 38928346,
+ "gasolinePrice": 0.46	
+},
+{
+ "id": 1,
+ "name": "Albania",
+"capital": "Tirana",
+ "isoAlpha3": "ALB",
+ "population": 2877797,
+ "gasolinePrice": 1.45		
+},
+{
+ "id": 2,
+ "name": "Algeria",
+"capital": "Algiers",
+ "isoAlpha3": "DZA",
+ "population": 43851044,
+ "gasolinePrice": 0.35		
+},
+{
+ "id": 3,
+ "name": "Andorra",
+"capital": "Andorra la Vella",
+ "isoAlpha3": "AND",
+ "population": 77265,
+ "gasolinePrice": 1.36	
+},
+{
+ "id": 4,
+ "name": "Angola",
+"capital": "Luanda",
+ "isoAlpha3": "AGO",
+ "population": 32866272,
+ "gasolinePrice": 0.28		
+},
+{
+ "id": 5,
+ "name": "Antigua and Barbuda", 
+"capital": "Saint John's",
+ "isoAlpha3": "ATG",
+ "population": 97929,
+ "gasolinePrice": 1.10	
+},
+{
+ "id": 6,
+ "name": "Argentina", 
+"capital": "Buenos Aires",
+ "isoAlpha3": "ARG",
+ "population": 45195774,
+ "gasolinePrice": 0.92		
+},
+{
+ "id": 7,
+ "name": "Armenia", 
+"capital": "Yerevan",
+ "isoAlpha3": "ARM",
+ "population": 2963243	,
+ "gasolinePrice": 0.78		
+},
+{
+ "id": 8,
+ "name": "Australia", 
+"capital": "Canberra",
+ "isoAlpha3": "AUS",
+ "population": 25499884,
+ "gasolinePrice": 	1.08		
+},
+{
+ "id": 9,
+ "name": "Austria", 
+"capital": "Vienna",
+ "isoAlpha3": "AUT",
+ "population": 9006398,
+ "gasolinePrice": 1.53		
+},
+{
+ "id": 10,
+ "name": "Azerbaijan", 
+"capital": "Baku",
+ "isoAlpha3": "AZE",
+ "population": 10139177,
+ "gasolinePrice": 0.59		
+},
+{
+ "id": 11,
+ "name": "Bahamas", 
+ "capital": "Nassau",
+ "isoAlpha3": "BHS",
+ "population": 393244,
+ "gasolinePrice": 1.39		
+},
+{
+ "id": 12,
+ "name": "Bahrain", 
+"capital": "Manama",
+ "isoAlpha3": "BHR",
+ "population": 1701575,
+ "gasolinePrice": 0.37		
+},
+{
+ "id": 13,
+ "name": "Bangladesh",
+"capital": "Dhaka",
+ "isoAlpha3": "BGD",
+ "population": 164689383,
+ "gasolinePrice": 1.1		
+},
+{
+ "id": 14,
+ "name": "Barbados", 
+"capital": "Bridgetown",
+ "isoAlpha3": "BRB",
+ "population": 287375,
+ "gasolinePrice": 1.87		
+},
+{
+ "id": 15,
+ "name": "Belarus", 
+ "capital": "Minsk",
+ "isoAlpha3": "BLR",
+ "population": 	9449323,
+ "gasolinePrice": 0.75		
+},
+{
+ "id": 16,
+ "name": "Belgium",
+ "capital": "Brussels", 
+ "isoAlpha3": "BEL",
+ "population": 11589623,
+ "gasolinePrice": 1.87		
+},
+{
+ "id": 17,
+ "name": "Belize",
+ "capital": "Belmopan", 
+ "isoAlpha3": "BLZ",
+ "population": 397628,
+ "gasolinePrice": 1.52		
+},
+{
+ "id": 18,
+ "name": "Benin",
+"capital": "Porto Novo",
+ "isoAlpha3": "BEN",
+ "population": 12123200,
+ "gasolinePrice": 0.93		
+},
+{
+ "id": 19,
+ "name": "Bhutan",
+"capital": "Thimphu",
+ "isoAlpha3": "BTN",
+ "population": 771608,
+ "gasolinePrice": 0.92		
+},
+{
+ "id": 20,
+ "name": "Bolivia",
+"capital": "La Paz",
+ "isoAlpha3": "BOL",
+ "population": 11673021,
+ "gasolinePrice": 0.54		
+},
+{
+ "id": 21,
+ "name": "Bosnia and Herzegovina",
+"capital": "Sarajevo",
+ "isoAlpha3": "BIH",
+ "population": 3280819,
+ "gasolinePrice": 1.31		
+},
+{
+ "id": 22,
+ "name": "Botswana",
+"capital": "Gaborone",
+ "isoAlpha3": "BWA",
+ "population": 2351627,
+ "gasolinePrice": 0.90		
+},
+{
+ "id": 23,
+ "name": "Brazil",
+"capital": "Brasilia",
+ "isoAlpha3": "BRA",
+ "population": 212559417,
+ "gasolinePrice": 0.97		
+},
+{
+ "id": 24,
+ "name": "Brunei", 
+"capital": "Bandar Seri Begawan",
+ "isoAlpha3": "BRN",
+ "population": 437479,
+ "gasolinePrice": 0.40		
+},
+{
+ "id": 25,
+ "name": "Bulgaria",
+"capital": "Sofia",
+ "isoAlpha3": "BGR",
+ "population": 6948445,
+ "gasolinePrice": 1.3		
+},
+{
+ "id": 26,
+ "name": "Burkina Faso",
+"capital": "Ouagadougou",
+ "isoAlpha3": "BFA",
+ "population": 20903273,
+ "gasolinePrice": 1.14		
+},
+{
+ "id": 27,
+ "name": "Burundi", 
+"capital": "Gitega",
+ "isoAlpha3": "BDI",
+ "population": 11890784,
+ "gasolinePrice": 1.23		
+},
+{
+ "id": 28,
+ "name": "Cambodia", 
+"capital": "Phnom Penh",
+ "isoAlpha3": "KHM",
+ "population": 16718965,
+ "gasolinePrice": 0.92
+},
+{
+ "id": 29,
+ "name": "Cameroon",
+"capital": "Yaounde",
+ "isoAlpha3": "CMR",
+ "population": 26545863,
+ "gasolinePrice": 1.16		
+},
+{
+ "id": 30,
+ "name": "Canada",
+ "capital": "Ottawa", 
+ "isoAlpha3": "CAN",
+ "population": 37742154,
+ "gasolinePrice": 0.99	
+},
+{
+ "id": 31,
+ "name": "Cape Verde",
+ "capital": "Praia", 
+ "isoAlpha3": "CPV",
+ "population": 555987,
+ "gasolinePrice": 1.32		
+},
+{
+ "id": 32,
+ "name": "Central African Republic",
+ "capital": "Bangui", 
+ "isoAlpha3": "CAF",
+ "population": 4829767,
+ "gasolinePrice": 2		
+},
+{
+ "id": 33,
+ "name": "Chad",
+ "capital": "N'Djamena", 
+ "isoAlpha3": "TCD",
+ "population": 16425864,
+ "gasolinePrice": 0.95		
+},
+{
+ "id": 34,
+ "name": "Chile",
+ "capital": "Santiago", 
+ "isoAlpha3": "CHL",
+ "population": 19116201,
+ "gasolinePrice": 1.14		
+},
+{
+ "id": 35,
+ "name": "China",
+ "capital": "Beijing", 
+ "isoAlpha3": "CHN",
+ "population": 	1439323776,
+ "gasolinePrice":	1	
+},
+{
+ "id": 36,
+ "name": "Colombia",
+ "capital": "Bogota", 
+ "isoAlpha3": "COL",
+ "population": 50882891,
+ "gasolinePrice": 0.63		
+},
+{
+ "id": 37,
+ "name": "Comoros",
+ "capital": "Moroni", 
+ "isoAlpha3": "COM",
+ "population": 869601,
+ "gasolinePrice": 0		
+},
+{
+ "id": 38,
+ "name": "Democratic Republic of the Congo",
+ "capital": "Kinshasa", 
+ "isoAlpha3": "COD",
+ "population": 89561403,
+ "gasolinePrice": 1		
+},
+{
+ "id": 39,
+ "name": "Republic of the Congo",
+ "capital": "Brazzaville", 
+ "isoAlpha3": "COG",
+ "population": 5518087,
+ "gasolinePrice": 0.98		
+},
+{
+ "id": 40,
+ "name": "Costa Rica",
+ "capital": "San Jose", 
+ "isoAlpha3": "CRI",
+ "population": 5094118	,
+ "gasolinePrice": 1.13		
+},
+{
+ "id": 41,
+ "name": "Côte d'Ivoire (Ivory Coast)",
+ "capital": "Yamoussoukro", 
+ "isoAlpha3": "CIV",
+ "population": 26378274,
+ "gasolinePrice": 1.10		
+},
+{
+ "id": 42,
+ "name": "Croatia",
+ "capital": "Zagreb", 
+ "isoAlpha3": "HRV",
+ "population": 4105267,
+ "gasolinePrice": 1.60		
+},
+{
+ "id": 43,
+ "name": "Cuba",
+ "capital": "Havana", 
+ "isoAlpha3": "CUB",
+ "population": 	11326616,
+ "gasolinePrice": 1.2		
+},
+{
+ "id": 44,
+ "name": "Cyprus",
+ "capital": "Nicosia", 
+ "isoAlpha3": "CYP",
+ "population": 1207359,
+ "gasolinePrice": 1.46		
+},
+{
+ "id": 45,
+ "name": "Czech Republic",
+ "capital": "Prague", 
+ "isoAlpha3": "CZE",
+ "population": 10708981,
+ "gasolinePrice": 1.47		
+},
+{
+ "id": 46,
+ "name": "Denmark",
+ "capital": "Copenhagen", 
+ "isoAlpha3": "DNK",
+ "population": 5792202,
+ "gasolinePrice": 1.92		
+},
+{
+ "id": 47,
+ "name": "Djibouti",
+ "capital": "Djibouti", 
+ "isoAlpha3": "DJI",
+ "population": 988000,
+ "gasolinePrice": 1.35		
+},
+{
+ "id": 48,
+ "name": "Dominica",
+ "capital": "Roseau", 
+ "isoAlpha3": "DMA",
+ "population": 71986,
+ "gasolinePrice": 0.91		
+},
+{
+ "id": 49,
+ "name": "Dominican Republic",
+ "capital": "Santo Domingo", 
+ "isoAlpha3": "DOM",
+ "population": 10847910,
+ "gasolinePrice": 1.15		
+},
+{
+ "id": 50,
+ "name": "East Timor",
+ "capital": "Dili", 
+ "isoAlpha3": "TLS",
+ "population": 1318445,
+ "gasolinePrice": 1.02		
+},
+{
+ "id": 51,
+ "name": "Ecuador",
+ "capital": "Quito", 
+ "isoAlpha3": "ECU",
+ "population": 17643054,
+ "gasolinePrice": 0.50		
+},
+{
+ "id": 52,
+ "name": "Egypt",
+ "capital": "Cairo", 
+ "isoAlpha3": "EGY",
+ "population": 	102334404,
+ "gasolinePrice": 0.56		
+},
+{
+ "id": 53,
+ "name": "El Salvador",
+ "capital": "San Salvador", 
+ "isoAlpha3": "SLV",
+ "population": 6486205,
+ "gasolinePrice": 0.95		
+},
+{
+ "id": 54,
+ "name": "Great Britain",
+ "capital": "London", 
+ "isoAlpha3": "GBR",
+ "population": 68177756,
+ "gasolinePrice": 1.77		
+},
+{
+ "id": 55,
+ "name": "Equatorial Guinea",
+ "capital": "Malabo", 
+ "isoAlpha3": "GNQ",
+ "population": 1402985,
+ "gasolinePrice": 0.98		
+},
+{
+ "id": 56,
+ "name": "Eritrea",
+ "capital": "Asmara", 
+ "isoAlpha3": "ERI",
+ "population": 3546421,
+ "gasolinePrice": 2.20		
+},
+{
+ "id": 57,
+ "name": "Estonia",
+ "capital": "Tallinn", 
+ "isoAlpha3": "EST",
+ "population": 1326535,
+ "gasolinePrice": 1.67	
+},
+{
+ "id": 58,
+ "name": "Eswatini",
+ "capital": "Mbabana", 
+ "isoAlpha3": "SWZ",
+ "population": 1160164,
+ "gasolinePrice": 1.12		
+},
+{
+ "id": 59,
+ "name": "Ethiopia",
+ "capital": "Addis Ababa", 
+ "isoAlpha3": "ETH",
+ "population": 114963588,
+ "gasolinePrice": 0.51		
+},
+{
+ "id": 60,
+ "name": "Federated States of Micronesia",
+ "capital": "Palikir", 
+ "isoAlpha3": "FSM",
+ "population": 548914,
+ "gasolinePrice": 1.14		
+},
+{
+ "id": 61,
+ "name": "Fiji",
+ "capital": "Suva", 
+ "isoAlpha3": "FJI",
+ "population": 896445,
+ "gasolinePrice": 1.10		
+},
+{
+ "id": 62,
+ "name": "Finland",
+ "capital": "Helsinki", 
+ "isoAlpha3": "FIN",
+ "population": 5540720,
+ "gasolinePrice": 1.96		
+},
+{
+ "id": 63,
+ "name": "France",
+ "capital": "Paris", 
+ "isoAlpha3": "FRA",
+ "population": 65273511,
+ "gasolinePrice": 1.83		
+},
+{
+ "id": 64,
+ "name": "Gabon",
+ "capital": "Libreville", 
+ "isoAlpha3": "GAB",
+ "population": 2225734,
+ "gasolinePrice": 1.12		
+},
+{
+ "id": 65,
+ "name": "Gambia",
+ "capital": "Banjul", 
+ "isoAlpha3": "GMB",
+ "population": 2416668,
+ "gasolinePrice": 1.03		
+},
+{
+ "id": 66,
+ "name": "Georgia",
+ "capital": "Tbilisi", 
+ "isoAlpha3": "GEO",
+ "population": 3989167,
+ "gasolinePrice": 0.84		
+},
+{
+ "id": 67,
+ "name": "Germany",
+ "capital": "Berlin", 
+ "isoAlpha3": "DEU",
+ "population": 83783942,
+ "gasolinePrice": 1.76		
+},
+{
+ "id": 68,
+ "name": "Ghana",
+ "capital": "Accra", 
+ "isoAlpha3": "GHA",
+ "population": 31072940,
+ "gasolinePrice": 0.97		
+},
+{
+ "id": 69,
+ "name": "Greece",
+ "capital": "Athens", 
+ "isoAlpha3": "GRC",
+ "population": 10423054,
+ "gasolinePrice": 1.93		
+},
+{
+ "id": 70,
+ "name": "Grenada",
+ "capital": "Saint George's", 
+ "isoAlpha3": "GRD",
+ "population": 112523,
+ "gasolinePrice": 1.29		
+},
+{
+ "id": 71,
+ "name": "Guatemala",
+ "capital": "Guatemala City", 
+ "isoAlpha3": "GTM",
+ "population": 17915568,
+ "gasolinePrice": 0.93		
+},
+{
+ "id": 72,
+ "name": "Guinea",
+ "capital": "Conakry", 
+ "isoAlpha3": "GIN",
+ "population": 13132795,
+ "gasolinePrice": 0.91		
+},
+{
+ "id": 73,
+ "name": "Guinea-Bissau",
+ "capital": "Bissau", 
+ "isoAlpha3": "GNB",
+ "population": 1968001,
+ "gasolinePrice": 1.22		
+},
+{
+ "id": 74,
+ "name": "Guyana",
+ "capital": "Georgetown", 
+ "isoAlpha3": "GUY",
+ "population": 786552,
+ "gasolinePrice": 0.93		
+},
+{
+ "id": 75,
+ "name": "Haiti",
+ "capital": "Port au Prince", 
+ "isoAlpha3": "HTI",
+ "population": 11402528,
+ "gasolinePrice": 0.63		
+},
+{
+ "id": 76,
+ "name": "Honduras",
+ "capital": "Tegucigalpa", 
+ "isoAlpha3": "HND",
+ "population": 9904607,
+ "gasolinePrice": 1.1		
+},
+{
+ "id": 77,
+ "name":"Hungary",
+ "capital": "Budapest", 
+ "isoAlpha3": "HUN",
+ "population": 9660351,
+ "gasolinePrice": 1.41		
+},
+{
+ "id": 78,
+ "name": "Iceland",
+ "capital": "Reykjavik", 
+ "isoAlpha3": "ISL",
+ "population": 	341243,
+ "gasolinePrice": 1.89		
+},
+{
+ "id": 79,
+ "name": "India",
+ "capital": "New Delhi", 
+ "isoAlpha3": "IND",
+ "population": 1380004385,
+ "gasolinePrice": 1.24		
+},
+{
+ "id": 80,
+ "name": "Indonesia",
+ "capital": "Jakarta", 
+ "isoAlpha3": "IDN",
+ "population": 	273523615,
+ "gasolinePrice": 0.74		
+},
+{
+ "id": 81,
+ "name": "Iran",
+ "capital": "Tehran", 
+ "isoAlpha3": "IRN",
+ "population": 83992949,
+ "gasolinePrice": 0.06		
+},
+{
+ "id": 82,
+ "name": "Iraq",
+ "capital": "Baghdad", 
+ "isoAlpha3": "IRQ",
+ "population": 40222493,
+ "gasolinePrice": 0.51		
+},
+{
+ "id": 83,
+ "name": "Ireland",
+ "capital": "Dublin", 
+ "isoAlpha3": "IRL",
+ "population": 4937786,
+ "gasolinePrice": 1.77		
+},
+{
+ "id": 84,
+ "name": "Israel",
+ "capital": "Jerusalem", 
+ "isoAlpha3": "ISR",
+ "population": 8655535,
+ "gasolinePrice": 1.93		
+},
+{
+ "id": 85,
+ "name": "Italy",
+ "capital": "Rome", 
+ "isoAlpha3": "ITA",
+ "population": 60461826,
+ "gasolinePrice": 1.90		
+},
+{
+ "id": 86,
+ "name": "Jamaica",
+ "capital": "Kingston", 
+ "isoAlpha3": "JAM",
+ "population": 2961167,
+ "gasolinePrice": 1.12		
+},
+{
+ "id": 87,
+ "name": "Japan",
+ "capital": "Tokyo", 
+ "isoAlpha3": "JPN",
+ "population": 126476461,
+ "gasolinePrice": 1.35		
+},
+{
+ "id": 88,
+ "name": "Jordan",
+ "capital": "Amman", 
+ "isoAlpha3": "JOR",
+ "population": 10203134,
+ "gasolinePrice": 1.38		
+},
+{
+ "id": 89,
+ "name": "Kazakhstan",
+ "capital": "Nur-Sultan", 
+ "isoAlpha3": "KAZ",
+ "population": 18776707,
+ "gasolinePrice": 0.41		
+},
+{
+ "id": 90,
+ "name": "Kenya",
+ "capital": "Nairobi", 
+ "isoAlpha3": "KEN",
+ "population": 53771296,
+ "gasolinePrice": 1.15		
+},
+{
+ "id": 91,
+ "name": "Kiribati",
+ "capital": "Tarawa Atoll", 
+ "isoAlpha3": "KIR",
+ "population": 119449,
+ "gasolinePrice": 0		
+},
+{
+ "id": 92,
+ "name": "Kosovo",
+ "capital": "Pristina", 
+ "isoAlpha3": "XKX",
+ "population": 1812473,
+ "gasolinePrice": 1.27		
+},
+{
+ "id": 93,
+ "name": "Kuwait",
+ "capital": "Kuwait City", 
+ "isoAlpha3": "KWT",
+ "population": 4270571,
+ "gasolinePrice": 0.35		
+},
+{
+ "id": 94,
+ "name": "Kyrgyzstan",
+ "capital": "Bishkek", 
+ "isoAlpha3": "KGZ",
+ "population": 6524195,
+ "gasolinePrice": 0.60		
+},
+{
+ "id": 95,
+ "name": "Laos",
+ "capital": "Vientiane", 
+ "isoAlpha3": "LAO",
+ "population": 7275560,
+ "gasolinePrice": 1		
+},
+{
+ "id": 96,
+ "name": "Latvia",
+ "capital": "Riga", 
+ "isoAlpha3": "LVA",
+ "population": 1886198,
+ "gasolinePrice": 1.55		
+},
+{
+ "id": 97,
+ "name": "Lebanon",
+ "capital": "Beirut", 
+ "isoAlpha3": "LBN",
+ "population": 6825445,
+ "gasolinePrice": 1.27		
+},
+{
+ "id": 98,
+ "name": "Lesotho",
+ "capital": "Maseru", 
+ "isoAlpha3": "LSO",
+ "population": 2142249,
+ "gasolinePrice": 0.96		
+},
+{
+ "id": 99,
+ "name": "Liberia",
+ "capital": "Monrovia", 
+ "isoAlpha3": "LBR",
+ "population": 5057681,
+ "gasolinePrice": 0.76		
+},
+{
+ "id": 100,
+ "name": "Libya",
+ "capital": "Tripoli", 
+ "isoAlpha3": "LBY",
+ "population": 6871292,
+ "gasolinePrice": 0		
+},
+{
+ "id": 101,
+ "name": "Liechtenstein",
+ "capital": "Vaduz", 
+ "isoAlpha3": "LIE",
+ "population": 38128,
+ "gasolinePrice": 1.74		
+},
+{
+ "id": 102,
+ "name": "Lithuania",
+ "capital": "Vilnius", 
+ "isoAlpha3": "LTU",
+ "population": 2722289,
+ "gasolinePrice": 1.4		
+},
+{
+ "id": 103,
+ "name": "Luxembourg",
+ "capital": "Luxembourg", 
+ "isoAlpha3": "LUX",
+ "population": 	625978,
+ "gasolinePrice": 1.54		
+},
+{
+ "id": 104,
+ "name": "Madagascar",
+ "capital": "Antananarivo", 
+ "isoAlpha3": "MDG",
+ "population": 27691018,
+ "gasolinePrice": 1.1		
+},
+{
+ "id": 105,
+ "name": "Malawi",
+ "capital": "Lilongwe", 
+ "isoAlpha3": "MWI",
+ "population": 19129952,
+ "gasolinePrice": 1.13		
+},
+{
+ "id": 106,
+ "name": "Malaysia",
+ "capital": "Kuala Lumpur", 
+ "isoAlpha3": "MYS",
+ "population": 	32365999,
+ "gasolinePrice": 0.50		
+},
+{
+ "id": 107,
+ "name": "Maldives",
+ "capital": "Male", 
+ "isoAlpha3": "MDV",
+ "population": 540544,
+ "gasolinePrice": 0.76		
+},
+{
+ "id": 108,
+ "name": "Mali",
+ "capital": "Bamako", 
+ "isoAlpha3": "MLI",
+ "population":	20250833,
+ "gasolinePrice": 1.23		
+},
+{
+ "id": 109,
+ "name": "Malta",
+ "capital": "Valletta", 
+ "isoAlpha3": "MLT",
+ "population": 	441543,
+ "gasolinePrice": 1.61		
+},
+{
+ "id": 110,
+ "name": "Marshall Islands",
+ "capital": "Majuro", 
+ "isoAlpha3": "MHL",
+ "population": 	59190,
+ "gasolinePrice": 1.15		
+},
+{
+ "id": 111,
+ "name": "Mauritania",
+ "capital": "Nouakchott", 
+ "isoAlpha3": "MRT",
+ "population": 4649658,
+ "gasolinePrice": 1.11		
+},
+{
+ "id": 112,
+ "name": "Mauritius",
+ "capital": "Port Louis", 
+ "isoAlpha3": "MUS",
+ "population": 1271768,
+ "gasolinePrice": 1.2		
+},
+{
+ "id": 113,
+ "name": "Mexico",
+ "capital": "Mexico City", 
+ "isoAlpha3": "MEX",
+ "population": 	128932753,
+ "gasolinePrice": 1.19		
+},
+{
+ "id": 114,
+ "name": "Moldova",
+ "capital": "Chisinau", 
+ "isoAlpha3": "MDA",
+ "population": 4033963,
+ "gasolinePrice": 1.09		
+},
+{
+ "id": 115,
+ "name": "Monaco",
+ "capital": "Monaco", 
+ "population": 39242,
+ "gasolinePrice": 1.89		
+},
+{
+ "id": 116,
+ "name": "Mongolia",
+ "capital": "Ulaanbaatar", 
+ "isoAlpha3": "MNG",
+ "population": 3278290,
+ "gasolinePrice": 0.69		
+},
+{
+ "id": 117,
+ "name": "Montenegro",
+ "capital": "Podgorica", 
+ "isoAlpha3": "MNE",
+ "population": 628066,
+ "gasolinePrice": 1.56		
+},
+{
+ "id": 118,
+ "name": "Morocco",
+ "capital": "Rabat", 
+ "isoAlpha3": "MAR",
+ "population": 36910560,
+ "gasolinePrice": 1.05		
+},
+{
+ "id": 119,
+ "name": "Mozambique",
+ "capital": "Maputo", 
+ "isoAlpha3": "MOZ",
+ "population": 31255435,
+ "gasolinePrice": 1.1		
+},
+{
+ "id": 120,
+ "name": "Myanmar",
+ "capital": "Nay Pyi Taw", 
+ "isoAlpha3": "MMR",
+ "population": 54409800,
+ "gasolinePrice": 0.70		
+},
+{
+ "id": 121,
+ "name": "Namibia",
+ "capital": "Windhoek", 
+ "isoAlpha3": "NAM",
+ "population": 	2540905,
+ "gasolinePrice": 0.88		
+},
+{
+ "id": 122,
+ "name": "Nauru",
+ "capital": "No official capital", 
+ "isoAlpha3": "NRU",
+ "population": 10824,
+ "gasolinePrice": 0		
+},
+{
+ "id": 123,
+ "name": "Nepal",
+ "capital": "Kathmandu", 
+ "isoAlpha3": "NPL",
+ "population": 29136808,
+ "gasolinePrice": 1.01		
+},
+{
+ "id": 124,
+ "name": "Netherlands",
+ "capital": "Amsterdam", 
+ "isoAlpha3": "NLD",
+ "population": 17134872,
+ "gasolinePrice": 2.10		
+},
+{
+ "id": 125,
+ "name": "New Zealand",
+ "capital": "Wellington", 
+ "isoAlpha3": "NZL",
+ "population": 	4822233,
+ "gasolinePrice": 1.64		
+},
+{
+ "id": 126,
+ "name": "Nicaragua",
+ "capital": "Managua", 
+ "isoAlpha3": "NIC",
+ "population": 6624554,
+ "gasolinePrice": 1.07		
+},
+{
+ "id": 127,
+ "name": "Niger",
+ "capital": "Niamey", 
+ "isoAlpha3": "NER",
+ "population": 24206644,
+ "gasolinePrice": 1.01		
+},
+{
+ "id": 128,
+ "name": "Nigeria",
+ "capital": "Abuja", 
+ "isoAlpha3": "NGA",
+ "population": 206139589,
+ "gasolinePrice": 0.42		
+},
+{
+ "id": 129,
+ "name": "North Korea",
+ "capital": "Pyongyang", 
+ "isoAlpha3": "PRK",
+ "population": 25778816,
+ "gasolinePrice": 0		
+},
+{
+ "id": 130,
+ "name": "North Macedonia",
+ "capital": "Skopje", 
+ "isoAlpha3": "MKD",
+ "population": 2083374,
+ "gasolinePrice": 1.31		
+},
+{
+ "id": 131,
+ "name": "Northern Ireland",
+ "capital": "Belfast", 
+ "population": 1810863,
+ "gasolinePrice": 1.73		
+},
+{
+ "id": 132,
+ "name": "Norway",
+ "capital": "Oslo", 
+ "isoAlpha3": "NOR",
+ "population": 5421241,
+ "gasolinePrice": 2.05		
+},
+{
+ "id": 133,
+ "name": "Oman",
+ "capital": "Muscat", 
+ "isoAlpha3": "OMN",
+ "population": 5106626,
+ "gasolinePrice": 0.56		
+},
+{
+ "id": 134,
+ "name": "Pakistan",
+ "capital": "Islamabad", 
+ "isoAlpha3": "PAK",
+ "population": 220892340,
+ "gasolinePrice": 0.70		
+},
+{
+ "id": 135,
+ "name": "Palau",
+ "capital": "Melekeok", 
+ "isoAlpha3": "PLW",
+ "population":	18094,
+ "gasolinePrice": 1.33		
+},
+{
+ "id": 136,
+ "name": "Palestine State",
+ "capital": "Jerusalem", 
+ "isoAlpha3": "PSE",
+ "population": 5101414,
+ "gasolinePrice": 1.54		
+},
+{
+ "id": 137,
+ "name": "Panama",
+ "capital": "Panama City", 
+ "isoAlpha3": "PAN",
+ "population": 4314767,
+ "gasolinePrice": 0.85		
+},
+{
+ "id": 138,
+ "name": "Papua New Guinea",
+ "capital": "Port Moresby", 
+ "isoAlpha3": "PNG",
+ "population": 8947024,
+ "gasolinePrice": 1.08		
+},
+{
+ "id": 139,
+ "name": "Paraguay",
+ "capital": "Asuncion", 
+ "isoAlpha3": "PRY",
+ "population": 7132538,
+ "gasolinePrice": 0.99		
+},
+{
+ "id": 140,
+ "name": "Peru",
+ "capital": "Lima", 
+ "isoAlpha3": "PER",
+ "population": 32971854,
+ "gasolinePrice": 0.99		
+},
+{
+ "id": 141,
+ "name": "Philippines",
+ "capital": "Manila", 
+ "isoAlpha3": "PHL",
+ "population": 109581078,
+ "gasolinePrice": 1.05		
+},
+{
+ "id": 142,
+ "name": "Poland",
+ "capital": "Warsaw", 
+ "isoAlpha3": "POL",
+ "population": 37846611,
+ "gasolinePrice": 1.39		
+},
+{
+ "id": 143,
+ "name": "Portugal",
+ "capital": "Lisbon", 
+ "isoAlpha3": "PRT",
+ "population": 10196709,
+ "gasolinePrice": 1.90		
+},
+{
+ "id": 144,
+ "name": "Qatar",
+ "capital": "Doha", 
+ "isoAlpha3": "QAT",
+ "population": 2881053,
+ "gasolinePrice": 0.50		
+},
+{
+ "id": 145,
+ "name": "Romania",
+ "capital": "Bucharest", 
+ "isoAlpha3": "ROU",
+ "population": 19237691,
+ "gasolinePrice": 1.33		
+},
+{
+ "id": 146,
+ "name": "Russia",
+ "capital": "Moscow", 
+ "isoAlpha3": "RUS",
+ "population": 	145934462,
+ "gasolinePrice": 0.46		
+},
+{
+ "id": 147,
+ "name": "Rwanda",
+ "capital": "Kigali", 
+ "isoAlpha3": "RWA",
+ "population": 12952218,
+ "gasolinePrice": 0.65		
+},
+{
+ "id": 148,
+ "name": "Saint Kitts and Nevis",
+ "capital": "Basseterre", 
+ "isoAlpha3": "KNA",
+ "population": 53199,
+ "gasolinePrice": 2.44		
+},
+{
+ "id": 149,
+ "name": "Saint Lucia",
+ "capital": "Castries", 
+ "isoAlpha3": "LCA",
+ "population": 183627,
+ "gasolinePrice": 1.09		
+},
+{
+ "id": 150,
+ "name": "Saint Vincent and the Grenadines",
+ "capital": "Kingstown", 
+ "isoAlpha3": "VCT",
+ "population": 110940,
+ "gasolinePrice": 3.60		
+},
+{
+ "id": 151,
+ "name": "Samoa",
+ "capital": "Apia", 
+ "isoAlpha3": "WSM",
+ "population": 198414,
+ "gasolinePrice": 1.05		
+},
+{
+ "id": 152,
+ "name": "San Marino",
+ "capital": "San Marino", 
+ "isoAlpha3": "SMR",
+ "population": 	33931,
+ "gasolinePrice": 1.76		
+},
+{
+ "id": 153,
+ "name": "Sao Tome and Principe",
+ "capital": "Sao Tome", 
+ "isoAlpha3": "STP",
+ "population": 	219159,
+ "gasolinePrice": 1.18		
+},
+{
+ "id": 154,
+ "name": "Saudi Arabia",
+ "capital": "Riyadh", 
+ "isoAlpha3": "SAU",
+ "population": 34813871,
+ "gasolinePrice": 0.56		
+},
+{
+ "id": 155,
+ "name": "Scotland",
+ "capital": "Edinburgh", 
+ "population": 5463300,
+ "gasolinePrice": 1.71		
+},
+{
+ "id": 156,
+ "name": "Senegal",
+ "capital": "Dakar", 
+ "isoAlpha3": "SEN",
+ "population": 	16743927,
+ "gasolinePrice": 1.42		
+},
+{
+ "id": 157,
+ "name": "Serbia",
+ "capital": "Belgrade", 
+ "isoAlpha3": "SRB",
+ "population": 8737371,
+ "gasolinePrice": 1.55		
+},
+{
+ "id": 158,
+ "name": "Seychelles",
+ "capital": "Victoria", 
+ "isoAlpha3": "SYC",
+ "population": 	98347,
+ "gasolinePrice": 1.46		
+},
+{
+ "id": 159,
+ "name": "Sierra Leone",
+ "capital": "Freetown", 
+ "isoAlpha3": "SLE",
+ "population": 7976983,
+ "gasolinePrice": 0.83		
+},
+{
+ "id": 160,
+ "name": "Singapore",
+ "capital": "Singapore", 
+ "isoAlpha3": "SGP",
+ "population": 	5850342,
+ "gasolinePrice": 1.73		
+},
+{
+ "id": 161,
+ "name": "Slovakia",
+ "capital": "Bratislava", 
+ "isoAlpha3": "SVK",
+ "population": 	5459642,
+ "gasolinePrice": 1.35		
+},
+{
+ "id": 162,
+ "name": "Slovenia",
+ "capital": "Ljubljana", 
+ "isoAlpha3": "SVN",
+ "population": 	2078938,
+ "gasolinePrice": 1.40		
+},
+{
+ "id": 163,
+ "name": "Solomon Islands",
+ "capital": "Honiara", 
+ "isoAlpha3": "SLB",
+ "population": 	686884,
+ "gasolinePrice": 1.08		
+},
+{
+ "id": 164,
+ "name": "Somalia",
+ "capital": "Mogadishu", 
+ "isoAlpha3": "SOM",
+ "population": 	15893222,
+ "gasolinePrice": 0.86		
+},
+{
+ "id": 165,
+ "name": "South Africa",
+ "capital": "Pretoria", 
+ "isoAlpha3": "ZAF",
+ "population": 	59308690,
+ "gasolinePrice": 1.19		
+},
+{
+ "id": 166,
+ "name": "South Korea",
+ "capital": "Seoul", 
+ "isoAlpha3": "KOR",
+ "population": 	51269185,
+ "gasolinePrice": 1.36		
+},
+{
+ "id": 167,
+ "name": "South Sudan",
+ "capital": "Juba", 
+ "isoAlpha3": "SSD",
+ "population": 	11193725,
+ "gasolinePrice": 1.70		
+},
+{
+ "id": 168,
+ "name": "Spain",
+ "capital": "Madrid", 
+ "isoAlpha3": "ESP",
+ "population":	46754778,
+ "gasolinePrice": 1.59		
+},
+{
+ "id": 169,
+ "name": "Sri Lanka",
+ "capital": "Colombo", 
+ "isoAlpha3": "LKA",
+ "population": 21413249,
+ "gasolinePrice": 0.82		
+},
+{
+ "id": 170,
+ "name": "Sudan",
+ "capital": "Khartoum", 
+ "isoAlpha3": "SDN",
+ "population": 43849260,
+ "gasolinePrice": 0.53		
+},
+{
+ "id": 171,
+ "name": "Sweden",
+ "capital": "Stockholm", 
+ "isoAlpha3": "SWE",
+ "population": 10099265,
+ "gasolinePrice": 1.86		
+},
+{
+ "id": 172,
+ "name": "Switzerland",
+ "capital": "Bern", 
+ "isoAlpha3": "CHE",
+ "population": 	8654622,
+ "gasolinePrice": 1.68		
+},
+{
+ "id": 173,
+ "name": "Syria",
+ "capital": "Damascus", 
+ "isoAlpha3": "SYR",
+ "population": 	17500658,
+ "gasolinePrice":  1.45		
+},
+{
+ "id": 174,
+ "name": "Taiwan",
+ "capital": "Taipei", 
+ "isoAlpha3": "TWN",
+ "population": 	23816775,
+ "gasolinePrice": 1		
+},
+{
+ "id": 175,
+ "name": "Tajikistan",
+ "capital": "Dushanbe", 
+ "isoAlpha3": "TJK",
+ "population": 	9537645,
+ "gasolinePrice": 0.69		
+},
+{
+ "id": 176,
+ "name": "Tanzania",
+ "capital": "Dodoma", 
+ "isoAlpha3": "TZA",
+ "population": 	59734218,
+ "gasolinePrice": 0.91		
+},
+{
+ "id": 177,
+ "name": "Thailand",
+ "capital": "Bangkok", 
+ "isoAlpha3": "THA",
+ "population": 69799978,
+ "gasolinePrice": 1.11		
+},
+{
+ "id": 178,
+ "name": "Togo",
+ "capital": "Lome", 
+ "isoAlpha3": "TGO",
+ "population": 	8278724,
+ "gasolinePrice": 0.78		
+},
+{
+ "id": 179,
+ "name": "Tonga",
+ "capital": "Nuku'alofa", 
+ "isoAlpha3": "TON",
+ "population": 	105695,
+ "gasolinePrice": 1.04		
+},
+{
+ "id": 180,
+ "name": "Trinidad and Tobago",
+ "capital": "Port of Spain", 
+ "isoAlpha3": "TTO",
+ "population": 	1399488,
+ "gasolinePrice": 0.76		
+},
+{
+ "id": 181,
+ "name": "Tunisia",
+ "capital": "Tunis", 
+ "isoAlpha3": "TUN",
+ "population": 	11818619,
+ "gasolinePrice": 0.76		
+},
+{
+ "id": 182,
+ "name": "Turkey",
+ "capital": "Ankara", 
+ "isoAlpha3": "TUR",
+ "population":	84339067,
+ "gasolinePrice": 0.86		
+},
+{
+ "id": 183,
+ "name": "Turkmenistan",
+ "capital": "Ashgabat", 
+ "isoAlpha3": "TKM",
+ "population": 	6031200,
+ "gasolinePrice": 0.42		
+},
+{
+ "id": 184,
+ "name": "Tuvalu",
+ "capital": "Funafuti", 
+ "isoAlpha3": "TUV",
+ "population": 	11792,
+ "gasolinePrice": 0		
+},
+{
+ "id": 185,
+ "name": "Uganda",
+ "capital": "Kampala", 
+ "isoAlpha3": "UGA",
+ "population": 	45741007,
+ "gasolinePrice": 1.15		
+},
+{
+ "id": 186,
+ "name": "Ukraine",
+ "capital": "Kiev", 
+ "isoAlpha3": "UKR",
+ "population": 	43733762,
+ "gasolinePrice": 1.02		
+},
+{
+ "id": 187,
+ "name": "United Arab Emirates",
+ "capital": "Abu Dhabi", 
+ "isoAlpha3": "ARE",
+ "population": 	9890402,
+ "gasolinePrice": 0.59		
+},
+{
+ "id": 188,
+ "name": "United States",
+ "capital": "Washington D.C.", 
+ "isoAlpha3": "USA",
+ "population": 	331002651	,
+ "gasolinePrice": 0.85		
+},
+{
+ "id": 189,
+ "name": "Uruguay",
+ "capital": "Montevideo", 
+ "isoAlpha3": "URY",
+ "population": 	3473730,
+ "gasolinePrice": 1.32		
+},
+{
+ "id": 190,
+ "name": "Uzbekistan",
+ "capital": "Tashkent", 
+ "isoAlpha3": "UZB",
+ "population": 	33469203,
+ "gasolinePrice": 0.67		
+},
+{
+ "id": 191,
+ "name": "Vanuatu",
+ "capital": "Port Vila", 
+ "isoAlpha3": "VUT",
+ "population": 	307145,
+ "gasolinePrice": 1.46		
+},
+{
+ "id": 192,
+ "name": "Vatican City",
+ "capital": "Vatican City", 
+ "isoAlpha3": "VAT",
+ "population": 	825,
+ "gasolinePrice": 0	
+},
+{
+ "id": 193,
+ "name": "Venezuela",
+ "capital": "Caracas", 
+ "isoAlpha3": "VEN",
+ "population": 	28435940,
+ "gasolinePrice": 0.02		
+},
+{
+ "id": 194,
+ "name": "Vietnam",
+ "capital": "Hanoi", 
+ "isoAlpha3": "VNM",
+ "population": 	97338579,
+ "gasolinePrice": 0.83		
+},
+{
+ "id": 195,
+ "name": "Wales",
+ "capital": "Cardiff", 
+ "population": 	3063456,
+ "gasolinePrice": 1.70		
+},
+{
+ "id": 196,
+ "name": "Yemen",
+ "capital": "Sana'a", 
+ "isoAlpha3": "YEM",
+ "population": 	29825964,
+ "gasolinePrice": 1.51		
+},
+{
+ "id": 197,
+ "name": "Zambia",
+ "capital": "Lusaka", 
+ "isoAlpha3": "ZMB",
+ "population": 	18383955,
+ "gasolinePrice": 0.97		
+},
+{
+ "id": 198,
+ "name": "Zimbabwe",
+ "capital": "Harare", 
+ "isoAlpha3": "ZWE",
+ "population": 	14862924,
+ "gasolinePrice": 1.35	
+}
+ ]
+}
