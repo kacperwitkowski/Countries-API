@@ -6,7 +6,8 @@
 "capital":"Kabul",
  "isoAlpha3": "AFG",
  "population": 38928346,
- "gasolinePrice": 0.45	
+ "gasolinePrice": 0.45,
+ "img": "https://flagpedia.net/data/flags/w580/af.png"	
 },
 {
  "id": 1,
@@ -14,7 +15,8 @@
 "capital": "Tirana",
  "isoAlpha3": "ALB",
  "population": 2877797,
- "gasolinePrice": 1.44		
+ "gasolinePrice": 1.44,
+ "img": "https://flagpedia.net/data/flags/w580/al.png"		
 },
 {
  "id": 2,
@@ -22,7 +24,8 @@
 "capital": "Algiers",
  "isoAlpha3": "DZA",
  "population": 43851044,
- "gasolinePrice": 0.35		
+ "gasolinePrice": 0.35,
+ "img": "https://flagpedia.net/data/flags/w580/dz.png"		
 },
 {
  "id": 3,
@@ -30,7 +33,8 @@
 "capital": "Andorra la Vella",
  "isoAlpha3": "AND",
  "population": 77265,
- "gasolinePrice": 1.36	
+ "gasolinePrice": 1.36,
+ "img": "https://flagpedia.net/data/flags/w580/ad.png"	
 },
 {
  "id": 4,
@@ -38,7 +42,8 @@
 "capital": "Luanda",
  "isoAlpha3": "AGO",
  "population": 32866272,
- "gasolinePrice": 0.28		
+ "gasolinePrice": 0.28,
+ "img": "https://flagpedia.net/data/flags/w580/ao.png"
 },
 {
  "id": 5,
@@ -46,7 +51,8 @@
 "capital": "Saint John's",
  "isoAlpha3": "ATG",
  "population": 97929,
- "gasolinePrice": 1.10	
+ "gasolinePrice": 1.10,
+ "img": "https://flagpedia.net/data/flags/w580/ag.png"	
 },
 {
  "id": 6,
@@ -54,15 +60,17 @@
 "capital": "Buenos Aires",
  "isoAlpha3": "ARG",
  "population": 45195774,
- "gasolinePrice": 0.92		
+ "gasolinePrice": 0.92,
+ "img": "https://flagpedia.net/argentina"		
 },
 {
  "id": 7,
  "name": "Armenia", 
 "capital": "Yerevan",
  "isoAlpha3": "ARM",
- "population": 2963243	,
- "gasolinePrice": 0.78		
+ "population": 2963243,
+ "gasolinePrice": 0.78,
+"img": "https://flagpedia.net/data/flags/w580/am.png"
 },
 {
  "id": 8,
@@ -70,7 +78,8 @@
 "capital": "Canberra",
  "isoAlpha3": "AUS",
  "population": 25499884,
- "gasolinePrice": 	1.08		
+ "gasolinePrice": 	1.08,
+ "img": "https://flagpedia.net/data/flags/w580/au.png"		
 },
 {
  "id": 9,
@@ -78,7 +87,8 @@
 "capital": "Vienna",
  "isoAlpha3": "AUT",
  "population": 9006398,
- "gasolinePrice": 1.53		
+ "gasolinePrice": 1.53,
+ "img": "https://flagpedia.net/data/flags/w580/at.png"		
 },
 {
  "id": 10,
@@ -86,7 +96,8 @@
 "capital": "Baku",
  "isoAlpha3": "AZE",
  "population": 10139177,
- "gasolinePrice": 0.59		
+ "gasolinePrice": 0.59,
+ "img": "https://flagpedia.net/data/flags/w580/az.png"		
 },
 {
  "id": 11,
@@ -94,7 +105,8 @@
  "capital": "Nassau",
  "isoAlpha3": "BHS",
  "population": 393244,
- "gasolinePrice": 1.39		
+ "gasolinePrice": 1.39,
+ "img": "https://flagpedia.net/data/flags/w580/bs.png"		
 },
 {
  "id": 12,
@@ -102,7 +114,8 @@
 "capital": "Manama",
  "isoAlpha3": "BHR",
  "population": 1701575,
- "gasolinePrice": 0.37		
+ "gasolinePrice": 0.37,
+ "img": "https://flagpedia.net/data/flags/w580/bh.png"		
 },
 {
  "id": 13,
@@ -110,7 +123,8 @@
 "capital": "Dhaka",
  "isoAlpha3": "BGD",
  "population": 164689383,
- "gasolinePrice": 1.1		
+ "gasolinePrice": 1.1,
+ "img": "https://flagpedia.net/data/flags/w580/bd.png"		
 },
 {
  "id": 14,
@@ -118,7 +132,8 @@
 "capital": "Bridgetown",
  "isoAlpha3": "BRB",
  "population": 287375,
- "gasolinePrice": 1.87		
+ "gasolinePrice": 1.87,
+ "img": "https://flagpedia.net/data/flags/w580/bb.png"		
 },
 {
  "id": 15,
@@ -126,7 +141,8 @@
  "capital": "Minsk",
  "isoAlpha3": "BLR",
  "population": 	9449323,
- "gasolinePrice": 0.75		
+ "gasolinePrice": 0.75,
+ "img": "https://flagpedia.net/data/flags/w580/by.png"		
 },
 {
  "id": 16,
@@ -134,7 +150,8 @@
  "capital": "Brussels", 
  "isoAlpha3": "BEL",
  "population": 11589623,
- "gasolinePrice": 1.87		
+ "gasolinePrice": 1.87,
+ "img": "https://flagpedia.net/data/flags/w580/be.png"		
 },
 {
  "id": 17,
@@ -142,7 +159,8 @@
  "capital": "Belmopan", 
  "isoAlpha3": "BLZ",
  "population": 397628,
- "gasolinePrice": 1.52		
+ "gasolinePrice": 1.52,
+ "img": "https://flagpedia.net/data/flags/w580/bz.png"		
 },
 {
  "id": 18,
@@ -150,7 +168,8 @@
 "capital": "Porto Novo",
  "isoAlpha3": "BEN",
  "population": 12123200,
- "gasolinePrice": 0.93		
+ "gasolinePrice": 0.93,
+ "img": "https://flagpedia.net/data/flags/w580/bj.png"		
 },
 {
  "id": 19,
@@ -158,7 +177,8 @@
 "capital": "Thimphu",
  "isoAlpha3": "BTN",
  "population": 771608,
- "gasolinePrice": 0.92		
+ "gasolinePrice": 0.92,
+ "img": "https://flagpedia.net/data/flags/w580/bt.png"		
 },
 {
  "id": 20,
@@ -166,7 +186,8 @@
 "capital": "La Paz",
  "isoAlpha3": "BOL",
  "population": 11673021,
- "gasolinePrice": 0.54		
+ "gasolinePrice": 0.54,
+ "img": "https://flagpedia.net/data/flags/w580/bo.png"		
 },
 {
  "id": 21,
@@ -174,7 +195,8 @@
 "capital": "Sarajevo",
  "isoAlpha3": "BIH",
  "population": 3280819,
- "gasolinePrice": 1.31		
+ "gasolinePrice": 1.31,
+ "img": "https://flagpedia.net/data/flags/w580/ba.png"		
 },
 {
  "id": 22,
@@ -182,7 +204,8 @@
 "capital": "Gaborone",
  "isoAlpha3": "BWA",
  "population": 2351627,
- "gasolinePrice": 0.90		
+ "gasolinePrice": 0.90,
+ "img": "https://flagpedia.net/data/flags/w580/bw.png"		
 },
 {
  "id": 23,
@@ -190,7 +213,8 @@
 "capital": "Brasilia",
  "isoAlpha3": "BRA",
  "population": 212559417,
- "gasolinePrice": 0.97		
+ "gasolinePrice": 0.97,
+ "img": "https://flagpedia.net/data/flags/w580/br.png"		
 },
 {
  "id": 24,
@@ -198,7 +222,8 @@
 "capital": "Bandar Seri Begawan",
  "isoAlpha3": "BRN",
  "population": 437479,
- "gasolinePrice": 0.40		
+ "gasolinePrice": 0.40,
+ "img": "https://flagpedia.net/data/flags/w580/bn.png"		
 },
 {
  "id": 25,
@@ -206,7 +231,8 @@
 "capital": "Sofia",
  "isoAlpha3": "BGR",
  "population": 6948445,
- "gasolinePrice": 1.3		
+ "gasolinePrice": 1.3,
+ "img": "https://flagpedia.net/data/flags/w580/bg.png"		
 },
 {
  "id": 26,
@@ -214,7 +240,8 @@
 "capital": "Ouagadougou",
  "isoAlpha3": "BFA",
  "population": 20903273,
- "gasolinePrice": 1.14		
+ "gasolinePrice": 1.14,
+ "img": "https://flagpedia.net/data/flags/w580/bf.png"		
 },
 {
  "id": 27,
@@ -222,7 +249,8 @@
 "capital": "Gitega",
  "isoAlpha3": "BDI",
  "population": 11890784,
- "gasolinePrice": 1.23		
+ "gasolinePrice": 1.23,
+ "img": "https://flagpedia.net/data/flags/w580/bi.png"		
 },
 {
  "id": 28,
@@ -230,7 +258,8 @@
 "capital": "Phnom Penh",
  "isoAlpha3": "KHM",
  "population": 16718965,
- "gasolinePrice": 0.92
+ "gasolinePrice": 0.92,
+ "img": "https://flagpedia.net/data/flags/w580/kh.png"
 },
 {
  "id": 29,
@@ -238,7 +267,8 @@
 "capital": "Yaounde",
  "isoAlpha3": "CMR",
  "population": 26545863,
- "gasolinePrice": 1.16		
+ "gasolinePrice": 1.16,
+ "img": "https://flagpedia.net/data/flags/w580/cm.png"		
 },
 {
  "id": 30,
@@ -246,7 +276,8 @@
  "capital": "Ottawa", 
  "isoAlpha3": "CAN",
  "population": 37742154,
- "gasolinePrice": 0.99	
+ "gasolinePrice": 0.99,
+ "img": "https://flagpedia.net/data/flags/w580/ca.png"	
 },
 {
  "id": 31,
@@ -254,7 +285,8 @@
  "capital": "Praia", 
  "isoAlpha3": "CPV",
  "population": 555987,
- "gasolinePrice": 1.32		
+ "gasolinePrice": 1.32,
+ "img": "https://flagpedia.net/data/flags/w580/cv.png"		
 },
 {
  "id": 32,
@@ -262,7 +294,8 @@
  "capital": "Bangui", 
  "isoAlpha3": "CAF",
  "population": 4829767,
- "gasolinePrice": 2		
+ "gasolinePrice": 2,
+"img": "https://flagpedia.net/data/flags/w580/cf.png"
 },
 {
  "id": 33,
@@ -270,7 +303,8 @@
  "capital": "N'Djamena", 
  "isoAlpha3": "TCD",
  "population": 16425864,
- "gasolinePrice": 0.95		
+ "gasolinePrice": 0.95,
+ "img": "https://flagpedia.net/data/flags/w580/td.png"		
 },
 {
  "id": 34,
@@ -278,7 +312,8 @@
  "capital": "Santiago", 
  "isoAlpha3": "CHL",
  "population": 19116201,
- "gasolinePrice": 1.14		
+ "gasolinePrice": 1.14,
+ "img": "https://flagpedia.net/data/flags/w580/cl.png"		
 },
 {
  "id": 35,
@@ -286,15 +321,18 @@
  "capital": "Beijing", 
  "isoAlpha3": "CHN",
  "population": 	1439323776,
- "gasolinePrice":	1	
+ "gasolinePrice": 1,
+ "img": "https://flagpedia.net/data/flags/w580/cn.png"	
 },
+
 {
  "id": 36,
  "name": "Colombia",
  "capital": "Bogota", 
  "isoAlpha3": "COL",
  "population": 50882891,
- "gasolinePrice": 0.63		
+ "gasolinePrice": 0.63,
+ "img": "https://flagpedia.net/data/flags/w580/co.png"		
 },
 {
  "id": 37,
@@ -302,7 +340,8 @@
  "capital": "Moroni", 
  "isoAlpha3": "COM",
  "population": 869601,
- "gasolinePrice": 0		
+ "gasolinePrice": 0,
+"img": "https://flagpedia.net/data/flags/w580/km.png"
 },
 {
  "id": 38,
@@ -310,7 +349,8 @@
  "capital": "Kinshasa", 
  "isoAlpha3": "COD",
  "population": 89561403,
- "gasolinePrice": 1		
+ "gasolinePrice": 1,
+"img": "https://flagpedia.net/data/flags/w580/cd.png"
 },
 {
  "id": 39,
@@ -318,7 +358,8 @@
  "capital": "Brazzaville", 
  "isoAlpha3": "COG",
  "population": 5518087,
- "gasolinePrice": 0.98		
+ "gasolinePrice": 0.98,
+ "img": "https://flagpedia.net/data/flags/w580/cg.png"		
 },
 {
  "id": 40,
@@ -326,7 +367,8 @@
  "capital": "San Jose", 
  "isoAlpha3": "CRI",
  "population": 5094118	,
- "gasolinePrice": 1.13		
+ "gasolinePrice": 1.13,
+ "img": "https://flagpedia.net/data/flags/w580/cr.png"		
 },
 {
  "id": 41,
@@ -334,7 +376,8 @@
  "capital": "Yamoussoukro", 
  "isoAlpha3": "CIV",
  "population": 26378274,
- "gasolinePrice": 1.10		
+ "gasolinePrice": 1.10,
+ "img": "https://flagpedia.net/data/flags/w580/ci.png"		
 },
 {
  "id": 42,
@@ -342,7 +385,8 @@
  "capital": "Zagreb", 
  "isoAlpha3": "HRV",
  "population": 4105267,
- "gasolinePrice": 1.60		
+ "gasolinePrice": 1.60,
+ "img": "https://flagpedia.net/data/flags/w580/hr.png"		
 },
 {
  "id": 43,
@@ -350,7 +394,8 @@
  "capital": "Havana", 
  "isoAlpha3": "CUB",
  "population": 	11326616,
- "gasolinePrice": 1.2		
+ "gasolinePrice": 1.2,
+ "img": "https://flagpedia.net/data/flags/w580/cu.png"	
 },
 {
  "id": 44,
@@ -358,7 +403,8 @@
  "capital": "Nicosia", 
  "isoAlpha3": "CYP",
  "population": 1207359,
- "gasolinePrice": 1.46		
+ "gasolinePrice": 1.46,
+ "img": "https://flagpedia.net/data/flags/w580/cy.png"		
 },
 {
  "id": 45,
@@ -366,7 +412,8 @@
  "capital": "Prague", 
  "isoAlpha3": "CZE",
  "population": 10708981,
- "gasolinePrice": 1.47		
+ "gasolinePrice": 1.47,
+ "img": "https://flagpedia.net/data/flags/w580/cz.png"		
 },
 {
  "id": 46,
@@ -374,7 +421,8 @@
  "capital": "Copenhagen", 
  "isoAlpha3": "DNK",
  "population": 5792202,
- "gasolinePrice": 1.92		
+ "gasolinePrice": 1.92,
+ "img": "https://flagpedia.net/data/flags/w580/dk.png"		
 },
 {
  "id": 47,
@@ -382,7 +430,8 @@
  "capital": "Djibouti", 
  "isoAlpha3": "DJI",
  "population": 988000,
- "gasolinePrice": 1.35		
+ "gasolinePrice": 1.35,
+ "img": "https://flagpedia.net/data/flags/w580/dj.png"		
 },
 {
  "id": 48,
@@ -390,7 +439,8 @@
  "capital": "Roseau", 
  "isoAlpha3": "DMA",
  "population": 71986,
- "gasolinePrice": 0.91		
+ "gasolinePrice": 0.91,
+ "img": "https://flagpedia.net/data/flags/w580/dm.png"		
 },
 {
  "id": 49,
@@ -398,7 +448,8 @@
  "capital": "Santo Domingo", 
  "isoAlpha3": "DOM",
  "population": 10847910,
- "gasolinePrice": 1.15		
+ "gasolinePrice": 1.15,
+ "img": "https://flagpedia.net/data/flags/w580/do.png"		
 },
 {
  "id": 50,
@@ -406,7 +457,8 @@
  "capital": "Dili", 
  "isoAlpha3": "TLS",
  "population": 1318445,
- "gasolinePrice": 1.02		
+ "gasolinePrice": 1.02,
+ "img": "https://flagpedia.net/data/flags/w580/tl.png"		
 },
 {
  "id": 51,
@@ -414,7 +466,8 @@
  "capital": "Quito", 
  "isoAlpha3": "ECU",
  "population": 17643054,
- "gasolinePrice": 0.50		
+ "gasolinePrice": 0.50,
+ "img": "https://flagpedia.net/data/flags/w580/ec.png"		
 },
 {
  "id": 52,
@@ -422,7 +475,8 @@
  "capital": "Cairo", 
  "isoAlpha3": "EGY",
  "population": 	102334404,
- "gasolinePrice": 0.56		
+ "gasolinePrice": 0.56,
+ "img": "https://flagpedia.net/data/flags/w580/eg.png"		
 },
 {
  "id": 53,
@@ -430,7 +484,8 @@
  "capital": "San Salvador", 
  "isoAlpha3": "SLV",
  "population": 6486205,
- "gasolinePrice": 0.95		
+ "gasolinePrice": 0.95,
+ "img": "https://flagpedia.net/data/flags/w580/sv.png"		
 },
 {
  "id": 54,
@@ -438,7 +493,8 @@
  "capital": "London", 
  "isoAlpha3": "GBR",
  "population": 68177756,
- "gasolinePrice": 1.77		
+ "gasolinePrice": 1.77,
+ "img": "https://flagpedia.net/data/flags/w580/gb.png"		
 },
 {
  "id": 55,
@@ -446,7 +502,8 @@
  "capital": "Malabo", 
  "isoAlpha3": "GNQ",
  "population": 1402985,
- "gasolinePrice": 0.98		
+ "gasolinePrice": 0.98,
+ "img": "https://flagpedia.net/data/flags/w580/gq.png"		
 },
 {
  "id": 56,
@@ -454,7 +511,8 @@
  "capital": "Asmara", 
  "isoAlpha3": "ERI",
  "population": 3546421,
- "gasolinePrice": 2.20		
+ "gasolinePrice": 2.20,
+ "img": "https://flagpedia.net/data/flags/w580/er.png"		
 },
 {
  "id": 57,
@@ -462,7 +520,8 @@
  "capital": "Tallinn", 
  "isoAlpha3": "EST",
  "population": 1326535,
- "gasolinePrice": 1.67	
+ "gasolinePrice": 1.67,
+ "img": "https://flagpedia.net/data/flags/w580/ee.png"	
 },
 {
  "id": 58,
@@ -470,7 +529,8 @@
  "capital": "Mbabana", 
  "isoAlpha3": "SWZ",
  "population": 1160164,
- "gasolinePrice": 1.12		
+ "gasolinePrice": 1.12,
+ "img": "https://flagpedia.net/data/flags/w580/sz.png"		
 },
 {
  "id": 59,
@@ -478,7 +538,8 @@
  "capital": "Addis Ababa", 
  "isoAlpha3": "ETH",
  "population": 114963588,
- "gasolinePrice": 0.51		
+ "gasolinePrice": 0.51,
+ "img": "https://flagpedia.net/data/flags/w580/et.png"		
 },
 {
  "id": 60,
@@ -486,7 +547,8 @@
  "capital": "Palikir", 
  "isoAlpha3": "FSM",
  "population": 548914,
- "gasolinePrice": 1.14		
+ "gasolinePrice": 1.14,
+ "img": "https://flagpedia.net/data/flags/w580/fm.png"		
 },
 {
  "id": 61,
@@ -494,7 +556,8 @@
  "capital": "Suva", 
  "isoAlpha3": "FJI",
  "population": 896445,
- "gasolinePrice": 1.10		
+ "gasolinePrice": 1.10,
+ "img": "https://flagpedia.net/data/flags/w580/fj.png"		
 },
 {
  "id": 62,
@@ -502,7 +565,8 @@
  "capital": "Helsinki", 
  "isoAlpha3": "FIN",
  "population": 5540720,
- "gasolinePrice": 1.96		
+ "gasolinePrice": 1.96,
+ "img": "https://flagpedia.net/data/flags/w580/fi.png"		
 },
 {
  "id": 63,
@@ -510,7 +574,8 @@
  "capital": "Paris", 
  "isoAlpha3": "FRA",
  "population": 65273511,
- "gasolinePrice": 1.83		
+ "gasolinePrice": 1.83,
+ "img": "https://flagpedia.net/data/flags/w580/fr.png"		
 },
 {
  "id": 64,
@@ -518,7 +583,8 @@
  "capital": "Libreville", 
  "isoAlpha3": "GAB",
  "population": 2225734,
- "gasolinePrice": 1.12		
+ "gasolinePrice": 1.12,
+ "img": "https://flagpedia.net/data/flags/w580/ga.png"		
 },
 {
  "id": 65,
@@ -526,7 +592,8 @@
  "capital": "Banjul", 
  "isoAlpha3": "GMB",
  "population": 2416668,
- "gasolinePrice": 1.03		
+ "gasolinePrice": 1.03,
+ "img": "https://flagpedia.net/data/flags/w580/gm.png"		
 },
 {
  "id": 66,
@@ -534,7 +601,8 @@
  "capital": "Tbilisi", 
  "isoAlpha3": "GEO",
  "population": 3989167,
- "gasolinePrice": 0.84		
+ "gasolinePrice": 0.84,
+ "img": "https://flagpedia.net/data/flags/w580/ge.png"		
 },
 {
  "id": 67,
@@ -542,7 +610,8 @@
  "capital": "Berlin", 
  "isoAlpha3": "DEU",
  "population": 83783942,
- "gasolinePrice": 1.76		
+ "gasolinePrice": 1.76,
+ "img": "https://flagpedia.net/data/flags/w580/de.png"		
 },
 {
  "id": 68,
@@ -550,7 +619,8 @@
  "capital": "Accra", 
  "isoAlpha3": "GHA",
  "population": 31072940,
- "gasolinePrice": 0.97		
+ "gasolinePrice": 0.97,
+ "img": "https://flagpedia.net/data/flags/w580/gh.png"		
 },
 {
  "id": 69,
@@ -558,7 +628,8 @@
  "capital": "Athens", 
  "isoAlpha3": "GRC",
  "population": 10423054,
- "gasolinePrice": 1.93		
+ "gasolinePrice": 1.93,
+ "img": "https://flagpedia.net/data/flags/w580/gr.png"		
 },
 {
  "id": 70,
@@ -566,7 +637,8 @@
  "capital": "Saint George's", 
  "isoAlpha3": "GRD",
  "population": 112523,
- "gasolinePrice": 1.29		
+ "gasolinePrice": 1.29,
+ "img": "https://flagpedia.net/data/flags/w580/gd.png"		
 },
 {
  "id": 71,
@@ -574,7 +646,8 @@
  "capital": "Guatemala City", 
  "isoAlpha3": "GTM",
  "population": 17915568,
- "gasolinePrice": 0.93		
+ "gasolinePrice": 0.93,
+ "img": "https://flagpedia.net/data/flags/w580/gt.png"		
 },
 {
  "id": 72,
@@ -582,7 +655,8 @@
  "capital": "Conakry", 
  "isoAlpha3": "GIN",
  "population": 13132795,
- "gasolinePrice": 0.91		
+ "gasolinePrice": 0.91,
+ "img": "https://flagpedia.net/data/flags/w580/gn.png"		
 },
 {
  "id": 73,
@@ -590,7 +664,8 @@
  "capital": "Bissau", 
  "isoAlpha3": "GNB",
  "population": 1968001,
- "gasolinePrice": 1.22		
+ "gasolinePrice": 1.22,
+ "img": "https://flagpedia.net/data/flags/w580/gw.png"		
 },
 {
  "id": 74,
@@ -598,7 +673,8 @@
  "capital": "Georgetown", 
  "isoAlpha3": "GUY",
  "population": 786552,
- "gasolinePrice": 0.93		
+ "gasolinePrice": 0.93,
+ "img": "https://flagpedia.net/data/flags/w580/gy.png"		
 },
 {
  "id": 75,
@@ -606,7 +682,8 @@
  "capital": "Port au Prince", 
  "isoAlpha3": "HTI",
  "population": 11402528,
- "gasolinePrice": 0.63		
+ "gasolinePrice": 0.63,
+ "img": "https://flagpedia.net/data/flags/w580/ht.png"		
 },
 {
  "id": 76,
@@ -614,7 +691,8 @@
  "capital": "Tegucigalpa", 
  "isoAlpha3": "HND",
  "population": 9904607,
- "gasolinePrice": 1.1		
+ "gasolinePrice": 1.1,
+ "img": "https://flagpedia.net/data/flags/w580/hn.png"	
 },
 {
  "id": 77,
@@ -622,7 +700,8 @@
  "capital": "Budapest", 
  "isoAlpha3": "HUN",
  "population": 9660351,
- "gasolinePrice": 1.41		
+ "gasolinePrice": 1.41,
+ "img": "https://flagpedia.net/data/flags/w580/hu.png"		
 },
 {
  "id": 78,
@@ -630,7 +709,8 @@
  "capital": "Reykjavik", 
  "isoAlpha3": "ISL",
  "population": 	341243,
- "gasolinePrice": 1.89		
+ "gasolinePrice": 1.89,
+ "img": "https://flagpedia.net/data/flags/w580/is.png"		
 },
 {
  "id": 79,
@@ -638,7 +718,8 @@
  "capital": "New Delhi", 
  "isoAlpha3": "IND",
  "population": 1380004385,
- "gasolinePrice": 1.24		
+ "gasolinePrice": 1.24,
+ "img": "https://flagpedia.net/data/flags/w580/in.png"		
 },
 {
  "id": 80,
@@ -646,7 +727,8 @@
  "capital": "Jakarta", 
  "isoAlpha3": "IDN",
  "population": 	273523615,
- "gasolinePrice": 0.74		
+ "gasolinePrice": 0.74,
+ "img": "https://flagpedia.net/data/flags/w580/id.png"		
 },
 {
  "id": 81,
@@ -654,7 +736,8 @@
  "capital": "Tehran", 
  "isoAlpha3": "IRN",
  "population": 83992949,
- "gasolinePrice": 0.06		
+ "gasolinePrice": 0.06,
+ "img": "https://flagpedia.net/data/flags/w580/ir.png"		
 },
 {
  "id": 82,
@@ -662,7 +745,8 @@
  "capital": "Baghdad", 
  "isoAlpha3": "IRQ",
  "population": 40222493,
- "gasolinePrice": 0.51		
+ "gasolinePrice": 0.51,
+ "img": "https://flagpedia.net/data/flags/w580/iq.png"		
 },
 {
  "id": 83,
@@ -670,7 +754,8 @@
  "capital": "Dublin", 
  "isoAlpha3": "IRL",
  "population": 4937786,
- "gasolinePrice": 1.77		
+ "gasolinePrice": 1.77,
+ "img": "https://flagpedia.net/data/flags/w580/ie.png"		
 },
 {
  "id": 84,
@@ -678,7 +763,8 @@
  "capital": "Jerusalem", 
  "isoAlpha3": "ISR",
  "population": 8655535,
- "gasolinePrice": 1.93		
+ "gasolinePrice": 1.93,
+ "img": "https://flagpedia.net/data/flags/w580/il.png"		
 },
 {
  "id": 85,
@@ -686,7 +772,8 @@
  "capital": "Rome", 
  "isoAlpha3": "ITA",
  "population": 60461826,
- "gasolinePrice": 1.90		
+ "gasolinePrice": 1.90,
+ "img": "https://flagpedia.net/data/flags/w580/it.png"		
 },
 {
  "id": 86,
@@ -694,7 +781,8 @@
  "capital": "Kingston", 
  "isoAlpha3": "JAM",
  "population": 2961167,
- "gasolinePrice": 1.12		
+ "gasolinePrice": 1.12,
+ "img": "https://flagpedia.net/data/flags/w580/jm.png"		
 },
 {
  "id": 87,
@@ -702,7 +790,8 @@
  "capital": "Tokyo", 
  "isoAlpha3": "JPN",
  "population": 126476461,
- "gasolinePrice": 1.35		
+ "gasolinePrice": 1.35,
+ "img": "https://flagpedia.net/data/flags/w580/jp.png"		
 },
 {
  "id": 88,
@@ -710,7 +799,8 @@
  "capital": "Amman", 
  "isoAlpha3": "JOR",
  "population": 10203134,
- "gasolinePrice": 1.38		
+ "gasolinePrice": 1.38,
+ "img": "https://flagpedia.net/data/flags/w580/jo.png"		
 },
 {
  "id": 89,
@@ -718,7 +808,8 @@
  "capital": "Nur-Sultan", 
  "isoAlpha3": "KAZ",
  "population": 18776707,
- "gasolinePrice": 0.41		
+ "gasolinePrice": 0.41,
+ "img": "https://flagpedia.net/data/flags/w580/kz.png"		
 },
 {
  "id": 90,
@@ -726,7 +817,8 @@
  "capital": "Nairobi", 
  "isoAlpha3": "KEN",
  "population": 53771296,
- "gasolinePrice": 1.15		
+ "gasolinePrice": 1.15,
+ "img": "https://flagpedia.net/data/flags/w580/ke.png"		
 },
 {
  "id": 91,
@@ -734,7 +826,8 @@
  "capital": "Tarawa Atoll", 
  "isoAlpha3": "KIR",
  "population": 119449,
- "gasolinePrice": 0		
+ "gasolinePrice": 0,
+"img": "https://flagpedia.net/data/flags/w580/ki.png"
 },
 {
  "id": 92,
@@ -742,7 +835,8 @@
  "capital": "Pristina", 
  "isoAlpha3": "XKX",
  "population": 1812473,
- "gasolinePrice": 1.27		
+ "gasolinePrice": 1.27,
+ "img": "https://flagpedia.net/data/flags/w580/xk.png"		
 },
 {
  "id": 93,
@@ -750,7 +844,8 @@
  "capital": "Kuwait City", 
  "isoAlpha3": "KWT",
  "population": 4270571,
- "gasolinePrice": 0.35		
+ "gasolinePrice": 0.35,
+ "img": "https://flagpedia.net/data/flags/w580/kw.png"		
 },
 {
  "id": 94,
@@ -758,7 +853,8 @@
  "capital": "Bishkek", 
  "isoAlpha3": "KGZ",
  "population": 6524195,
- "gasolinePrice": 0.60		
+ "gasolinePrice": 0.60,
+ "img": "https://flagpedia.net/data/flags/w580/kg.png"		
 },
 {
  "id": 95,
@@ -766,7 +862,8 @@
  "capital": "Vientiane", 
  "isoAlpha3": "LAO",
  "population": 7275560,
- "gasolinePrice": 1		
+ "gasolinePrice": 1,
+"img": "https://flagpedia.net/data/flags/w580/la.png"
 },
 {
  "id": 96,
@@ -774,7 +871,8 @@
  "capital": "Riga", 
  "isoAlpha3": "LVA",
  "population": 1886198,
- "gasolinePrice": 1.55		
+ "gasolinePrice": 1.55,
+ "img": "https://flagpedia.net/data/flags/w580/lv.png"		
 },
 {
  "id": 97,
@@ -782,7 +880,8 @@
  "capital": "Beirut", 
  "isoAlpha3": "LBN",
  "population": 6825445,
- "gasolinePrice": 1.27		
+ "gasolinePrice": 1.27,
+ "img": "https://flagpedia.net/data/flags/w580/lb.png"		
 },
 {
  "id": 98,
@@ -790,7 +889,8 @@
  "capital": "Maseru", 
  "isoAlpha3": "LSO",
  "population": 2142249,
- "gasolinePrice": 0.96		
+ "gasolinePrice": 0.96,
+ "img": "https://flagpedia.net/data/flags/w580/ls.png"		
 },
 {
  "id": 99,
@@ -798,7 +898,8 @@
  "capital": "Monrovia", 
  "isoAlpha3": "LBR",
  "population": 5057681,
- "gasolinePrice": 0.76		
+ "gasolinePrice": 0.76,
+ "img": "https://flagpedia.net/data/flags/w580/lr.png"		
 },
 {
  "id": 100,
@@ -806,7 +907,8 @@
  "capital": "Tripoli", 
  "isoAlpha3": "LBY",
  "population": 6871292,
- "gasolinePrice": 0		
+ "gasolinePrice": 0,
+"img": "https://flagpedia.net/data/flags/w580/ly.png"
 },
 {
  "id": 101,
@@ -814,7 +916,8 @@
  "capital": "Vaduz", 
  "isoAlpha3": "LIE",
  "population": 38128,
- "gasolinePrice": 1.74		
+ "gasolinePrice": 1.74,
+ "img": "https://flagpedia.net/data/flags/w580/li.png"		
 },
 {
  "id": 102,
@@ -822,7 +925,8 @@
  "capital": "Vilnius", 
  "isoAlpha3": "LTU",
  "population": 2722289,
- "gasolinePrice": 1.4		
+ "gasolinePrice": 1.4,
+ "img": "https://flagpedia.net/data/flags/w580/lt.png"	
 },
 {
  "id": 103,
@@ -830,7 +934,8 @@
  "capital": "Luxembourg", 
  "isoAlpha3": "LUX",
  "population": 	625978,
- "gasolinePrice": 1.54		
+ "gasolinePrice": 1.54,
+ "img": "https://flagpedia.net/data/flags/w580/lu.png"		
 },
 {
  "id": 104,
@@ -838,7 +943,8 @@
  "capital": "Antananarivo", 
  "isoAlpha3": "MDG",
  "population": 27691018,
- "gasolinePrice": 1.1		
+ "gasolinePrice": 1.1	,
+ "img": "https://flagpedia.net/data/flags/w580/mg.png"	
 },
 {
  "id": 105,
@@ -846,7 +952,8 @@
  "capital": "Lilongwe", 
  "isoAlpha3": "MWI",
  "population": 19129952,
- "gasolinePrice": 1.13		
+ "gasolinePrice": 1.13,
+ "img": "https://flagpedia.net/data/flags/w580/mw.png"		
 },
 {
  "id": 106,
@@ -854,7 +961,8 @@
  "capital": "Kuala Lumpur", 
  "isoAlpha3": "MYS",
  "population": 	32365999,
- "gasolinePrice": 0.50		
+ "gasolinePrice": 0.50,
+ "img": "https://flagpedia.net/data/flags/w580/my.png"		
 },
 {
  "id": 107,
@@ -862,7 +970,8 @@
  "capital": "Male", 
  "isoAlpha3": "MDV",
  "population": 540544,
- "gasolinePrice": 0.76		
+ "gasolinePrice": 0.76,
+ "img": "https://flagpedia.net/data/flags/w580/mv.png"		
 },
 {
  "id": 108,
@@ -870,7 +979,8 @@
  "capital": "Bamako", 
  "isoAlpha3": "MLI",
  "population":	20250833,
- "gasolinePrice": 1.23		
+ "gasolinePrice": 1.23,
+ "img": "https://flagpedia.net/data/flags/w580/ml.png"		
 },
 {
  "id": 109,
@@ -878,7 +988,8 @@
  "capital": "Valletta", 
  "isoAlpha3": "MLT",
  "population": 	441543,
- "gasolinePrice": 1.61		
+ "gasolinePrice": 1.61,
+ "img": "https://flagpedia.net/data/flags/w580/mt.png"		
 },
 {
  "id": 110,
@@ -886,7 +997,8 @@
  "capital": "Majuro", 
  "isoAlpha3": "MHL",
  "population": 	59190,
- "gasolinePrice": 1.15		
+ "gasolinePrice": 1.15,
+ "img": "https://flagpedia.net/data/flags/w580/mh.png"		
 },
 {
  "id": 111,
@@ -894,7 +1006,8 @@
  "capital": "Nouakchott", 
  "isoAlpha3": "MRT",
  "population": 4649658,
- "gasolinePrice": 1.11		
+ "gasolinePrice": 1.11,
+ "img": "https://flagpedia.net/data/flags/w580/mr.png"		
 },
 {
  "id": 112,
@@ -902,7 +1015,8 @@
  "capital": "Port Louis", 
  "isoAlpha3": "MUS",
  "population": 1271768,
- "gasolinePrice": 1.2		
+ "gasolinePrice": 1.2,
+ "img": "https://flagpedia.net/data/flags/w580/mu.png"	
 },
 {
  "id": 113,
@@ -910,7 +1024,8 @@
  "capital": "Mexico City", 
  "isoAlpha3": "MEX",
  "population": 	128932753,
- "gasolinePrice": 1.19		
+ "gasolinePrice": 1.19,
+ "img": "https://flagpedia.net/data/flags/w580/mx.png"		
 },
 {
  "id": 114,
@@ -918,14 +1033,16 @@
  "capital": "Chisinau", 
  "isoAlpha3": "MDA",
  "population": 4033963,
- "gasolinePrice": 1.09		
+ "gasolinePrice": 1.09,
+ "img": "https://flagpedia.net/data/flags/w580/md.png"		
 },
 {
  "id": 115,
  "name": "Monaco",
  "capital": "Monaco", 
  "population": 39242,
- "gasolinePrice": 1.89		
+ "gasolinePrice": 1.89,
+ "img": "https://flagpedia.net/data/flags/w580/mc.png"		
 },
 {
  "id": 116,
@@ -933,7 +1050,8 @@
  "capital": "Ulaanbaatar", 
  "isoAlpha3": "MNG",
  "population": 3278290,
- "gasolinePrice": 0.69		
+ "gasolinePrice": 0.69,
+ "img": "https://flagpedia.net/data/flags/w580/mn.png"		
 },
 {
  "id": 117,
@@ -941,7 +1059,8 @@
  "capital": "Podgorica", 
  "isoAlpha3": "MNE",
  "population": 628066,
- "gasolinePrice": 1.56		
+ "gasolinePrice": 1.56,
+ "img": "https://flagpedia.net/data/flags/w580/me.png"		
 },
 {
  "id": 118,
@@ -949,7 +1068,8 @@
  "capital": "Rabat", 
  "isoAlpha3": "MAR",
  "population": 36910560,
- "gasolinePrice": 1.05		
+ "gasolinePrice": 1.05,
+ "img": "https://flagpedia.net/data/flags/w580/ma.png"		
 },
 {
  "id": 119,
@@ -957,7 +1077,8 @@
  "capital": "Maputo", 
  "isoAlpha3": "MOZ",
  "population": 31255435,
- "gasolinePrice": 1.1		
+ "gasolinePrice": 1.1,
+ "img": "https://flagpedia.net/data/flags/w580/mz.png"	
 },
 {
  "id": 120,
@@ -965,7 +1086,8 @@
  "capital": "Nay Pyi Taw", 
  "isoAlpha3": "MMR",
  "population": 54409800,
- "gasolinePrice": 0.70		
+ "gasolinePrice": 0.70,
+ "img": "https://flagpedia.net/data/flags/w580/mm.png"		
 },
 {
  "id": 121,
@@ -973,7 +1095,8 @@
  "capital": "Windhoek", 
  "isoAlpha3": "NAM",
  "population": 	2540905,
- "gasolinePrice": 0.88		
+ "gasolinePrice": 0.88,
+ "img": "https://flagpedia.net/data/flags/w580/na.png"		
 },
 {
  "id": 122,
@@ -981,7 +1104,8 @@
  "capital": "No official capital", 
  "isoAlpha3": "NRU",
  "population": 10824,
- "gasolinePrice": 0		
+ "gasolinePrice": 0,
+"img": "https://flagpedia.net/data/flags/w580/nr.png"
 },
 {
  "id": 123,
@@ -989,7 +1113,8 @@
  "capital": "Kathmandu", 
  "isoAlpha3": "NPL",
  "population": 29136808,
- "gasolinePrice": 1.01		
+ "gasolinePrice": 1.01,
+ "img": "https://flagpedia.net/data/flags/w580/np.png"		
 },
 {
  "id": 124,
@@ -997,7 +1122,8 @@
  "capital": "Amsterdam", 
  "isoAlpha3": "NLD",
  "population": 17134872,
- "gasolinePrice": 2.10		
+ "gasolinePrice": 2.10,
+ "img": "https://flagpedia.net/data/flags/w580/nl.png"		
 },
 {
  "id": 125,
@@ -1005,7 +1131,8 @@
  "capital": "Wellington", 
  "isoAlpha3": "NZL",
  "population": 	4822233,
- "gasolinePrice": 1.64		
+ "gasolinePrice": 1.64,
+ "img": "https://flagpedia.net/data/flags/w580/nz.png"		
 },
 {
  "id": 126,
@@ -1013,7 +1140,8 @@
  "capital": "Managua", 
  "isoAlpha3": "NIC",
  "population": 6624554,
- "gasolinePrice": 1.07		
+ "gasolinePrice": 1.07,
+ "img": "https://flagpedia.net/data/flags/w580/ni.png"		
 },
 {
  "id": 127,
@@ -1021,7 +1149,8 @@
  "capital": "Niamey", 
  "isoAlpha3": "NER",
  "population": 24206644,
- "gasolinePrice": 1.01		
+ "gasolinePrice": 1.01,
+ "img": "https://flagpedia.net/data/flags/w580/ne.png"		
 },
 {
  "id": 128,
@@ -1029,7 +1158,8 @@
  "capital": "Abuja", 
  "isoAlpha3": "NGA",
  "population": 206139589,
- "gasolinePrice": 0.42		
+ "gasolinePrice": 0.42,
+ "img": "https://flagpedia.net/data/flags/w580/ng.png"		
 },
 {
  "id": 129,
@@ -1037,7 +1167,8 @@
  "capital": "Pyongyang", 
  "isoAlpha3": "PRK",
  "population": 25778816,
- "gasolinePrice": 0		
+ "gasolinePrice": 0,
+"img": "https://flagpedia.net/data/flags/w580/kp.png"
 },
 {
  "id": 130,
@@ -1045,14 +1176,16 @@
  "capital": "Skopje", 
  "isoAlpha3": "MKD",
  "population": 2083374,
- "gasolinePrice": 1.31		
+ "gasolinePrice": 1.31,
+ "img": "https://flagpedia.net/data/flags/w580/mk.png"		
 },
 {
  "id": 131,
  "name": "Northern Ireland",
  "capital": "Belfast", 
  "population": 1810863,
- "gasolinePrice": 1.73		
+ "gasolinePrice": 1.73,
+ "img": "https://flagpedia.net/data/flags/w580/gb-nir.png"		
 },
 {
  "id": 132,
@@ -1060,7 +1193,8 @@
  "capital": "Oslo", 
  "isoAlpha3": "NOR",
  "population": 5421241,
- "gasolinePrice": 2.05		
+ "gasolinePrice": 2.05,
+ "img": "https://flagpedia.net/data/flags/w580/no.png"		
 },
 {
  "id": 133,
@@ -1068,7 +1202,8 @@
  "capital": "Muscat", 
  "isoAlpha3": "OMN",
  "population": 5106626,
- "gasolinePrice": 0.56		
+ "gasolinePrice": 0.56,
+ "img": "https://flagpedia.net/data/flags/w580/om.png"		
 },
 {
  "id": 134,
@@ -1076,7 +1211,8 @@
  "capital": "Islamabad", 
  "isoAlpha3": "PAK",
  "population": 220892340,
- "gasolinePrice": 0.70		
+ "gasolinePrice": 0.70,
+ "img": "https://flagpedia.net/data/flags/w580/pk.png"		
 },
 {
  "id": 135,
@@ -1084,7 +1220,8 @@
  "capital": "Melekeok", 
  "isoAlpha3": "PLW",
  "population":	18094,
- "gasolinePrice": 1.33		
+ "gasolinePrice": 1.33,
+ "img": "https://flagpedia.net/data/flags/w580/pw.png"		
 },
 {
  "id": 136,
@@ -1092,7 +1229,8 @@
  "capital": "Jerusalem", 
  "isoAlpha3": "PSE",
  "population": 5101414,
- "gasolinePrice": 1.54		
+ "gasolinePrice": 1.54,
+ "img": "https://flagpedia.net/data/flags/w580/ps.png"		
 },
 {
  "id": 137,
@@ -1100,7 +1238,8 @@
  "capital": "Panama City", 
  "isoAlpha3": "PAN",
  "population": 4314767,
- "gasolinePrice": 0.85		
+ "gasolinePrice": 0.85,
+ "img": "https://flagpedia.net/data/flags/w580/pa.png"		
 },
 {
  "id": 138,
@@ -1108,7 +1247,8 @@
  "capital": "Port Moresby", 
  "isoAlpha3": "PNG",
  "population": 8947024,
- "gasolinePrice": 1.08		
+ "gasolinePrice": 1.08,
+ "img": "https://flagpedia.net/data/flags/w580/pg.png"		
 },
 {
  "id": 139,
@@ -1116,7 +1256,8 @@
  "capital": "Asuncion", 
  "isoAlpha3": "PRY",
  "population": 7132538,
- "gasolinePrice": 0.99		
+ "gasolinePrice": 0.99,
+ "img": "https://flagpedia.net/data/flags/w580/py.png"		
 },
 {
  "id": 140,
@@ -1124,7 +1265,8 @@
  "capital": "Lima", 
  "isoAlpha3": "PER",
  "population": 32971854,
- "gasolinePrice": 0.99		
+ "gasolinePrice": 0.99,
+ "img": "https://flagpedia.net/data/flags/w580/pe.png"		
 },
 {
  "id": 141,
@@ -1132,7 +1274,8 @@
  "capital": "Manila", 
  "isoAlpha3": "PHL",
  "population": 109581078,
- "gasolinePrice": 1.05		
+ "gasolinePrice": 1.05,
+ "img": "https://flagpedia.net/data/flags/w580/ph.png"		
 },
 {
  "id": 142,
@@ -1140,7 +1283,8 @@
  "capital": "Warsaw", 
  "isoAlpha3": "POL",
  "population": 37846611,
- "gasolinePrice": 1.39		
+ "gasolinePrice": 1.39,
+ "img": "https://flagpedia.net/data/flags/w580/pl.png"		
 },
 {
  "id": 143,
@@ -1148,7 +1292,8 @@
  "capital": "Lisbon", 
  "isoAlpha3": "PRT",
  "population": 10196709,
- "gasolinePrice": 1.90		
+ "gasolinePrice": 1.90,
+ "img": "https://flagpedia.net/data/flags/w580/pt.png"		
 },
 {
  "id": 144,
@@ -1156,7 +1301,8 @@
  "capital": "Doha", 
  "isoAlpha3": "QAT",
  "population": 2881053,
- "gasolinePrice": 0.50		
+ "gasolinePrice": 0.50,
+ "img": "https://flagpedia.net/data/flags/w580/qa.png"		
 },
 {
  "id": 145,
@@ -1164,7 +1310,8 @@
  "capital": "Bucharest", 
  "isoAlpha3": "ROU",
  "population": 19237691,
- "gasolinePrice": 1.33		
+ "gasolinePrice": 1.33,
+ "img": "https://flagpedia.net/data/flags/w580/ro.png"		
 },
 {
  "id": 146,
@@ -1172,7 +1319,8 @@
  "capital": "Moscow", 
  "isoAlpha3": "RUS",
  "population": 	145934462,
- "gasolinePrice": 0.46		
+ "gasolinePrice": 0.46,
+ "img": "https://flagpedia.net/data/flags/w580/ru.png"		
 },
 {
  "id": 147,
@@ -1180,7 +1328,8 @@
  "capital": "Kigali", 
  "isoAlpha3": "RWA",
  "population": 12952218,
- "gasolinePrice": 0.65		
+ "gasolinePrice": 0.65,
+ "img": "https://flagpedia.net/data/flags/w580/rw.png"		
 },
 {
  "id": 148,
@@ -1188,7 +1337,8 @@
  "capital": "Basseterre", 
  "isoAlpha3": "KNA",
  "population": 53199,
- "gasolinePrice": 2.44		
+ "gasolinePrice": 2.44,
+ "img": "https://flagpedia.net/data/flags/w580/kn.png"		
 },
 {
  "id": 149,
@@ -1196,7 +1346,8 @@
  "capital": "Castries", 
  "isoAlpha3": "LCA",
  "population": 183627,
- "gasolinePrice": 1.09		
+ "gasolinePrice": 1.09,
+ "img": "https://flagpedia.net/data/flags/w580/lc.png"		
 },
 {
  "id": 150,
@@ -1204,7 +1355,8 @@
  "capital": "Kingstown", 
  "isoAlpha3": "VCT",
  "population": 110940,
- "gasolinePrice": 3.60		
+ "gasolinePrice": 3.60,
+ "img": "https://flagpedia.net/data/flags/w580/vc.png"		
 },
 {
  "id": 151,
@@ -1212,7 +1364,8 @@
  "capital": "Apia", 
  "isoAlpha3": "WSM",
  "population": 198414,
- "gasolinePrice": 1.05		
+ "gasolinePrice": 1.05,
+ "img": "https://flagpedia.net/data/flags/w580/ws.png"		
 },
 {
  "id": 152,
@@ -1220,7 +1373,8 @@
  "capital": "San Marino", 
  "isoAlpha3": "SMR",
  "population": 	33931,
- "gasolinePrice": 1.76		
+ "gasolinePrice": 1.76,
+ "img": "https://flagpedia.net/data/flags/w580/sm.png"		
 },
 {
  "id": 153,
@@ -1228,7 +1382,8 @@
  "capital": "Sao Tome", 
  "isoAlpha3": "STP",
  "population": 	219159,
- "gasolinePrice": 1.18		
+ "gasolinePrice": 1.18,
+ "img": "https://flagpedia.net/data/flags/w580/st.png"		
 },
 {
  "id": 154,
@@ -1236,14 +1391,16 @@
  "capital": "Riyadh", 
  "isoAlpha3": "SAU",
  "population": 34813871,
- "gasolinePrice": 0.56		
+ "gasolinePrice": 0.56,
+ "img": "https://flagpedia.net/data/flags/w580/sa.png"		
 },
 {
  "id": 155,
  "name": "Scotland",
  "capital": "Edinburgh", 
  "population": 5463300,
- "gasolinePrice": 1.71		
+ "gasolinePrice": 1.71,
+ "img": "https://flagpedia.net/data/flags/w580/gb-sct.png"		
 },
 {
  "id": 156,
@@ -1251,7 +1408,8 @@
  "capital": "Dakar", 
  "isoAlpha3": "SEN",
  "population": 	16743927,
- "gasolinePrice": 1.42		
+ "gasolinePrice": 1.42,
+ "img": "https://flagpedia.net/data/flags/w580/sn.png"		
 },
 {
  "id": 157,
@@ -1259,7 +1417,8 @@
  "capital": "Belgrade", 
  "isoAlpha3": "SRB",
  "population": 8737371,
- "gasolinePrice": 1.55		
+ "gasolinePrice": 1.55,
+ "img": "https://flagpedia.net/data/flags/w580/rs.png"		
 },
 {
  "id": 158,
@@ -1267,7 +1426,8 @@
  "capital": "Victoria", 
  "isoAlpha3": "SYC",
  "population": 	98347,
- "gasolinePrice": 1.46		
+ "gasolinePrice": 1.46,
+ "img": "https://flagpedia.net/data/flags/w580/sc.png"		
 },
 {
  "id": 159,
@@ -1275,7 +1435,8 @@
  "capital": "Freetown", 
  "isoAlpha3": "SLE",
  "population": 7976983,
- "gasolinePrice": 0.83		
+ "gasolinePrice": 0.83,
+ "img": "https://flagpedia.net/data/flags/w580/sl.png"		
 },
 {
  "id": 160,
@@ -1283,7 +1444,8 @@
  "capital": "Singapore", 
  "isoAlpha3": "SGP",
  "population": 	5850342,
- "gasolinePrice": 1.73		
+ "gasolinePrice": 1.73,
+ "img": "https://flagpedia.net/data/flags/w580/sg.png"		
 },
 {
  "id": 161,
@@ -1291,7 +1453,8 @@
  "capital": "Bratislava", 
  "isoAlpha3": "SVK",
  "population": 	5459642,
- "gasolinePrice": 1.35		
+ "gasolinePrice": 1.35,
+ "img": "https://flagpedia.net/data/flags/w580/sk.png"		
 },
 {
  "id": 162,
@@ -1299,7 +1462,8 @@
  "capital": "Ljubljana", 
  "isoAlpha3": "SVN",
  "population": 	2078938,
- "gasolinePrice": 1.40		
+ "gasolinePrice": 1.40,
+ "img": "https://flagpedia.net/data/flags/w580/si.png"		
 },
 {
  "id": 163,
@@ -1307,7 +1471,8 @@
  "capital": "Honiara", 
  "isoAlpha3": "SLB",
  "population": 	686884,
- "gasolinePrice": 1.08		
+ "gasolinePrice": 1.08,
+ "img": "https://flagpedia.net/data/flags/w580/sb.png"		
 },
 {
  "id": 164,
@@ -1315,7 +1480,8 @@
  "capital": "Mogadishu", 
  "isoAlpha3": "SOM",
  "population": 	15893222,
- "gasolinePrice": 0.86		
+ "gasolinePrice": 0.86,
+ "img": "https://flagpedia.net/data/flags/w580/so.png"		
 },
 {
  "id": 165,
@@ -1323,7 +1489,8 @@
  "capital": "Pretoria", 
  "isoAlpha3": "ZAF",
  "population": 	59308690,
- "gasolinePrice": 1.19		
+ "gasolinePrice": 1.19,
+ "img": "https://flagpedia.net/data/flags/w580/za.png"		
 },
 {
  "id": 166,
@@ -1331,7 +1498,8 @@
  "capital": "Seoul", 
  "isoAlpha3": "KOR",
  "population": 	51269185,
- "gasolinePrice": 1.36		
+ "gasolinePrice": 1.36,
+ "img": "https://flagpedia.net/data/flags/w580/kr.png"		
 },
 {
  "id": 167,
@@ -1339,7 +1507,8 @@
  "capital": "Juba", 
  "isoAlpha3": "SSD",
  "population": 	11193725,
- "gasolinePrice": 1.70		
+ "gasolinePrice": 1.70,
+ "img": "https://flagpedia.net/data/flags/w580/ss.png"		
 },
 {
  "id": 168,
@@ -1347,7 +1516,8 @@
  "capital": "Madrid", 
  "isoAlpha3": "ESP",
  "population":	46754778,
- "gasolinePrice": 1.59		
+ "gasolinePrice": 1.59,
+ "img": "https://flagpedia.net/data/flags/w580/es.png"		
 },
 {
  "id": 169,
@@ -1355,7 +1525,8 @@
  "capital": "Colombo", 
  "isoAlpha3": "LKA",
  "population": 21413249,
- "gasolinePrice": 0.82		
+ "gasolinePrice": 0.82,
+ "img": "https://flagpedia.net/data/flags/w580/lk.png"		
 },
 {
  "id": 170,
@@ -1363,7 +1534,8 @@
  "capital": "Khartoum", 
  "isoAlpha3": "SDN",
  "population": 43849260,
- "gasolinePrice": 0.53		
+ "gasolinePrice": 0.53,
+ "img": "https://flagpedia.net/data/flags/w580/sd.png"		
 },
 {
  "id": 171,
@@ -1371,7 +1543,8 @@
  "capital": "Stockholm", 
  "isoAlpha3": "SWE",
  "population": 10099265,
- "gasolinePrice": 1.86		
+ "gasolinePrice": 1.86,
+ "img": "https://flagpedia.net/data/flags/w580/se.png"		
 },
 {
  "id": 172,
@@ -1379,7 +1552,8 @@
  "capital": "Bern", 
  "isoAlpha3": "CHE",
  "population": 	8654622,
- "gasolinePrice": 1.68		
+ "gasolinePrice": 1.68,
+ "img": "https://flagpedia.net/data/flags/w580/ch.png"		
 },
 {
  "id": 173,
@@ -1387,7 +1561,8 @@
  "capital": "Damascus", 
  "isoAlpha3": "SYR",
  "population": 	17500658,
- "gasolinePrice":  1.45		
+ "gasolinePrice":  1.45,
+ "img": "https://flagpedia.net/data/flags/w580/sy.png"	
 },
 {
  "id": 174,
@@ -1395,7 +1570,8 @@
  "capital": "Taipei", 
  "isoAlpha3": "TWN",
  "population": 	23816775,
- "gasolinePrice": 1		
+ "gasolinePrice": 1,
+"img": "https://flagpedia.net/data/flags/w580/tw.png"
 },
 {
  "id": 175,
@@ -1403,7 +1579,8 @@
  "capital": "Dushanbe", 
  "isoAlpha3": "TJK",
  "population": 	9537645,
- "gasolinePrice": 0.69		
+ "gasolinePrice": 0.69,
+ "img": "https://flagpedia.net/data/flags/w580/tj.png"		
 },
 {
  "id": 176,
@@ -1411,7 +1588,8 @@
  "capital": "Dodoma", 
  "isoAlpha3": "TZA",
  "population": 	59734218,
- "gasolinePrice": 0.91		
+ "gasolinePrice": 0.91,
+ "img": "https://flagpedia.net/data/flags/w580/tz.png"		
 },
 {
  "id": 177,
@@ -1419,7 +1597,8 @@
  "capital": "Bangkok", 
  "isoAlpha3": "THA",
  "population": 69799978,
- "gasolinePrice": 1.11		
+ "gasolinePrice": 1.11,
+ "img": "https://flagpedia.net/data/flags/w580/th.png"		
 },
 {
  "id": 178,
@@ -1427,7 +1606,8 @@
  "capital": "Lome", 
  "isoAlpha3": "TGO",
  "population": 	8278724,
- "gasolinePrice": 0.78		
+ "gasolinePrice": 0.78,
+ "img": "https://flagpedia.net/data/flags/w580/tg.png"		
 },
 {
  "id": 179,
@@ -1435,7 +1615,8 @@
  "capital": "Nuku'alofa", 
  "isoAlpha3": "TON",
  "population": 	105695,
- "gasolinePrice": 1.04		
+ "gasolinePrice": 1.04,
+ "img": "https://flagpedia.net/data/flags/w580/to.png"		
 },
 {
  "id": 180,
@@ -1443,7 +1624,8 @@
  "capital": "Port of Spain", 
  "isoAlpha3": "TTO",
  "population": 	1399488,
- "gasolinePrice": 0.76		
+ "gasolinePrice": 0.76,
+ "img": "https://flagpedia.net/data/flags/w580/tt.png"		
 },
 {
  "id": 181,
@@ -1451,7 +1633,8 @@
  "capital": "Tunis", 
  "isoAlpha3": "TUN",
  "population": 	11818619,
- "gasolinePrice": 0.76		
+ "gasolinePrice": 0.76,
+ "img": "https://flagpedia.net/data/flags/w580/tn.png"		
 },
 {
  "id": 182,
@@ -1459,7 +1642,8 @@
  "capital": "Ankara", 
  "isoAlpha3": "TUR",
  "population":	84339067,
- "gasolinePrice": 0.86		
+ "gasolinePrice": 0.86,
+ "img": "https://flagpedia.net/data/flags/w580/tr.png"		
 },
 {
  "id": 183,
@@ -1467,7 +1651,8 @@
  "capital": "Ashgabat", 
  "isoAlpha3": "TKM",
  "population": 	6031200,
- "gasolinePrice": 0.42		
+ "gasolinePrice": 0.42,
+ "img": "https://flagpedia.net/data/flags/w580/tm.png"		
 },
 {
  "id": 184,
@@ -1475,7 +1660,8 @@
  "capital": "Funafuti", 
  "isoAlpha3": "TUV",
  "population": 	11792,
- "gasolinePrice": 0		
+ "gasolinePrice": 0,
+"img": "https://flagpedia.net/data/flags/w580/tv.png"
 },
 {
  "id": 185,
@@ -1483,7 +1669,8 @@
  "capital": "Kampala", 
  "isoAlpha3": "UGA",
  "population": 	45741007,
- "gasolinePrice": 1.15		
+ "gasolinePrice": 1.15,
+ "img": "https://flagpedia.net/data/flags/w580/ug.png"		
 },
 {
  "id": 186,
@@ -1491,7 +1678,8 @@
  "capital": "Kiev", 
  "isoAlpha3": "UKR",
  "population": 	43733762,
- "gasolinePrice": 1.02		
+ "gasolinePrice": 1.02,
+ "img": "https://flagpedia.net/data/flags/w580/ua.png"		
 },
 {
  "id": 187,
@@ -1499,15 +1687,17 @@
  "capital": "Abu Dhabi", 
  "isoAlpha3": "ARE",
  "population": 	9890402,
- "gasolinePrice": 0.59		
+ "gasolinePrice": 0.59,
+ "img": "https://flagpedia.net/data/flags/w580/ae.png"		
 },
 {
  "id": 188,
  "name": "United States",
  "capital": "Washington D.C.", 
  "isoAlpha3": "USA",
- "population": 	331002651	,
- "gasolinePrice": 0.85		
+ "population": 	331002651,
+ "gasolinePrice": 0.85,
+ "img": "https://flagpedia.net/data/flags/w580/us.png"		
 },
 {
  "id": 189,
@@ -1515,7 +1705,8 @@
  "capital": "Montevideo", 
  "isoAlpha3": "URY",
  "population": 	3473730,
- "gasolinePrice": 1.32		
+ "gasolinePrice": 1.32,
+ "img": "https://flagpedia.net/data/flags/w580/uy.png"		
 },
 {
  "id": 190,
@@ -1523,7 +1714,8 @@
  "capital": "Tashkent", 
  "isoAlpha3": "UZB",
  "population": 	33469203,
- "gasolinePrice": 0.67		
+ "gasolinePrice": 0.67,
+ "img": "https://flagpedia.net/data/flags/w580/uz.png"		
 },
 {
  "id": 191,
@@ -1531,7 +1723,8 @@
  "capital": "Port Vila", 
  "isoAlpha3": "VUT",
  "population": 	307145,
- "gasolinePrice": 1.46		
+ "gasolinePrice": 1.46,
+ "img": "https://flagpedia.net/data/flags/w580/vu.png"		
 },
 {
  "id": 192,
@@ -1539,7 +1732,8 @@
  "capital": "Vatican City", 
  "isoAlpha3": "VAT",
  "population": 	825,
- "gasolinePrice": 0	
+ "gasolinePrice": 0,
+ "img": "https://flagpedia.net/data/flags/w580/va.png"	
 },
 {
  "id": 193,
@@ -1547,7 +1741,8 @@
  "capital": "Caracas", 
  "isoAlpha3": "VEN",
  "population": 	28435940,
- "gasolinePrice": 0.02		
+ "gasolinePrice": 0.02,
+ "img": "https://flagpedia.net/data/flags/w580/ve.png"		
 },
 {
  "id": 194,
@@ -1555,14 +1750,16 @@
  "capital": "Hanoi", 
  "isoAlpha3": "VNM",
  "population": 	97338579,
- "gasolinePrice": 0.83		
+ "gasolinePrice": 0.83,
+ "img": "https://flagpedia.net/data/flags/w580/vn.png"		
 },
 {
  "id": 195,
  "name": "Wales",
  "capital": "Cardiff", 
  "population": 	3063456,
- "gasolinePrice": 1.70		
+ "gasolinePrice": 1.70,
+ "img": "https://flagpedia.net/data/flags/w580/gb-wls.png"		
 },
 {
  "id": 196,
@@ -1570,7 +1767,8 @@
  "capital": "Sana'a", 
  "isoAlpha3": "YEM",
  "population": 	29825964,
- "gasolinePrice": 1.51		
+ "gasolinePrice": 1.51,
+ "img": "https://flagpedia.net/data/flags/w580/ye.png"		
 },
 {
  "id": 197,
@@ -1578,7 +1776,8 @@
  "capital": "Lusaka", 
  "isoAlpha3": "ZMB",
  "population": 	18383955,
- "gasolinePrice": 0.97		
+ "gasolinePrice": 0.97,
+ "img": "https://flagpedia.net/data/flags/w580/zm.png"		
 },
 {
  "id": 198,
@@ -1586,7 +1785,8 @@
  "capital": "Harare", 
  "isoAlpha3": "ZWE",
  "population": 	14862924,
- "gasolinePrice": 1.35	
+ "gasolinePrice": 1.35,
+ "img": "https://flagpedia.net/data/flags/w580/zw.png"	
 }
  ]
 }
