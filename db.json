@@ -7,7 +7,8 @@
  "isoAlpha3": "AFG",
  "population": 38928346,
  "gasolinePrice": 0.45,
- "img": "https://flagpedia.net/data/flags/w580/af.png"	
+ "img": "https://flagpedia.net/data/flags/w580/af.png",
+ "attractions": ["Babur Tomb","Qargha Lake","Band-e-Amir"]	
 },
 {
  "id": 1,
@@ -16,7 +17,8 @@
  "isoAlpha3": "ALB",
  "population": 2877797,
  "gasolinePrice": 1.44,
- "img": "https://flagpedia.net/data/flags/w580/al.png"		
+ "img": "https://flagpedia.net/data/flags/w580/al.png",
+ "attractions": ["Albanian Riviera","The Blue Eye","Berat"]			
 },
 {
  "id": 2,
@@ -25,7 +27,8 @@
  "isoAlpha3": "DZA",
  "population": 43851044,
  "gasolinePrice": 0.35,
- "img": "https://flagpedia.net/data/flags/w580/dz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/dz.png",
+ "attractions": ["Le Jardin d'Essai du Hamma","Kasbah of Algiers","Fort Santa Cruz"]			
 },
 {
  "id": 3,
@@ -34,7 +37,8 @@
  "isoAlpha3": "AND",
  "population": 77265,
  "gasolinePrice": 1.36,
- "img": "https://flagpedia.net/data/flags/w580/ad.png"	
+ "img": "https://flagpedia.net/data/flags/w580/ad.png",
+ "attractions": ["Vallnord Pal-Arinsal","Soldeu","Coll d'Ordino"]		
 },
 {
  "id": 4,
@@ -43,7 +47,8 @@
  "isoAlpha3": "AGO",
  "population": 32866272,
  "gasolinePrice": 0.28,
- "img": "https://flagpedia.net/data/flags/w580/ao.png"
+ "img": "https://flagpedia.net/data/flags/w580/ao.png",
+ "attractions": ["Cabo Ledo","Fortaleza de São Miguel","Kalandula Falls"]	
 },
 {
  "id": 5,
@@ -52,7 +57,8 @@
  "isoAlpha3": "ATG",
  "population": 97929,
  "gasolinePrice": 1.10,
- "img": "https://flagpedia.net/data/flags/w580/ag.png"	
+ "img": "https://flagpedia.net/data/flags/w580/ag.png",
+ "attractions": ["Nelson's Dockyard","Turners Beach","Devil's Bridge"]		
 },
 {
  "id": 6,
@@ -61,7 +67,8 @@
  "isoAlpha3": "ARG",
  "population": 45195774,
  "gasolinePrice": 0.92,
- "img": "https://flagpedia.net/argentina"		
+ "img": "https://flagpedia.net/argentina",
+ "attractions": ["Los Glaciares National Park","Iguazú Falls","Cerro Fitz Roy"]			
 },
 {
  "id": 7,
@@ -70,7 +77,8 @@
  "isoAlpha3": "ARM",
  "population": 2963243,
  "gasolinePrice": 0.78,
-"img": "https://flagpedia.net/data/flags/w580/am.png"
+"img": "https://flagpedia.net/data/flags/w580/am.png",
+"attractions": ["The Monastery of Geghard","Lake Sevan","Matenadaran"]	
 },
 {
  "id": 8,
@@ -79,7 +87,8 @@
  "isoAlpha3": "AUS",
  "population": 25499884,
  "gasolinePrice": 	1.08,
- "img": "https://flagpedia.net/data/flags/w580/au.png"		
+ "img": "https://flagpedia.net/data/flags/w580/au.png",
+ "attractions": ["Sydney Opera House","Uluru","Whitehaven Beach"]			
 },
 {
  "id": 9,
@@ -88,7 +97,8 @@
  "isoAlpha3": "AUT",
  "population": 9006398,
  "gasolinePrice": 1.53,
- "img": "https://flagpedia.net/data/flags/w580/at.png"		
+ "img": "https://flagpedia.net/data/flags/w580/at.png",
+ "attractions": ["Schönbrunn Palace","St. Stephen's Cathedral","Mirabell Palace"]			
 },
 {
  "id": 10,
@@ -97,7 +107,8 @@
  "isoAlpha3": "AZE",
  "population": 10139177,
  "gasolinePrice": 0.59,
- "img": "https://flagpedia.net/data/flags/w580/az.png"		
+ "img": "https://flagpedia.net/data/flags/w580/az.png",
+ "attractions": ["Lake Goygol","Baku Boulevard","The Heydar Aliyev Center"]			
 },
 {
  "id": 11,
@@ -106,7 +117,8 @@
  "isoAlpha3": "BHS",
  "population": 393244,
  "gasolinePrice": 1.39,
- "img": "https://flagpedia.net/data/flags/w580/bs.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bs.png",
+ "attractions": ["Blue Lagoon Island","Gold Rock Beach","The Water Park at Atlantis"]			
 },
 {
  "id": 12,
@@ -115,7 +127,8 @@
  "isoAlpha3": "BHR",
  "population": 1701575,
  "gasolinePrice": 0.37,
- "img": "https://flagpedia.net/data/flags/w580/bh.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bh.png",
+ "attractions": ["The Bahrain National Museum","Al-Faith Mosque","Al Dar Islands"]			
 },
 {
  "id": 13,
@@ -124,7 +137,8 @@
  "isoAlpha3": "BGD",
  "population": 164689383,
  "gasolinePrice": 1.1,
- "img": "https://flagpedia.net/data/flags/w580/bd.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bd.png",
+ "attractions": ["Lalbagh Fort","Ahsan Manzil Museum","Sonargaon"]			
 },
 {
  "id": 14,
@@ -133,7 +147,8 @@
  "isoAlpha3": "BRB",
  "population": 287375,
  "gasolinePrice": 1.87,
- "img": "https://flagpedia.net/data/flags/w580/bb.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bb.png",
+ "attractions": ["Harrison's Cave","Bathsheba Beach","Andromeda Gardens"]			
 },
 {
  "id": 15,
@@ -142,7 +157,8 @@
  "isoAlpha3": "BLR",
  "population": 	9449323,
  "gasolinePrice": 0.75,
- "img": "https://flagpedia.net/data/flags/w580/by.png"		
+ "img": "https://flagpedia.net/data/flags/w580/by.png",
+ "attractions": ["The Mir Castle","Church of Saints Simon and Helena","Braslav Lake Area"]			
 },
 {
  "id": 16,
@@ -151,7 +167,8 @@
  "isoAlpha3": "BEL",
  "population": 11589623,
  "gasolinePrice": 1.87,
- "img": "https://flagpedia.net/data/flags/w580/be.png"		
+ "img": "https://flagpedia.net/data/flags/w580/be.png",
+ "attractions": ["The Grand Place","The Atomium","Manneken Pis"]			
 },
 {
  "id": 17,
@@ -160,7 +177,8 @@
  "isoAlpha3": "BLZ",
  "population": 397628,
  "gasolinePrice": 1.52,
- "img": "https://flagpedia.net/data/flags/w580/bz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bz.png",
+ "attractions": ["Great Blue Hole","Xunantunich","Caye Caulker"]			
 },
 {
  "id": 18,
@@ -169,7 +187,8 @@
  "isoAlpha3": "BEN",
  "population": 12123200,
  "gasolinePrice": 0.93,
- "img": "https://flagpedia.net/data/flags/w580/bj.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bj.png",
+ "attractions": ["Bab's Dock","The Pendjari National Park","Marche Dantokpa"]			
 },
 {
  "id": 19,
@@ -178,7 +197,8 @@
  "isoAlpha3": "BTN",
  "population": 771608,
  "gasolinePrice": 0.92,
- "img": "https://flagpedia.net/data/flags/w580/bt.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bt.png",
+ "attractions": ["The Punakha Dzong","Buddha Dordenma","Paro Taktshang"]			
 },
 {
  "id": 20,
@@ -187,7 +207,8 @@
  "isoAlpha3": "BOL",
  "population": 11673021,
  "gasolinePrice": 0.54,
- "img": "https://flagpedia.net/data/flags/w580/bo.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bo.png",
+ "attractions": ["Salar de Uyuni","Isla del Sol","Cerro Rico"]			
 },
 {
  "id": 21,
@@ -196,7 +217,8 @@
  "isoAlpha3": "BIH",
  "population": 3280819,
  "gasolinePrice": 1.31,
- "img": "https://flagpedia.net/data/flags/w580/ba.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ba.png",
+ "attractions": ["The Mostar Bridge","Latin Bridge","Bascarsija"]			
 },
 {
  "id": 22,
@@ -205,7 +227,8 @@
  "isoAlpha3": "BWA",
  "population": 2351627,
  "gasolinePrice": 0.90,
- "img": "https://flagpedia.net/data/flags/w580/bw.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bw.png",
+ "attractions": ["The Okavango Delta","Moremi Game Reserve","The Makgadikgadi Pan"]			
 },
 {
  "id": 23,
@@ -214,7 +237,8 @@
  "isoAlpha3": "BRA",
  "population": 212559417,
  "gasolinePrice": 0.97,
- "img": "https://flagpedia.net/data/flags/w580/br.png"		
+ "img": "https://flagpedia.net/data/flags/w580/br.png",
+ "attractions": ["Cristo Redentor and Corcovado","Copacabana","Iguaçu Falls"]			
 },
 {
  "id": 24,
@@ -223,7 +247,8 @@
  "isoAlpha3": "BRN",
  "population": 437479,
  "gasolinePrice": 0.40,
- "img": "https://flagpedia.net/data/flags/w580/bn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bn.png",
+ "attractions": ["Bandar Seri Begawan","Ulu Temburong National Park","Kampong Ayer"]			
 },
 {
  "id": 25,
@@ -232,7 +257,8 @@
  "isoAlpha3": "BGR",
  "population": 6948445,
  "gasolinePrice": 1.3,
- "img": "https://flagpedia.net/data/flags/w580/bg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bg.png",
+ "attractions": ["Nesebar","Cape Kaliakra","Rylski Monastyr"]			
 },
 {
  "id": 26,
@@ -241,7 +267,8 @@
  "isoAlpha3": "BFA",
  "population": 20903273,
  "gasolinePrice": 1.14,
- "img": "https://flagpedia.net/data/flags/w580/bf.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bf.png",
+ "attractions": ["Les Cascades de Banfora","Laongo Sculptures","Nanzinga Forest"]			
 },
 {
  "id": 27,
@@ -250,7 +277,8 @@
  "isoAlpha3": "BDI",
  "population": 11890784,
  "gasolinePrice": 1.23,
- "img": "https://flagpedia.net/data/flags/w580/bi.png"		
+ "img": "https://flagpedia.net/data/flags/w580/bi.png",
+ "attractions": ["Rusizi Nature Reserve","Musee Vivant","Livingston-Stanley Monument"]			
 },
 {
  "id": 28,
@@ -259,7 +287,8 @@
  "isoAlpha3": "KHM",
  "population": 16718965,
  "gasolinePrice": 0.92,
- "img": "https://flagpedia.net/data/flags/w580/kh.png"
+ "img": "https://flagpedia.net/data/flags/w580/kh.png",
+ "attractions": ["Angkor Wat","Bayon Temple","Ta Prohm"]	
 },
 {
  "id": 29,
@@ -268,7 +297,8 @@
  "isoAlpha3": "CMR",
  "population": 26545863,
  "gasolinePrice": 1.16,
- "img": "https://flagpedia.net/data/flags/w580/cm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cm.png",
+ "attractions": ["The Mount Cameroon","Mefou National Park","Chutes de la Lobe"]		
 },
 {
  "id": 30,
@@ -277,7 +307,8 @@
  "isoAlpha3": "CAN",
  "population": 37742154,
  "gasolinePrice": 0.99,
- "img": "https://flagpedia.net/data/flags/w580/ca.png"	
+ "img": "https://flagpedia.net/data/flags/w580/ca.png",
+ "attractions": ["Niagara Falls","CN Tower","Moraine Lake"]		
 },
 {
  "id": 31,
@@ -286,7 +317,8 @@
  "isoAlpha3": "CPV",
  "population": 555987,
  "gasolinePrice": 1.32,
- "img": "https://flagpedia.net/data/flags/w580/cv.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cv.png",
+ "attractions": ["Tarrafal Beach","Pico do Fogo","Buracona"]		
 },
 {
  "id": 32,
@@ -295,7 +327,8 @@
  "isoAlpha3": "CAF",
  "population": 4829767,
  "gasolinePrice": 2,
-"img": "https://flagpedia.net/data/flags/w580/cf.png"
+"img": "https://flagpedia.net/data/flags/w580/cf.png",
+ "attractions": ["Dzanga-Sangha Reserve","Notre-Dame of Bangui Cathedral","Chutes de Boali"]		
 },
 {
  "id": 33,
@@ -304,7 +337,8 @@
  "isoAlpha3": "TCD",
  "population": 16425864,
  "gasolinePrice": 0.95,
- "img": "https://flagpedia.net/data/flags/w580/td.png"		
+ "img": "https://flagpedia.net/data/flags/w580/td.png",
+ "attractions": ["Guelta d’Archei","Tibesti Mountains","Zakouma National Park"]		
 },
 {
  "id": 34,
@@ -313,7 +347,8 @@
  "isoAlpha3": "CHL",
  "population": 19116201,
  "gasolinePrice": 1.14,
- "img": "https://flagpedia.net/data/flags/w580/cl.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cl.png",
+ "attractions": ["Atacama Desert","Lauca National Park","Eastern Island"]		
 },
 {
  "id": 35,
@@ -322,7 +357,8 @@
  "isoAlpha3": "CHN",
  "population": 	1439323776,
  "gasolinePrice": 1,
- "img": "https://flagpedia.net/data/flags/w580/cn.png"	
+ "img": "https://flagpedia.net/data/flags/w580/cn.png",
+ "attractions": ["Great Wall","The Forbidden City & the Imperial Palace","The Mogao Caves"]		
 },
 
 {
@@ -332,7 +368,8 @@
  "isoAlpha3": "COL",
  "population": 50882891,
  "gasolinePrice": 0.63,
- "img": "https://flagpedia.net/data/flags/w580/co.png"		
+ "img": "https://flagpedia.net/data/flags/w580/co.png",
+ "attractions": ["The Museum of Gold","The Tayrona National Natural Park","Crab Cay"]		
 },
 {
  "id": 37,
@@ -341,7 +378,8 @@
  "isoAlpha3": "COM",
  "population": 869601,
  "gasolinePrice": 0,
-"img": "https://flagpedia.net/data/flags/w580/km.png"
+"img": "https://flagpedia.net/data/flags/w580/km.png",
+ "attractions": ["Grande Mosquée de Moroni","Mount Karthala","Nioumachoua Beach"]		
 },
 {
  "id": 38,
@@ -350,7 +388,8 @@
  "isoAlpha3": "COD",
  "population": 89561403,
  "gasolinePrice": 1,
-"img": "https://flagpedia.net/data/flags/w580/cd.png"
+"img": "https://flagpedia.net/data/flags/w580/cd.png",
+ "attractions": ["Mount Nyiragongo","Lola ya Bonobo","Zongo Falls"]		
 },
 {
  "id": 39,
@@ -359,7 +398,8 @@
  "isoAlpha3": "COG",
  "population": 5518087,
  "gasolinePrice": 0.98,
- "img": "https://flagpedia.net/data/flags/w580/cg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cg.png",
+ "attractions": ["Basilique St. Anne","Odzala-Kokoua National Park","Lake Tele"]	
 },
 {
  "id": 40,
@@ -368,7 +408,8 @@
  "isoAlpha3": "CRI",
  "population": 5094118	,
  "gasolinePrice": 1.13,
- "img": "https://flagpedia.net/data/flags/w580/cr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cr.png",
+ "attractions": ["Playa Manuel Antonio","Tortuguero National Park","La Paz Waterfalls"]		
 },
 {
  "id": 41,
@@ -377,7 +418,8 @@
  "isoAlpha3": "CIV",
  "population": 26378274,
  "gasolinePrice": 1.10,
- "img": "https://flagpedia.net/data/flags/w580/ci.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ci.png",
+ "attractions": ["The Basilica of Our Lady of Peace","St Paul's Cathedral","Mount Tonkoui"]		
 },
 {
  "id": 42,
@@ -386,7 +428,8 @@
  "isoAlpha3": "HRV",
  "population": 4105267,
  "gasolinePrice": 1.60,
- "img": "https://flagpedia.net/data/flags/w580/hr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/hr.png",
+ "attractions": ["Plitvice Lakes National Park","Diocletian's Palace","Dubrovnik"]		
 },
 {
  "id": 43,
@@ -395,7 +438,8 @@
  "isoAlpha3": "CUB",
  "population": 	11326616,
  "gasolinePrice": 1.2,
- "img": "https://flagpedia.net/data/flags/w580/cu.png"	
+ "img": "https://flagpedia.net/data/flags/w580/cu.png",
+ "attractions": ["Old Havana","Valle de Vinales","Plaza de la Catedral"]		
 },
 {
  "id": 44,
@@ -404,7 +448,8 @@
  "isoAlpha3": "CYP",
  "population": 1207359,
  "gasolinePrice": 1.46,
- "img": "https://flagpedia.net/data/flags/w580/cy.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cy.png",
+ "attractions": ["Nissi Beach","Kato Paphos Archaeological Park","Tombs of the Kings"]		
 },
 {
  "id": 45,
@@ -413,7 +458,8 @@
  "isoAlpha3": "CZE",
  "population": 10708981,
  "gasolinePrice": 1.47,
- "img": "https://flagpedia.net/data/flags/w580/cz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/cz.png",
+ "attractions": ["Old Town Square","Prague Castle","Charles Bridge"]		
 },
 {
  "id": 46,
@@ -422,7 +468,8 @@
  "isoAlpha3": "DNK",
  "population": 5792202,
  "gasolinePrice": 1.92,
- "img": "https://flagpedia.net/data/flags/w580/dk.png"		
+ "img": "https://flagpedia.net/data/flags/w580/dk.png",
+ "attractions": ["Rosenborg Castle","The National Gallery of Denmark","Tivoli Gardens"]		
 },
 {
  "id": 47,
@@ -431,7 +478,8 @@
  "isoAlpha3": "DJI",
  "population": 988000,
  "gasolinePrice": 1.35,
- "img": "https://flagpedia.net/data/flags/w580/dj.png"		
+ "img": "https://flagpedia.net/data/flags/w580/dj.png",
+ "attractions": ["Lake Assal","Khor Ambado Beach","Lake Abbe"]		
 },
 {
  "id": 48,
@@ -440,7 +488,8 @@
  "isoAlpha3": "DMA",
  "population": 71986,
  "gasolinePrice": 0.91,
- "img": "https://flagpedia.net/data/flags/w580/dm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/dm.png",
+ "attractions": ["Trafalgar Falls","Boiling Lake","Emerald Pool Nature Trail"]		
 },
 {
  "id": 49,
@@ -449,7 +498,8 @@
  "isoAlpha3": "DOM",
  "population": 10847910,
  "gasolinePrice": 1.15,
- "img": "https://flagpedia.net/data/flags/w580/do.png"		
+ "img": "https://flagpedia.net/data/flags/w580/do.png",
+ "attractions": ["Isla Saona","Bavaro Beach","Zona Colonial"]		
 },
 {
  "id": 50,
@@ -458,7 +508,8 @@
  "isoAlpha3": "TLS",
  "population": 1318445,
  "gasolinePrice": 1.02,
- "img": "https://flagpedia.net/data/flags/w580/tl.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tl.png",
+ "attractions": ["Cristo Rei","Akrema Beach","Mount Ramelau"]		
 },
 {
  "id": 51,
@@ -467,7 +518,8 @@
  "isoAlpha3": "ECU",
  "population": 17643054,
  "gasolinePrice": 0.50,
- "img": "https://flagpedia.net/data/flags/w580/ec.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ec.png",
+ "attractions": ["Iglesia de La Compania de Jesus","Galapagos Beach","El Cajas National Park"]		
 },
 {
  "id": 52,
@@ -476,7 +528,8 @@
  "isoAlpha3": "EGY",
  "population": 	102334404,
  "gasolinePrice": 0.56,
- "img": "https://flagpedia.net/data/flags/w580/eg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/eg.png",
+ "attractions": ["Pyramids of Giza","Cruising the Nile","Valley of the Kings"]		
 },
 {
  "id": 53,
@@ -485,7 +538,8 @@
  "isoAlpha3": "SLV",
  "population": 6486205,
  "gasolinePrice": 0.95,
- "img": "https://flagpedia.net/data/flags/w580/sv.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sv.png",
+ "attractions": ["Parque Nacional El Boqueron","Lake Coatepeque","Iglesia El Rosario"]		
 },
 {
  "id": 54,
@@ -494,7 +548,8 @@
  "isoAlpha3": "GBR",
  "population": 68177756,
  "gasolinePrice": 1.77,
- "img": "https://flagpedia.net/data/flags/w580/gb.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gb.png",
+ "attractions": ["Big Ben","Trafalgar Square","Buckingham Palace"]		
 },
 {
  "id": 55,
@@ -503,7 +558,8 @@
  "isoAlpha3": "GNQ",
  "population": 1402985,
  "gasolinePrice": 0.98,
- "img": "https://flagpedia.net/data/flags/w580/gq.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gq.png",
+ "attractions": ["Catedral de Santa Isabel","Pico Basile","The Malabo National Park"]		
 },
 {
  "id": 56,
@@ -512,7 +568,8 @@
  "isoAlpha3": "ERI",
  "population": 3546421,
  "gasolinePrice": 2.20,
- "img": "https://flagpedia.net/data/flags/w580/er.png"		
+ "img": "https://flagpedia.net/data/flags/w580/er.png",
+ "attractions": ["The Fiat Tagliero","Dahlak Kebir","Liberation Avenue"]		
 },
 {
  "id": 57,
@@ -521,7 +578,8 @@
  "isoAlpha3": "EST",
  "population": 1326535,
  "gasolinePrice": 1.67,
- "img": "https://flagpedia.net/data/flags/w580/ee.png"	
+ "img": "https://flagpedia.net/data/flags/w580/ee.png",
+ "attractions": ["Toompea Hill","Tallinn's Old Town","Lahemaa National Park"]		
 },
 {
  "id": 58,
@@ -530,7 +588,8 @@
  "isoAlpha3": "SWZ",
  "population": 1160164,
  "gasolinePrice": 1.12,
- "img": "https://flagpedia.net/data/flags/w580/sz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sz.png",
+ "attractions": ["Swazi Cultural Village","Hlane Royal National Park","Mlilwane Wildlife Sanctuary"]		
 },
 {
  "id": 59,
@@ -539,7 +598,8 @@
  "isoAlpha3": "ETH",
  "population": 114963588,
  "gasolinePrice": 0.51,
- "img": "https://flagpedia.net/data/flags/w580/et.png"		
+ "img": "https://flagpedia.net/data/flags/w580/et.png",
+ "attractions": ["Simien Mountains","National Museum of Ethiopia","Lalibela"]		
 },
 {
  "id": 60,
@@ -548,7 +608,8 @@
  "isoAlpha3": "FSM",
  "population": 548914,
  "gasolinePrice": 1.14,
- "img": "https://flagpedia.net/data/flags/w580/fm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/fm.png",
+ "attractions": ["Nan Madol","Tamilyog Trail","Truk Lagoon"]		
 },
 {
  "id": 61,
@@ -557,7 +618,8 @@
  "isoAlpha3": "FJI",
  "population": 896445,
  "gasolinePrice": 1.10,
- "img": "https://flagpedia.net/data/flags/w580/fj.png"		
+ "img": "https://flagpedia.net/data/flags/w580/fj.png",
+ "attractions": ["Blue Lagoon Cruise: Yasawa Islands","Taveuni Island","Suva Municipal Market"]		
 },
 {
  "id": 62,
@@ -566,7 +628,8 @@
  "isoAlpha3": "FIN",
  "population": 5540720,
  "gasolinePrice": 1.96,
- "img": "https://flagpedia.net/data/flags/w580/fi.png"		
+ "img": "https://flagpedia.net/data/flags/w580/fi.png",
+ "attractions": ["Fortress of Suomenlinna","Rock Church","Turku Castle"]		
 },
 {
  "id": 63,
@@ -575,7 +638,8 @@
  "isoAlpha3": "FRA",
  "population": 65273511,
  "gasolinePrice": 1.83,
- "img": "https://flagpedia.net/data/flags/w580/fr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/fr.png",
+ "attractions": ["Eiffel Tower","Louvre Museum","Notre-Dame"]		
 },
 {
  "id": 64,
@@ -584,7 +648,8 @@
  "isoAlpha3": "GAB",
  "population": 2225734,
  "gasolinePrice": 1.12,
- "img": "https://flagpedia.net/data/flags/w580/ga.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ga.png",
+ "attractions": ["Pointe-Denis Beach","Cathedrale Saint Louis","Notre-dame de Lourdes"]		
 },
 {
  "id": 65,
@@ -593,7 +658,8 @@
  "isoAlpha3": "GMB",
  "population": 2416668,
  "gasolinePrice": 1.03,
- "img": "https://flagpedia.net/data/flags/w580/gm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gm.png",
+ "attractions": ["Katchikally Crocodile Pool","Abuko Nature Reserve","Banjul Old Town"]		
 },
 {
  "id": 66,
@@ -602,7 +668,8 @@
  "isoAlpha3": "GEO",
  "population": 3989167,
  "gasolinePrice": 0.84,
- "img": "https://flagpedia.net/data/flags/w580/ge.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ge.png",
+ "attractions": ["Tbilisi Old Town","Gergeti Trinity Church","Vardzia"]		
 },
 {
  "id": 67,
@@ -611,7 +678,8 @@
  "isoAlpha3": "DEU",
  "population": 83783942,
  "gasolinePrice": 1.76,
- "img": "https://flagpedia.net/data/flags/w580/de.png"		
+ "img": "https://flagpedia.net/data/flags/w580/de.png",
+ "attractions": ["Neuschwanstein Castle","The Brandenburg Gate","Cologne Cathedral"]		
 },
 {
  "id": 68,
@@ -620,7 +688,8 @@
  "isoAlpha3": "GHA",
  "population": 31072940,
  "gasolinePrice": 0.97,
- "img": "https://flagpedia.net/data/flags/w580/gh.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gh.png",
+ "attractions": ["Cape Coast Castle","Kakum National Park","Wli Waterfalls"]		
 },
 {
  "id": 69,
@@ -629,7 +698,8 @@
  "isoAlpha3": "GRC",
  "population": 10423054,
  "gasolinePrice": 1.93,
- "img": "https://flagpedia.net/data/flags/w580/gr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gr.png",
+ "attractions": ["The Acropolis of Athens","Santorini/Mykonos","Rhodes Town"]		
 },
 {
  "id": 70,
@@ -638,7 +708,8 @@
  "isoAlpha3": "GRD",
  "population": 112523,
  "gasolinePrice": 1.29,
- "img": "https://flagpedia.net/data/flags/w580/gd.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gd.png",
+ "attractions": ["Grand Anse Beach","Belmont Estate","Sandy Island"]		
 },
 {
  "id": 71,
@@ -647,7 +718,8 @@
  "isoAlpha3": "GTM",
  "population": 17915568,
  "gasolinePrice": 0.93,
- "img": "https://flagpedia.net/data/flags/w580/gt.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gt.png",
+ "attractions": ["Tikal","Volcán Pacaya","Lake Atitlán"]		
 },
 {
  "id": 72,
@@ -656,7 +728,8 @@
  "isoAlpha3": "GIN",
  "population": 13132795,
  "gasolinePrice": 0.91,
- "img": "https://flagpedia.net/data/flags/w580/gn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gn.png",
+ "attractions": ["Îles de Los","Le Voile de la Mariee","The Sandervalia National Museum"]		
 },
 {
  "id": 73,
@@ -665,7 +738,8 @@
  "isoAlpha3": "GNB",
  "population": 1968001,
  "gasolinePrice": 1.22,
- "img": "https://flagpedia.net/data/flags/w580/gw.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gw.png",
+ "attractions": ["Orango Island","Bubaque Island","Dulombi-Boe National Park"]		
 },
 {
  "id": 74,
@@ -674,7 +748,8 @@
  "isoAlpha3": "GUY",
  "population": 786552,
  "gasolinePrice": 0.93,
- "img": "https://flagpedia.net/data/flags/w580/gy.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gy.png",
+ "attractions": ["Guyana National Museum","St. George's Cathedral","Kumu Falls"]		
 },
 {
  "id": 75,
@@ -683,7 +758,8 @@
  "isoAlpha3": "HTI",
  "population": 11402528,
  "gasolinePrice": 0.63,
- "img": "https://flagpedia.net/data/flags/w580/ht.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ht.png",
+ "attractions": ["Bassin Bleu","Saut-Mathurine","Kokoye Beach"]		
 },
 {
  "id": 76,
@@ -692,7 +768,8 @@
  "isoAlpha3": "HND",
  "population": 9904607,
  "gasolinePrice": 1.1,
- "img": "https://flagpedia.net/data/flags/w580/hn.png"	
+ "img": "https://flagpedia.net/data/flags/w580/hn.png",
+ "attractions": ["West Bay Beach","Copan Ruinas","Cayos Cochinos"]		
 },
 {
  "id": 77,
@@ -701,7 +778,8 @@
  "isoAlpha3": "HUN",
  "population": 9660351,
  "gasolinePrice": 1.41,
- "img": "https://flagpedia.net/data/flags/w580/hu.png"		
+ "img": "https://flagpedia.net/data/flags/w580/hu.png",
+ "attractions": ["Parliament","The Eger Castle","Fisherman's Bastion"]		
 },
 {
  "id": 78,
@@ -710,7 +788,8 @@
  "isoAlpha3": "ISL",
  "population": 	341243,
  "gasolinePrice": 1.89,
- "img": "https://flagpedia.net/data/flags/w580/is.png"		
+ "img": "https://flagpedia.net/data/flags/w580/is.png",
+ "attractions": ["Dettifoss","Hallgrímskirkja","Gullfoss"]		
 },
 {
  "id": 79,
@@ -719,7 +798,8 @@
  "isoAlpha3": "IND",
  "population": 1380004385,
  "gasolinePrice": 1.24,
- "img": "https://flagpedia.net/data/flags/w580/in.png"		
+ "img": "https://flagpedia.net/data/flags/w580/in.png",
+ "attractions": ["Taj Mahal","Agra Fort","Amber"]		
 },
 {
  "id": 80,
@@ -728,7 +808,8 @@
  "isoAlpha3": "IDN",
  "population": 	273523615,
  "gasolinePrice": 0.74,
- "img": "https://flagpedia.net/data/flags/w580/id.png"		
+ "img": "https://flagpedia.net/data/flags/w580/id.png",
+ "attractions": ["Bali","Monkey Forest Sanctuary","Tirta Empul Temple"]		
 },
 {
  "id": 81,
@@ -737,7 +818,8 @@
  "isoAlpha3": "IRN",
  "population": 83992949,
  "gasolinePrice": 0.06,
- "img": "https://flagpedia.net/data/flags/w580/ir.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ir.png",
+ "attractions": ["The Nasir al-Mulk Mosque","Persepolis","The Ali Sadr Cave"]		
 },
 {
  "id": 82,
@@ -746,7 +828,8 @@
  "isoAlpha3": "IRQ",
  "population": 40222493,
  "gasolinePrice": 0.51,
- "img": "https://flagpedia.net/data/flags/w580/iq.png"		
+ "img": "https://flagpedia.net/data/flags/w580/iq.png",
+ "attractions": ["Sami Abdulrahman Park","The Imam Husain Shrine","Citadel of Arbil"]		
 },
 {
  "id": 83,
@@ -755,7 +838,8 @@
  "isoAlpha3": "IRL",
  "population": 4937786,
  "gasolinePrice": 1.77,
- "img": "https://flagpedia.net/data/flags/w580/ie.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ie.png",
+ "attractions": ["Kilmainham Gaol","Guinness Storehouse","Dún Aonghasa"]		
 },
 {
  "id": 84,
@@ -764,7 +848,8 @@
  "isoAlpha3": "ISR",
  "population": 8655535,
  "gasolinePrice": 1.93,
- "img": "https://flagpedia.net/data/flags/w580/il.png"		
+ "img": "https://flagpedia.net/data/flags/w580/il.png",
+ "attractions": ["Masada","Shuk Machane Yehuda","Sea of Galilee"]		
 },
 {
  "id": 85,
@@ -773,7 +858,8 @@
  "isoAlpha3": "ITA",
  "population": 60461826,
  "gasolinePrice": 1.90,
- "img": "https://flagpedia.net/data/flags/w580/it.png"		
+ "img": "https://flagpedia.net/data/flags/w580/it.png",
+ "attractions": ["Colosseum","Pantheon","Leaning Tower of Pisa"]		
 },
 {
  "id": 86,
@@ -782,7 +868,8 @@
  "isoAlpha3": "JAM",
  "population": 2961167,
  "gasolinePrice": 1.12,
- "img": "https://flagpedia.net/data/flags/w580/jm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/jm.png",
+ "attractions": ["Negril Beach & the Negril Cliffs","Rafting the Martha Brae River","Dunn's River Falls"]		
 },
 {
  "id": 87,
@@ -791,7 +878,8 @@
  "isoAlpha3": "JPN",
  "population": 126476461,
  "gasolinePrice": 1.35,
- "img": "https://flagpedia.net/data/flags/w580/jp.png"		
+ "img": "https://flagpedia.net/data/flags/w580/jp.png",
+ "attractions": ["Mount Fuji","Hiroshima Peace Memorial Park","Imperial Tokyo"]		
 },
 {
  "id": 88,
@@ -800,7 +888,8 @@
  "isoAlpha3": "JOR",
  "population": 10203134,
  "gasolinePrice": 1.38,
- "img": "https://flagpedia.net/data/flags/w580/jo.png"		
+ "img": "https://flagpedia.net/data/flags/w580/jo.png",
+ "attractions": ["Petra","Wadi Rum Protected Area","Roman Ruins in Amman"]		
 },
 {
  "id": 89,
@@ -809,7 +898,8 @@
  "isoAlpha3": "KAZ",
  "population": 18776707,
  "gasolinePrice": 0.41,
- "img": "https://flagpedia.net/data/flags/w580/kz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/kz.png",
+ "attractions": ["Kok-Tobe Hill","Khan Shatyr","Ascension Cathedral"]		
 },
 {
  "id": 90,
@@ -818,7 +908,8 @@
  "isoAlpha3": "KEN",
  "population": 53771296,
  "gasolinePrice": 1.15,
- "img": "https://flagpedia.net/data/flags/w580/ke.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ke.png",
+ "attractions": ["Nairobi National Park","Maasai Mara National Reserve","Tsavo East National Park"]		
 },
 {
  "id": 91,
@@ -827,7 +918,8 @@
  "isoAlpha3": "KIR",
  "population": 119449,
  "gasolinePrice": 0,
-"img": "https://flagpedia.net/data/flags/w580/ki.png"
+"img": "https://flagpedia.net/data/flags/w580/ki.png",
+ "attractions": ["Tarawa","Christmas Island","Outer Gilbert Islands"]		
 },
 {
  "id": 92,
@@ -836,7 +928,8 @@
  "isoAlpha3": "XKX",
  "population": 1812473,
  "gasolinePrice": 1.27,
- "img": "https://flagpedia.net/data/flags/w580/xk.png"		
+ "img": "https://flagpedia.net/data/flags/w580/xk.png",
+ "attractions": ["Pristina National Library","Kalaja Fortress","Visoki Decani Monastery"]		
 },
 {
  "id": 93,
@@ -845,7 +938,8 @@
  "isoAlpha3": "KWT",
  "population": 4270571,
  "gasolinePrice": 0.35,
- "img": "https://flagpedia.net/data/flags/w580/kw.png"		
+ "img": "https://flagpedia.net/data/flags/w580/kw.png",
+ "attractions": ["The Scientific Center","The Grand Mosque of Kuwait City","Kuwait Tower"]		
 },
 {
  "id": 94,
@@ -854,7 +948,8 @@
  "isoAlpha3": "KGZ",
  "population": 6524195,
  "gasolinePrice": 0.60,
- "img": "https://flagpedia.net/data/flags/w580/kg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/kg.png",
+ "attractions": ["Ala-Archa Gorge","Issyk-Kul Lake","Burana Tower"]		
 },
 {
  "id": 95,
@@ -863,7 +958,8 @@
  "isoAlpha3": "LAO",
  "population": 7275560,
  "gasolinePrice": 1,
-"img": "https://flagpedia.net/data/flags/w580/la.png"
+"img": "https://flagpedia.net/data/flags/w580/la.png",
+ "attractions": ["The Kuang Si Falls","Pha That Luang Vientiane","Phousi Hill"]		
 },
 {
  "id": 96,
@@ -872,7 +968,8 @@
  "isoAlpha3": "LVA",
  "population": 1886198,
  "gasolinePrice": 1.55,
- "img": "https://flagpedia.net/data/flags/w580/lv.png"		
+ "img": "https://flagpedia.net/data/flags/w580/lv.png",
+ "attractions": ["Riga Old Town","Venta Waterfall","Jurmala Beach"]		
 },
 {
  "id": 97,
@@ -881,7 +978,8 @@
  "isoAlpha3": "LBN",
  "population": 6825445,
  "gasolinePrice": 1.27,
- "img": "https://flagpedia.net/data/flags/w580/lb.png"		
+ "img": "https://flagpedia.net/data/flags/w580/lb.png",
+ "attractions": ["Jeita Grotto","National Museum of Beirut","Temples of Baalbek"]		
 },
 {
  "id": 98,
@@ -890,7 +988,8 @@
  "isoAlpha3": "LSO",
  "population": 2142249,
  "gasolinePrice": 0.96,
- "img": "https://flagpedia.net/data/flags/w580/ls.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ls.png",
+ "attractions": ["Katse Dam","Maletsunyane Falls","Maloti"]		
 },
 {
  "id": 99,
@@ -899,7 +998,8 @@
  "isoAlpha3": "LBR",
  "population": 5057681,
  "gasolinePrice": 0.76,
- "img": "https://flagpedia.net/data/flags/w580/lr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/lr.png",
+ "attractions": ["Liberian National Museum","Sapo National Park","Centennial Pavilion"]		
 },
 {
  "id": 100,
@@ -908,7 +1008,8 @@
  "isoAlpha3": "LBY",
  "population": 6871292,
  "gasolinePrice": 0,
-"img": "https://flagpedia.net/data/flags/w580/ly.png"
+"img": "https://flagpedia.net/data/flags/w580/ly.png",
+ "attractions": ["Leptis Magna","Martyrs' Square","Ptolemais"]		
 },
 {
  "id": 101,
@@ -917,7 +1018,8 @@
  "isoAlpha3": "LIE",
  "population": 38128,
  "gasolinePrice": 1.74,
- "img": "https://flagpedia.net/data/flags/w580/li.png"		
+ "img": "https://flagpedia.net/data/flags/w580/li.png",
+ "attractions": ["Vaduz Castle","The Main Square","Liechtenstein National Museum"]		
 },
 {
  "id": 102,
@@ -926,7 +1028,8 @@
  "isoAlpha3": "LTU",
  "population": 2722289,
  "gasolinePrice": 1.4,
- "img": "https://flagpedia.net/data/flags/w580/lt.png"	
+ "img": "https://flagpedia.net/data/flags/w580/lt.png",
+ "attractions": ["Vilnius Old Town","Gediminas Castle Tower","Palanga Beach"]		
 },
 {
  "id": 103,
@@ -935,7 +1038,8 @@
  "isoAlpha3": "LUX",
  "population": 	625978,
  "gasolinePrice": 1.54,
- "img": "https://flagpedia.net/data/flags/w580/lu.png"		
+ "img": "https://flagpedia.net/data/flags/w580/lu.png",
+ "attractions": ["Casemates du Bock","Chateau de Vianden","Mullerthal Trail"]		
 },
 {
  "id": 104,
@@ -944,7 +1048,8 @@
  "isoAlpha3": "MDG",
  "population": 27691018,
  "gasolinePrice": 1.1	,
- "img": "https://flagpedia.net/data/flags/w580/mg.png"	
+ "img": "https://flagpedia.net/data/flags/w580/mg.png",
+ "attractions": ["Avenue of the Baobabs","Lemurs' Park","Anja Reserve"]		
 },
 {
  "id": 105,
@@ -953,7 +1058,8 @@
  "isoAlpha3": "MWI",
  "population": 19129952,
  "gasolinePrice": 1.13,
- "img": "https://flagpedia.net/data/flags/w580/mw.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mw.png",
+ "attractions": ["Mount Mulanje","Kande Beach","Kuti Wildlife Reserve"]		
 },
 {
  "id": 106,
@@ -962,7 +1068,8 @@
  "isoAlpha3": "MYS",
  "population": 	32365999,
  "gasolinePrice": 0.50,
- "img": "https://flagpedia.net/data/flags/w580/my.png"		
+ "img": "https://flagpedia.net/data/flags/w580/my.png",
+ "attractions": ["Batu Caves","Petronas Twin Towers","Mount Kinabalu"]		
 },
 {
  "id": 107,
@@ -971,7 +1078,8 @@
  "isoAlpha3": "MDV",
  "population": 540544,
  "gasolinePrice": 0.76,
- "img": "https://flagpedia.net/data/flags/w580/mv.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mv.png",
+ "attractions": ["National Museum","Alimatha Island","Blue Horizon"]		
 },
 {
  "id": 108,
@@ -980,7 +1088,8 @@
  "isoAlpha3": "MLI",
  "population":	20250833,
  "gasolinePrice": 1.23,
- "img": "https://flagpedia.net/data/flags/w580/ml.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ml.png",
+ "attractions": ["Bandiagara Cliffs","Great Mosque Of Djenne","Djinguereber Mosque"]		
 },
 {
  "id": 109,
@@ -989,7 +1098,8 @@
  "isoAlpha3": "MLT",
  "population": 	441543,
  "gasolinePrice": 1.61,
- "img": "https://flagpedia.net/data/flags/w580/mt.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mt.png",
+ "attractions": ["St. John's Co-Cathedral","Upper Barrakka Gardens","Popeye Village"]		
 },
 {
  "id": 110,
@@ -998,7 +1108,8 @@
  "isoAlpha3": "MHL",
  "population": 	59190,
  "gasolinePrice": 1.15,
- "img": "https://flagpedia.net/data/flags/w580/mh.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mh.png",
+ "attractions": ["Majuro Bridge","Arno Atol","Cathedral of the Assumption"]		
 },
 {
  "id": 111,
@@ -1007,7 +1118,8 @@
  "isoAlpha3": "MRT",
  "population": 4649658,
  "gasolinePrice": 1.11,
- "img": "https://flagpedia.net/data/flags/w580/mr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mr.png",
+ "attractions": ["Port de Peche","Mauritania Sahara","Arguin Bank National Park"]		
 },
 {
  "id": 112,
@@ -1016,7 +1128,8 @@
  "isoAlpha3": "MUS",
  "population": 1271768,
  "gasolinePrice": 1.2,
- "img": "https://flagpedia.net/data/flags/w580/mu.png"	
+ "img": "https://flagpedia.net/data/flags/w580/mu.png",
+ "attractions": ["Île aux Cerfs","Seven Colored Earths","SSR Botanic Garden"]		
 },
 {
  "id": 113,
@@ -1025,7 +1138,8 @@
  "isoAlpha3": "MEX",
  "population": 	128932753,
  "gasolinePrice": 1.19,
- "img": "https://flagpedia.net/data/flags/w580/mx.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mx.png",
+ "attractions": ["Ruins of Tulum","Chichen Itza","Palacio de Bellas Artes"]		
 },
 {
  "id": 114,
@@ -1034,7 +1148,8 @@
  "isoAlpha3": "MDA",
  "population": 4033963,
  "gasolinePrice": 1.09,
- "img": "https://flagpedia.net/data/flags/w580/md.png"		
+ "img": "https://flagpedia.net/data/flags/w580/md.png",
+ "attractions": ["Cricova","Dendrarium Park","Mimi Castle"]		
 },
 {
  "id": 115,
@@ -1042,7 +1157,8 @@
  "capital": "Monaco", 
  "population": 39242,
  "gasolinePrice": 1.89,
- "img": "https://flagpedia.net/data/flags/w580/mc.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mc.png",
+ "attractions": ["Port de Fontvieille","Casino of Monte-Carlo","Prince's Palace"]		
 },
 {
  "id": 116,
@@ -1051,7 +1167,8 @@
  "isoAlpha3": "MNG",
  "population": 3278290,
  "gasolinePrice": 0.69,
- "img": "https://flagpedia.net/data/flags/w580/mn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mn.png",
+ "attractions": ["Gorkhi-Terelj National Park","Hustai National Park","Genghis Khan Square"]		
 },
 {
  "id": 117,
@@ -1060,7 +1177,8 @@
  "isoAlpha3": "MNE",
  "population": 628066,
  "gasolinePrice": 1.56,
- "img": "https://flagpedia.net/data/flags/w580/me.png"		
+ "img": "https://flagpedia.net/data/flags/w580/me.png",
+ "attractions": ["Bay of Kotor","Stari Grad Kotor","Tara River Canyon"]		
 },
 {
  "id": 118,
@@ -1069,7 +1187,8 @@
  "isoAlpha3": "MAR",
  "population": 36910560,
  "gasolinePrice": 1.05,
- "img": "https://flagpedia.net/data/flags/w580/ma.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ma.png",
+ "attractions": ["Bahia Palace","Jemaa el-Fnaa","Merzouga Desert"]		
 },
 {
  "id": 119,
@@ -1078,7 +1197,8 @@
  "isoAlpha3": "MOZ",
  "population": 31255435,
  "gasolinePrice": 1.1,
- "img": "https://flagpedia.net/data/flags/w580/mz.png"	
+ "img": "https://flagpedia.net/data/flags/w580/mz.png",
+ "attractions": ["Inhaca Island","Gorongosa National Park","Fort Sao Sebastian"]		
 },
 {
  "id": 120,
@@ -1087,7 +1207,8 @@
  "isoAlpha3": "MMR",
  "population": 54409800,
  "gasolinePrice": 0.70,
- "img": "https://flagpedia.net/data/flags/w580/mm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mm.png",
+ "attractions": ["Bagan Temples","Ngapali Beach","Inle Lake"]		
 },
 {
  "id": 121,
@@ -1096,7 +1217,8 @@
  "isoAlpha3": "NAM",
  "population": 	2540905,
  "gasolinePrice": 0.88,
- "img": "https://flagpedia.net/data/flags/w580/na.png"		
+ "img": "https://flagpedia.net/data/flags/w580/na.png",
+ "attractions": ["Sossusvlei","Swakopmund","Deadvlei"]		
 },
 {
  "id": 122,
@@ -1105,7 +1227,8 @@
  "isoAlpha3": "NRU",
  "population": 10824,
  "gasolinePrice": 0,
-"img": "https://flagpedia.net/data/flags/w580/nr.png"
+"img": "https://flagpedia.net/data/flags/w580/nr.png",
+ "attractions": ["Anibare Bay","Central Plateau","Japanese Guns"]		
 },
 {
  "id": 123,
@@ -1114,7 +1237,8 @@
  "isoAlpha3": "NPL",
  "population": 29136808,
  "gasolinePrice": 1.01,
- "img": "https://flagpedia.net/data/flags/w580/np.png"		
+ "img": "https://flagpedia.net/data/flags/w580/np.png",
+ "attractions": ["Boudhanath Stupa","Thamel","Mount Everest"]		
 },
 {
  "id": 124,
@@ -1123,7 +1247,8 @@
  "isoAlpha3": "NLD",
  "population": 17134872,
  "gasolinePrice": 2.10,
- "img": "https://flagpedia.net/data/flags/w580/nl.png"		
+ "img": "https://flagpedia.net/data/flags/w580/nl.png",
+ "attractions": ["Amsterdam's Canals","Keukenhof","Van Gogh Museum"]		
 },
 {
  "id": 125,
@@ -1132,7 +1257,8 @@
  "isoAlpha3": "NZL",
  "population": 	4822233,
  "gasolinePrice": 1.64,
- "img": "https://flagpedia.net/data/flags/w580/nz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/nz.png",
+ "attractions": ["Routeburn Track","Milford Sound","Hobbiton Movie Set"]		
 },
 {
  "id": 126,
@@ -1141,7 +1267,8 @@
  "isoAlpha3": "NIC",
  "population": 6624554,
  "gasolinePrice": 1.07,
- "img": "https://flagpedia.net/data/flags/w580/ni.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ni.png",
+ "attractions": ["Islets of Granada","Volcan cerro negro","Apoyo"]		
 },
 {
  "id": 127,
@@ -1150,7 +1277,8 @@
  "isoAlpha3": "NER",
  "population": 24206644,
  "gasolinePrice": 1.01,
- "img": "https://flagpedia.net/data/flags/w580/ne.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ne.png",
+ "attractions": ["Agadez Grande Mosquee","Koure Giraffe Reserve","Niger Sahara"]		
 },
 {
  "id": 128,
@@ -1159,7 +1287,8 @@
  "isoAlpha3": "NGA",
  "population": 206139589,
  "gasolinePrice": 0.42,
- "img": "https://flagpedia.net/data/flags/w580/ng.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ng.png",
+ "attractions": ["Lekki Conservation Centre","Nike Art Gallery","Abuja Arts & Crafts Village"]		
 },
 {
  "id": 129,
@@ -1168,7 +1297,8 @@
  "isoAlpha3": "PRK",
  "population": 25778816,
  "gasolinePrice": 0,
-"img": "https://flagpedia.net/data/flags/w580/kp.png"
+"img": "https://flagpedia.net/data/flags/w580/kp.png",
+ "attractions": ["Tower of the Juche Idea","Kim Il-sung Square","War Museum"]		
 },
 {
  "id": 130,
@@ -1177,7 +1307,8 @@
  "isoAlpha3": "MKD",
  "population": 2083374,
  "gasolinePrice": 1.31,
- "img": "https://flagpedia.net/data/flags/w580/mk.png"		
+ "img": "https://flagpedia.net/data/flags/w580/mk.png",
+ "attractions": ["Matka","Old Bazaar","Galicica National Park"]		
 },
 {
  "id": 131,
@@ -1185,7 +1316,8 @@
  "capital": "Belfast", 
  "population": 1810863,
  "gasolinePrice": 1.73,
- "img": "https://flagpedia.net/data/flags/w580/gb-nir.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gb-nir.png",
+ "attractions": ["Giant's Causeway","Causeway Coastal Route","City Hall"]		
 },
 {
  "id": 132,
@@ -1194,7 +1326,8 @@
  "isoAlpha3": "NOR",
  "population": 5421241,
  "gasolinePrice": 2.05,
- "img": "https://flagpedia.net/data/flags/w580/no.png"		
+ "img": "https://flagpedia.net/data/flags/w580/no.png",
+ "attractions": ["Geiranger Fjord","Lofoten Island","Preikestolen"]		
 },
 {
  "id": 133,
@@ -1203,7 +1336,8 @@
  "isoAlpha3": "OMN",
  "population": 5106626,
  "gasolinePrice": 0.56,
- "img": "https://flagpedia.net/data/flags/w580/om.png"		
+ "img": "https://flagpedia.net/data/flags/w580/om.png",
+ "attractions": ["Wadi Bani Khalid","Wahiba Sands","ultan Qaboos Grand Mosque"]		
 },
 {
  "id": 134,
@@ -1212,7 +1346,8 @@
  "isoAlpha3": "PAK",
  "population": 220892340,
  "gasolinePrice": 0.70,
- "img": "https://flagpedia.net/data/flags/w580/pk.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pk.png",
+ "attractions": ["Badshahi Mosque","Lahore Fort","Hunza Valley"]		
 },
 {
  "id": 135,
@@ -1221,7 +1356,8 @@
  "isoAlpha3": "PLW",
  "population":	18094,
  "gasolinePrice": 1.33,
- "img": "https://flagpedia.net/data/flags/w580/pw.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pw.png",
+ "attractions": ["Milky Way","Rock Islands","Ngardmau Falls"]		
 },
 {
  "id": 136,
@@ -1230,7 +1366,8 @@
  "isoAlpha3": "PSE",
  "population": 5101414,
  "gasolinePrice": 1.54,
- "img": "https://flagpedia.net/data/flags/w580/ps.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ps.png",
+ "attractions": ["Hisham's Palace","Zedekiah's Cave","Abraham Mosque"]		
 },
 {
  "id": 137,
@@ -1239,7 +1376,8 @@
  "isoAlpha3": "PAN",
  "population": 4314767,
  "gasolinePrice": 0.85,
- "img": "https://flagpedia.net/data/flags/w580/pa.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pa.png",
+ "attractions": ["Panama Canal","Casco Viejo","Isla Perro"]		
 },
 {
  "id": 138,
@@ -1248,7 +1386,8 @@
  "isoAlpha3": "PNG",
  "population": 8947024,
  "gasolinePrice": 1.08,
- "img": "https://flagpedia.net/data/flags/w580/pg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pg.png",
+ "attractions": ["Kokoda Track","Kitava Island","Mount Wilhelm"]		
 },
 {
  "id": 139,
@@ -1257,7 +1396,8 @@
  "isoAlpha3": "PRY",
  "population": 7132538,
  "gasolinePrice": 0.99,
- "img": "https://flagpedia.net/data/flags/w580/py.png"		
+ "img": "https://flagpedia.net/data/flags/w580/py.png",
+ "attractions": ["Iguazu Falls","Ruta Trans Chaco Road","Presa De Itaipu"]		
 },
 {
  "id": 140,
@@ -1266,7 +1406,8 @@
  "isoAlpha3": "PER",
  "population": 32971854,
  "gasolinePrice": 0.99,
- "img": "https://flagpedia.net/data/flags/w580/pe.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pe.png",
+ "attractions": ["Machu Picchu","Sacsayhuamán","Colca Canyon"]		
 },
 {
  "id": 141,
@@ -1275,7 +1416,8 @@
  "isoAlpha3": "PHL",
  "population": 109581078,
  "gasolinePrice": 1.05,
- "img": "https://flagpedia.net/data/flags/w580/ph.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ph.png",
+ "attractions": ["Chocolate Hills","Alona Beach","Yapak Beach"]		
 },
 {
  "id": 142,
@@ -1284,7 +1426,8 @@
  "isoAlpha3": "POL",
  "population": 37846611,
  "gasolinePrice": 1.39,
- "img": "https://flagpedia.net/data/flags/w580/pl.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pl.png",
+ "attractions": ["Auschwitz-Birkenau Museum","Warsaw Old Town","Wieliczka Salt Mine"]		
 },
 {
  "id": 143,
@@ -1293,7 +1436,8 @@
  "isoAlpha3": "PRT",
  "population": 10196709,
  "gasolinePrice": 1.90,
- "img": "https://flagpedia.net/data/flags/w580/pt.png"		
+ "img": "https://flagpedia.net/data/flags/w580/pt.png",
+ "attractions": ["Torre de Belem","Falesia Beach","Oceanário de Lisboa"]		
 },
 {
  "id": 144,
@@ -1302,7 +1446,8 @@
  "isoAlpha3": "QAT",
  "population": 2881053,
  "gasolinePrice": 0.50,
- "img": "https://flagpedia.net/data/flags/w580/qa.png"		
+ "img": "https://flagpedia.net/data/flags/w580/qa.png",
+ "attractions": ["Souq Waqif","The Corniche","Museum of Islamic Art"]		
 },
 {
  "id": 145,
@@ -1311,7 +1456,8 @@
  "isoAlpha3": "ROU",
  "population": 19237691,
  "gasolinePrice": 1.33,
- "img": "https://flagpedia.net/data/flags/w580/ro.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ro.png",
+ "attractions": ["Bran Castle (Dracula's Castle)","Palace of Parliament","Peles Castle"]		
 },
 {
  "id": 146,
@@ -1320,7 +1466,8 @@
  "isoAlpha3": "RUS",
  "population": 	145934462,
  "gasolinePrice": 0.46,
- "img": "https://flagpedia.net/data/flags/w580/ru.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ru.png",
+ "attractions": ["St. Basil's Cathedral","Moscow Kremlin","Baikal Lake"]		
 },
 {
  "id": 147,
@@ -1329,7 +1476,8 @@
  "isoAlpha3": "RWA",
  "population": 12952218,
  "gasolinePrice": 0.65,
- "img": "https://flagpedia.net/data/flags/w580/rw.png"		
+ "img": "https://flagpedia.net/data/flags/w580/rw.png",
+ "attractions": ["Volcans National Park","Kigali Genocide Memorial","Akagera National Park"]		
 },
 {
  "id": 148,
@@ -1338,7 +1486,8 @@
  "isoAlpha3": "KNA",
  "population": 53199,
  "gasolinePrice": 2.44,
- "img": "https://flagpedia.net/data/flags/w580/kn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/kn.png",
+ "attractions": ["Brimstone Hill Fortress National Park","Frigate Bay","St. Kitts Scenic Railway"]		
 },
 {
  "id": 149,
@@ -1347,7 +1496,8 @@
  "isoAlpha3": "LCA",
  "population": 183627,
  "gasolinePrice": 1.09,
- "img": "https://flagpedia.net/data/flags/w580/lc.png"		
+ "img": "https://flagpedia.net/data/flags/w580/lc.png",
+ "attractions": ["The Pitons","Marigot Bay","Anse Chastanet Marine National Park"]		
 },
 {
  "id": 150,
@@ -1356,7 +1506,8 @@
  "isoAlpha3": "VCT",
  "population": 110940,
  "gasolinePrice": 3.60,
- "img": "https://flagpedia.net/data/flags/w580/vc.png"		
+ "img": "https://flagpedia.net/data/flags/w580/vc.png",
+ "attractions": ["Mustique","Tobago Cays","Bequia"]		
 },
 {
  "id": 151,
@@ -1365,7 +1516,8 @@
  "isoAlpha3": "WSM",
  "population": 198414,
  "gasolinePrice": 1.05,
- "img": "https://flagpedia.net/data/flags/w580/ws.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ws.png",
+ "attractions": ["To Sua Ocean Trench","Papaseea Sliding Rock","Lalomanu Beach"]		
 },
 {
  "id": 152,
@@ -1374,7 +1526,8 @@
  "isoAlpha3": "SMR",
  "population": 	33931,
  "gasolinePrice": 1.76,
- "img": "https://flagpedia.net/data/flags/w580/sm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sm.png",
+ "attractions": ["Guaita","Piazza della Libertà","Mount Titan"]		
 },
 {
  "id": 153,
@@ -1383,7 +1536,8 @@
  "isoAlpha3": "STP",
  "population": 	219159,
  "gasolinePrice": 1.18,
- "img": "https://flagpedia.net/data/flags/w580/st.png"		
+ "img": "https://flagpedia.net/data/flags/w580/st.png",
+ "attractions": ["National Museum","Cascata de Sao Nicolau","Banana Beach"]		
 },
 {
  "id": 154,
@@ -1392,7 +1546,8 @@
  "isoAlpha3": "SAU",
  "population": 34813871,
  "gasolinePrice": 0.56,
- "img": "https://flagpedia.net/data/flags/w580/sa.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sa.png",
+ "attractions": ["Mecca","Quba Mosque","Al Masjid an Nabawi"]		
 },
 {
  "id": 155,
@@ -1400,7 +1555,8 @@
  "capital": "Edinburgh", 
  "population": 5463300,
  "gasolinePrice": 1.71,
- "img": "https://flagpedia.net/data/flags/w580/gb-sct.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gb-sct.png",
+ "attractions": ["Edinburgh Castle","Loch Lomond","Loch Ness"]		
 },
 {
  "id": 156,
@@ -1409,7 +1565,8 @@
  "isoAlpha3": "SEN",
  "population": 	16743927,
  "gasolinePrice": 1.42,
- "img": "https://flagpedia.net/data/flags/w580/sn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sn.png",
+ "attractions": ["Lac Retba","Goree","Reserve De Bandia"]		
 },
 {
  "id": 157,
@@ -1418,7 +1575,8 @@
  "isoAlpha3": "SRB",
  "population": 8737371,
  "gasolinePrice": 1.55,
- "img": "https://flagpedia.net/data/flags/w580/rs.png"		
+ "img": "https://flagpedia.net/data/flags/w580/rs.png",
+ "attractions": ["Belgrade Fortress","Nis Fortress","Knez Mihailova"]		
 },
 {
  "id": 158,
@@ -1427,7 +1585,8 @@
  "isoAlpha3": "SYC",
  "population": 	98347,
  "gasolinePrice": 1.46,
- "img": "https://flagpedia.net/data/flags/w580/sc.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sc.png",
+ "attractions": ["Anse Lazio","Anse Source D'Argent","Vallée de Mai Nature Reserve"]		
 },
 {
  "id": 159,
@@ -1436,7 +1595,8 @@
  "isoAlpha3": "SLE",
  "population": 7976983,
  "gasolinePrice": 0.83,
- "img": "https://flagpedia.net/data/flags/w580/sl.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sl.png",
+ "attractions": ["River Number Two Beach","Tacugama Chimpanzee Sanctuary","Sea Coach Express"]		
 },
 {
  "id": 160,
@@ -1445,7 +1605,8 @@
  "isoAlpha3": "SGP",
  "population": 	5850342,
  "gasolinePrice": 1.73,
- "img": "https://flagpedia.net/data/flags/w580/sg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sg.png",
+ "attractions": ["Marina Bay Sands","Gardens by the Bay","Sentosa"]		
 },
 {
  "id": 161,
@@ -1454,7 +1615,8 @@
  "isoAlpha3": "SVK",
  "population": 	5459642,
  "gasolinePrice": 1.35,
- "img": "https://flagpedia.net/data/flags/w580/sk.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sk.png",
+ "attractions": ["Devin Castle","Bratislava Old Town","Slovak Paradise National Park"]		
 },
 {
  "id": 162,
@@ -1463,7 +1625,8 @@
  "isoAlpha3": "SVN",
  "population": 	2078938,
  "gasolinePrice": 1.40,
- "img": "https://flagpedia.net/data/flags/w580/si.png"		
+ "img": "https://flagpedia.net/data/flags/w580/si.png",
+ "attractions": ["Postojna Caves","Ljubljana Castle","Ljubljana Old Town"]		
 },
 {
  "id": 163,
@@ -1472,7 +1635,8 @@
  "isoAlpha3": "SLB",
  "population": 	686884,
  "gasolinePrice": 1.08,
- "img": "https://flagpedia.net/data/flags/w580/sb.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sb.png",
+ "attractions": ["Marovo Lagoon","Kennedy Island","Kasolo Island"]		
 },
 {
  "id": 164,
@@ -1481,7 +1645,8 @@
  "isoAlpha3": "SOM",
  "population": 	15893222,
  "gasolinePrice": 0.86,
- "img": "https://flagpedia.net/data/flags/w580/so.png"		
+ "img": "https://flagpedia.net/data/flags/w580/so.png",
+ "attractions": ["Hargeisa","Laas Geel","Zeila"]		
 },
 {
  "id": 165,
@@ -1490,7 +1655,8 @@
  "isoAlpha3": "ZAF",
  "population": 	59308690,
  "gasolinePrice": 1.19,
- "img": "https://flagpedia.net/data/flags/w580/za.png"		
+ "img": "https://flagpedia.net/data/flags/w580/za.png",
+ "attractions": ["Cape of Good Hope","Kruger National Park","Victoria & Alfred Waterfront"]		
 },
 {
  "id": 166,
@@ -1499,7 +1665,8 @@
  "isoAlpha3": "KOR",
  "population": 	51269185,
  "gasolinePrice": 1.36,
- "img": "https://flagpedia.net/data/flags/w580/kr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/kr.png",
+ "attractions": ["Gyeongbokgung Palace","Bukchon Hanok Village","Seoul Tower"]		
 },
 {
  "id": 167,
@@ -1508,7 +1675,8 @@
  "isoAlpha3": "SSD",
  "population": 	11193725,
  "gasolinePrice": 1.70,
- "img": "https://flagpedia.net/data/flags/w580/ss.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ss.png",
+ "attractions": ["Boma National Park","Bandingilo National Park","Kidepo Game Reserve"]		
 },
 {
  "id": 168,
@@ -1517,7 +1685,8 @@
  "isoAlpha3": "ESP",
  "population":	46754778,
  "gasolinePrice": 1.59,
- "img": "https://flagpedia.net/data/flags/w580/es.png"		
+ "img": "https://flagpedia.net/data/flags/w580/es.png",
+ "attractions": ["Park Guell","Sagrada Familia","Alhambra"]		
 },
 {
  "id": 169,
@@ -1526,7 +1695,8 @@
  "isoAlpha3": "LKA",
  "population": 21413249,
  "gasolinePrice": 0.82,
- "img": "https://flagpedia.net/data/flags/w580/lk.png"		
+ "img": "https://flagpedia.net/data/flags/w580/lk.png",
+ "attractions": ["Sigiriya World Heritage Site","The Golden Temple","Horton Plains National Park"]		
 },
 {
  "id": 170,
@@ -1535,258 +1705,297 @@
  "isoAlpha3": "SDN",
  "population": 43849260,
  "gasolinePrice": 0.53,
- "img": "https://flagpedia.net/data/flags/w580/sd.png"		
+ "img": "https://flagpedia.net/data/flags/w580/sd.png",
+ "attractions": ["Gebel Barkal","Sanganeb National Park","Khalifa House Museum"]		
 },
 {
  "id": 171,
+ "name": "Suriname",
+ "capital": "Paramaribo", 
+ "isoAlpha3": "SUR",
+ "population": 581363,
+ "gasolinePrice": 0.57,
+ "img": "https://flagpedia.net/data/flags/w580/sr.png",
+ "attractions": ["Saint Peter and Paul Basilica","Fort Zeelandia","Tafelberg Nature Preserve"]		
+},
+{
+ "id": 172,
  "name": "Sweden",
  "capital": "Stockholm", 
  "isoAlpha3": "SWE",
  "population": 10099265,
  "gasolinePrice": 1.86,
- "img": "https://flagpedia.net/data/flags/w580/se.png"		
+ "img": "https://flagpedia.net/data/flags/w580/se.png",
+ "attractions": ["Vasa Museum","Skansen","Stockholm Old Town"]		
 },
 {
- "id": 172,
+ "id": 173,
  "name": "Switzerland",
  "capital": "Bern", 
  "isoAlpha3": "CHE",
  "population": 	8654622,
  "gasolinePrice": 1.68,
- "img": "https://flagpedia.net/data/flags/w580/ch.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ch.png",
+ "attractions": ["Geneva Lake","Zurich Lake","The Matterhorn"]		
 },
 {
- "id": 173,
+ "id": 174,
  "name": "Syria",
  "capital": "Damascus", 
  "isoAlpha3": "SYR",
  "population": 	17500658,
  "gasolinePrice":  1.45,
- "img": "https://flagpedia.net/data/flags/w580/sy.png"	
+ "img": "https://flagpedia.net/data/flags/w580/sy.png",
+ "attractions": ["Umayyad Mosque","Palmyra","Aleppo Citadel"]		
 },
 {
- "id": 174,
+ "id": 175,
  "name": "Taiwan",
  "capital": "Taipei", 
  "isoAlpha3": "TWN",
  "population": 	23816775,
  "gasolinePrice": 1,
-"img": "https://flagpedia.net/data/flags/w580/tw.png"
+"img": "https://flagpedia.net/data/flags/w580/tw.png",
+ "attractions": ["The National Palace Museum","Xinyi District 101","Chiang Kai-Shek Memorial Hall"]		
 },
 {
- "id": 175,
+ "id": 176,
  "name": "Tajikistan",
  "capital": "Dushanbe", 
  "isoAlpha3": "TJK",
  "population": 	9537645,
  "gasolinePrice": 0.69,
- "img": "https://flagpedia.net/data/flags/w580/tj.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tj.png",
+ "attractions": ["Nurek Dam","Rudaki Park","Iskanderkul Lake"]		
 },
 {
- "id": 176,
+ "id": 177,
  "name": "Tanzania",
  "capital": "Dodoma", 
  "isoAlpha3": "TZA",
  "population": 	59734218,
  "gasolinePrice": 0.91,
- "img": "https://flagpedia.net/data/flags/w580/tz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tz.png",
+ "attractions": ["Ngorongoro Crater","Mount Kilimanjaro","Zanzibar"]		
 },
 {
- "id": 177,
+ "id": 178,
  "name": "Thailand",
  "capital": "Bangkok", 
  "isoAlpha3": "THA",
  "population": 69799978,
  "gasolinePrice": 1.11,
- "img": "https://flagpedia.net/data/flags/w580/th.png"		
+ "img": "https://flagpedia.net/data/flags/w580/th.png",
+ "attractions": ["Wat Pho","Khao Yai National Park","The Grand Palace"]		
 },
 {
- "id": 178,
+ "id": 179,
  "name": "Togo",
  "capital": "Lome", 
  "isoAlpha3": "TGO",
  "population": 	8278724,
  "gasolinePrice": 0.78,
- "img": "https://flagpedia.net/data/flags/w580/tg.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tg.png",
+ "attractions": ["Koutammakou","Monument de L'Independance","Cascade de Kpime"]		
 },
 {
- "id": 179,
+ "id": 180,
  "name": "Tonga",
  "capital": "Nuku'alofa", 
  "isoAlpha3": "TON",
  "population": 	105695,
  "gasolinePrice": 1.04,
- "img": "https://flagpedia.net/data/flags/w580/to.png"		
+ "img": "https://flagpedia.net/data/flags/w580/to.png",
+ "attractions": ["Mapu'a 'a Vaea Blowholes","Anahulu Cave","Ha'amonga'a Maui Trilithon"]		
 },
 {
- "id": 180,
+ "id": 181,
  "name": "Trinidad and Tobago",
  "capital": "Port of Spain", 
  "isoAlpha3": "TTO",
  "population": 	1399488,
  "gasolinePrice": 0.76,
- "img": "https://flagpedia.net/data/flags/w580/tt.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tt.png",
+ "attractions": ["Maracas Beach","Englishman's Bay","Pigeon Point Beach"]		
 },
 {
- "id": 181,
+ "id": 182,
  "name": "Tunisia",
  "capital": "Tunis", 
  "isoAlpha3": "TUN",
  "population": 	11818619,
  "gasolinePrice": 0.76,
- "img": "https://flagpedia.net/data/flags/w580/tn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tn.png",
+ "attractions": ["El Djem Amphitheater","Mahdia Beach","Thugga"]		
 },
 {
- "id": 182,
+ "id": 183,
  "name": "Turkey",
  "capital": "Ankara", 
  "isoAlpha3": "TUR",
  "population":	84339067,
  "gasolinePrice": 0.86,
- "img": "https://flagpedia.net/data/flags/w580/tr.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tr.png",
+ "attractions": ["Sultan Ahmed Mosque","Hagia Sophia","Topkapi"]		
 },
 {
- "id": 183,
+ "id": 184,
  "name": "Turkmenistan",
  "capital": "Ashgabat", 
  "isoAlpha3": "TKM",
  "population": 	6031200,
  "gasolinePrice": 0.42,
- "img": "https://flagpedia.net/data/flags/w580/tm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/tm.png",
+ "attractions": ["'Door to Hell'","Parthian Settlement of Nisa","Gypjak Mosque"]		
 },
 {
- "id": 184,
+ "id": 185,
  "name": "Tuvalu",
  "capital": "Funafuti", 
  "isoAlpha3": "TUV",
  "population": 	11792,
  "gasolinePrice": 0,
-"img": "https://flagpedia.net/data/flags/w580/tv.png"
+"img": "https://flagpedia.net/data/flags/w580/tv.png",
+ "attractions": ["Tuvalu Philatelic Bureau","Funafuti Marine Area","Tuvalu National Library"]		
 },
 {
- "id": 185,
+ "id": 186,
  "name": "Uganda",
  "capital": "Kampala", 
  "isoAlpha3": "UGA",
  "population": 	45741007,
  "gasolinePrice": 1.15,
- "img": "https://flagpedia.net/data/flags/w580/ug.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ug.png",
+ "attractions": ["Murchison Falls National Park","Gaddafi National Mosque","Kampala"]		
 },
 {
- "id": 186,
+ "id": 187,
  "name": "Ukraine",
  "capital": "Kiev", 
  "isoAlpha3": "UKR",
  "population": 	43733762,
  "gasolinePrice": 1.02,
- "img": "https://flagpedia.net/data/flags/w580/ua.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ua.png",
+ "attractions": ["Chernobyl","St. Sophia's Cathedral","L'viv's Historic Center"]		
 },
 {
- "id": 187,
+ "id": 188,
  "name": "United Arab Emirates",
  "capital": "Abu Dhabi", 
  "isoAlpha3": "ARE",
  "population": 	9890402,
  "gasolinePrice": 0.59,
- "img": "https://flagpedia.net/data/flags/w580/ae.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ae.png",
+ "attractions": ["Sheikh Zayed Mosque","Burj Khalifa","The Dubai Mall"]		
 },
 {
- "id": 188,
+ "id": 189,
  "name": "United States",
  "capital": "Washington D.C.", 
  "isoAlpha3": "USA",
  "population": 	331002651,
  "gasolinePrice": 0.85,
- "img": "https://flagpedia.net/data/flags/w580/us.png"		
+ "img": "https://flagpedia.net/data/flags/w580/us.png",
+ "attractions": ["Grand Canyon","Times Square","Yosemite National Park"]		
 },
 {
- "id": 189,
+ "id": 190,
  "name": "Uruguay",
  "capital": "Montevideo", 
  "isoAlpha3": "URY",
  "population": 	3473730,
  "gasolinePrice": 1.32,
- "img": "https://flagpedia.net/data/flags/w580/uy.png"		
+ "img": "https://flagpedia.net/data/flags/w580/uy.png",
+ "attractions": ["Rambla de Montevideo","Plaza Independencia","Palacio Salvo"]		
 },
 {
- "id": 190,
+ "id": 191,
  "name": "Uzbekistan",
  "capital": "Tashkent", 
  "isoAlpha3": "UZB",
  "population": 	33469203,
  "gasolinePrice": 0.67,
- "img": "https://flagpedia.net/data/flags/w580/uz.png"		
+ "img": "https://flagpedia.net/data/flags/w580/uz.png",
+ "attractions": ["Ichan Kala","Amir Timur Museum","Registan"]		
 },
 {
- "id": 191,
+ "id": 192,
  "name": "Vanuatu",
  "capital": "Port Vila", 
  "isoAlpha3": "VUT",
  "population": 	307145,
  "gasolinePrice": 1.46,
- "img": "https://flagpedia.net/data/flags/w580/vu.png"		
+ "img": "https://flagpedia.net/data/flags/w580/vu.png",
+ "attractions": ["Mount Yasur","Champagne Beach","Millennium Cave"]		
 },
 {
- "id": 192,
+ "id": 193,
  "name": "Vatican City",
  "capital": "Vatican City", 
  "isoAlpha3": "VAT",
  "population": 	825,
  "gasolinePrice": 0,
- "img": "https://flagpedia.net/data/flags/w580/va.png"	
+ "img": "https://flagpedia.net/data/flags/w580/va.png",
+ "attractions": ["St. Peter's Basilica","Vatican Museums","Sistine Chapel"]		
 },
 {
- "id": 193,
+ "id": 194,
  "name": "Venezuela",
  "capital": "Caracas", 
  "isoAlpha3": "VEN",
  "population": 	28435940,
  "gasolinePrice": 0.02,
- "img": "https://flagpedia.net/data/flags/w580/ve.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ve.png",
+ "attractions": ["Playa El Yaque","Cayo de Agua","Médanos de Coro"]		
 },
 {
- "id": 194,
+ "id": 195,
  "name": "Vietnam",
  "capital": "Hanoi", 
  "isoAlpha3": "VNM",
  "population": 	97338579,
  "gasolinePrice": 0.83,
- "img": "https://flagpedia.net/data/flags/w580/vn.png"		
+ "img": "https://flagpedia.net/data/flags/w580/vn.png",
+ "attractions": ["Cu Chi Tunnels","Halong Bay","The Marble Mountains"]		
 },
 {
- "id": 195,
+ "id": 196,
  "name": "Wales",
  "capital": "Cardiff", 
  "population": 	3063456,
  "gasolinePrice": 1.70,
- "img": "https://flagpedia.net/data/flags/w580/gb-wls.png"		
+ "img": "https://flagpedia.net/data/flags/w580/gb-wls.png",
+ "attractions": ["Snowdonia National Park","Conwy","Beaumaris Castle"]		
 },
 {
- "id": 196,
+ "id": 197,
  "name": "Yemen",
  "capital": "Sana'a", 
  "isoAlpha3": "YEM",
  "population": 	29825964,
  "gasolinePrice": 1.51,
- "img": "https://flagpedia.net/data/flags/w580/ye.png"		
+ "img": "https://flagpedia.net/data/flags/w580/ye.png",
+ "attractions": ["Qalansiyah Beach","Cairo Castle","Stone House"]		
 },
 {
- "id": 197,
+ "id": 198,
  "name": "Zambia",
  "capital": "Lusaka", 
  "isoAlpha3": "ZMB",
  "population": 	18383955,
  "gasolinePrice": 0.97,
- "img": "https://flagpedia.net/data/flags/w580/zm.png"		
+ "img": "https://flagpedia.net/data/flags/w580/zm.png",
+ "attractions": ["Victoria Falls","Devil's Pool","Chaminuka Game Reserve"]		
 },
 {
- "id": 198,
+ "id": 199,
  "name": "Zimbabwe",
  "capital": "Harare", 
  "isoAlpha3": "ZWE",
  "population": 	14862924,
  "gasolinePrice": 1.35,
- "img": "https://flagpedia.net/data/flags/w580/zw.png"	
+ "img": "https://flagpedia.net/data/flags/w580/zw.png",
+ "attractions": ["Victoria Falls Bridge","Matobo National Park","Harare"]		
 }
  ]
 }
