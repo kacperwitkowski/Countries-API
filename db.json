@@ -5,7 +5,7 @@
  "name": "Afghanistan",
 "capital":"Kabul",
  "isoAlpha3": "AFG",
- "population": 38928346,
+ "population":"38,928,346",
  "gasolinePrice": 0.45,
  "img": "https://flagpedia.net/data/flags/w580/af.png",
  "attractions": ["Babur Tomb","Qargha Lake","Band-e-Amir"]	
@@ -15,7 +15,7 @@
  "name": "Albania",
 "capital": "Tirana",
  "isoAlpha3": "ALB",
- "population": 2877797,
+ "population":"2,877,797",
  "gasolinePrice": 1.44,
  "img": "https://flagpedia.net/data/flags/w580/al.png",
  "attractions": ["Albanian Riviera","The Blue Eye","Berat"]			
@@ -25,7 +25,7 @@
  "name": "Algeria",
 "capital": "Algiers",
  "isoAlpha3": "DZA",
- "population": 43851044,
+ "population":"43,851,044",
  "gasolinePrice": 0.35,
  "img": "https://flagpedia.net/data/flags/w580/dz.png",
  "attractions": ["Le Jardin d'Essai du Hamma","Kasbah of Algiers","Fort Santa Cruz"]			
@@ -35,7 +35,7 @@
  "name": "Andorra",
 "capital": "Andorra la Vella",
  "isoAlpha3": "AND",
- "population": 77265,
+ "population":"77,265",
  "gasolinePrice": 1.36,
  "img": "https://flagpedia.net/data/flags/w580/ad.png",
  "attractions": ["Vallnord Pal-Arinsal","Soldeu","Coll d'Ordino"]		
@@ -45,7 +45,7 @@
  "name": "Angola",
 "capital": "Luanda",
  "isoAlpha3": "AGO",
- "population": 32866272,
+ "population":"32,866,272",
  "gasolinePrice": 0.28,
  "img": "https://flagpedia.net/data/flags/w580/ao.png",
  "attractions": ["Cabo Ledo","Fortaleza de São Miguel","Kalandula Falls"]	
@@ -55,7 +55,7 @@
  "name": "Antigua and Barbuda", 
 "capital": "Saint John's",
  "isoAlpha3": "ATG",
- "population": 97929,
+ "population":"97,929",
  "gasolinePrice": 1.10,
  "img": "https://flagpedia.net/data/flags/w580/ag.png",
  "attractions": ["Nelson's Dockyard","Turners Beach","Devil's Bridge"]		
@@ -65,7 +65,7 @@
  "name": "Argentina", 
 "capital": "Buenos Aires",
  "isoAlpha3": "ARG",
- "population": 45195774,
+ "population":"45,195,774",
  "gasolinePrice": 0.92,
  "img": "https://flagpedia.net/argentina",
  "attractions": ["Los Glaciares National Park","Iguazú Falls","Cerro Fitz Roy"]			
@@ -75,7 +75,7 @@
  "name": "Armenia", 
 "capital": "Yerevan",
  "isoAlpha3": "ARM",
- "population": 2963243,
+ "population":"2,963,243",
  "gasolinePrice": 0.78,
 "img": "https://flagpedia.net/data/flags/w580/am.png",
 "attractions": ["The Monastery of Geghard","Lake Sevan","Matenadaran"]	
@@ -85,7 +85,7 @@
  "name": "Australia", 
 "capital": "Canberra",
  "isoAlpha3": "AUS",
- "population": 25499884,
+ "population":"25,499,884",
  "gasolinePrice": 	1.08,
  "img": "https://flagpedia.net/data/flags/w580/au.png",
  "attractions": ["Sydney Opera House","Uluru","Whitehaven Beach"]			
@@ -95,7 +95,7 @@
  "name": "Austria", 
 "capital": "Vienna",
  "isoAlpha3": "AUT",
- "population": 9006398,
+ "population":"9,006,398",
  "gasolinePrice": 1.53,
  "img": "https://flagpedia.net/data/flags/w580/at.png",
  "attractions": ["Schönbrunn Palace","St. Stephen's Cathedral","Mirabell Palace"]			
@@ -105,7 +105,7 @@
  "name": "Azerbaijan", 
 "capital": "Baku",
  "isoAlpha3": "AZE",
- "population": 10139177,
+ "population":"10,139,177",
  "gasolinePrice": 0.59,
  "img": "https://flagpedia.net/data/flags/w580/az.png",
  "attractions": ["Lake Goygol","Baku Boulevard","The Heydar Aliyev Center"]			
@@ -115,7 +115,7 @@
  "name": "Bahamas", 
  "capital": "Nassau",
  "isoAlpha3": "BHS",
- "population": 393244,
+ "population":"393,244",
  "gasolinePrice": 1.39,
  "img": "https://flagpedia.net/data/flags/w580/bs.png",
  "attractions": ["Blue Lagoon Island","Gold Rock Beach","The Water Park at Atlantis"]			
@@ -125,7 +125,7 @@
  "name": "Bahrain", 
 "capital": "Manama",
  "isoAlpha3": "BHR",
- "population": 1701575,
+ "population":"1,701,575",
  "gasolinePrice": 0.37,
  "img": "https://flagpedia.net/data/flags/w580/bh.png",
  "attractions": ["The Bahrain National Museum","Al-Faith Mosque","Al Dar Islands"]			
@@ -135,7 +135,7 @@
  "name": "Bangladesh",
 "capital": "Dhaka",
  "isoAlpha3": "BGD",
- "population": 164689383,
+ "population":"164,689,383",
  "gasolinePrice": 1.1,
  "img": "https://flagpedia.net/data/flags/w580/bd.png",
  "attractions": ["Lalbagh Fort","Ahsan Manzil Museum","Sonargaon"]			
@@ -145,7 +145,7 @@
  "name": "Barbados", 
 "capital": "Bridgetown",
  "isoAlpha3": "BRB",
- "population": 287375,
+ "population":"287,375",
  "gasolinePrice": 1.87,
  "img": "https://flagpedia.net/data/flags/w580/bb.png",
  "attractions": ["Harrison's Cave","Bathsheba Beach","Andromeda Gardens"]			
@@ -155,7 +155,7 @@
  "name": "Belarus", 
  "capital": "Minsk",
  "isoAlpha3": "BLR",
- "population": 	9449323,
+ "population":"9,449,323",
  "gasolinePrice": 0.75,
  "img": "https://flagpedia.net/data/flags/w580/by.png",
  "attractions": ["The Mir Castle","Church of Saints Simon and Helena","Braslav Lake Area"]			
@@ -165,7 +165,7 @@
  "name": "Belgium",
  "capital": "Brussels", 
  "isoAlpha3": "BEL",
- "population": 11589623,
+ "population":"11,589,623",
  "gasolinePrice": 1.87,
  "img": "https://flagpedia.net/data/flags/w580/be.png",
  "attractions": ["The Grand Place","The Atomium","Manneken Pis"]			
@@ -175,7 +175,7 @@
  "name": "Belize",
  "capital": "Belmopan", 
  "isoAlpha3": "BLZ",
- "population": 397628,
+ "population":"397,628",
  "gasolinePrice": 1.52,
  "img": "https://flagpedia.net/data/flags/w580/bz.png",
  "attractions": ["Great Blue Hole","Xunantunich","Caye Caulker"]			
@@ -185,7 +185,7 @@
  "name": "Benin",
 "capital": "Porto Novo",
  "isoAlpha3": "BEN",
- "population": 12123200,
+ "population":"12,123,200",
  "gasolinePrice": 0.93,
  "img": "https://flagpedia.net/data/flags/w580/bj.png",
  "attractions": ["Bab's Dock","The Pendjari National Park","Marche Dantokpa"]			
@@ -195,7 +195,7 @@
  "name": "Bhutan",
 "capital": "Thimphu",
  "isoAlpha3": "BTN",
- "population": 771608,
+ "population":"771,608",
  "gasolinePrice": 0.92,
  "img": "https://flagpedia.net/data/flags/w580/bt.png",
  "attractions": ["The Punakha Dzong","Buddha Dordenma","Paro Taktshang"]			
@@ -205,7 +205,7 @@
  "name": "Bolivia",
 "capital": "La Paz",
  "isoAlpha3": "BOL",
- "population": 11673021,
+ "population":"11,673,021",
  "gasolinePrice": 0.54,
  "img": "https://flagpedia.net/data/flags/w580/bo.png",
  "attractions": ["Salar de Uyuni","Isla del Sol","Cerro Rico"]			
@@ -215,7 +215,7 @@
  "name": "Bosnia and Herzegovina",
 "capital": "Sarajevo",
  "isoAlpha3": "BIH",
- "population": 3280819,
+ "population":"3,280,819",
  "gasolinePrice": 1.31,
  "img": "https://flagpedia.net/data/flags/w580/ba.png",
  "attractions": ["The Mostar Bridge","Latin Bridge","Bascarsija"]			
@@ -225,7 +225,7 @@
  "name": "Botswana",
 "capital": "Gaborone",
  "isoAlpha3": "BWA",
- "population": 2351627,
+ "population":"2,351,627",
  "gasolinePrice": 0.90,
  "img": "https://flagpedia.net/data/flags/w580/bw.png",
  "attractions": ["The Okavango Delta","Moremi Game Reserve","The Makgadikgadi Pan"]			
@@ -235,7 +235,7 @@
  "name": "Brazil",
 "capital": "Brasilia",
  "isoAlpha3": "BRA",
- "population": 212559417,
+ "population":"212,559,417",
  "gasolinePrice": 0.97,
  "img": "https://flagpedia.net/data/flags/w580/br.png",
  "attractions": ["Cristo Redentor and Corcovado","Copacabana","Iguaçu Falls"]			
@@ -245,7 +245,7 @@
  "name": "Brunei", 
 "capital": "Bandar Seri Begawan",
  "isoAlpha3": "BRN",
- "population": 437479,
+ "population":"437,479",
  "gasolinePrice": 0.40,
  "img": "https://flagpedia.net/data/flags/w580/bn.png",
  "attractions": ["Bandar Seri Begawan","Ulu Temburong National Park","Kampong Ayer"]			
@@ -255,7 +255,7 @@
  "name": "Bulgaria",
 "capital": "Sofia",
  "isoAlpha3": "BGR",
- "population": 6948445,
+ "population":"6,948,445",
  "gasolinePrice": 1.3,
  "img": "https://flagpedia.net/data/flags/w580/bg.png",
  "attractions": ["Nesebar","Cape Kaliakra","Rylski Monastyr"]			
@@ -265,7 +265,7 @@
  "name": "Burkina Faso",
 "capital": "Ouagadougou",
  "isoAlpha3": "BFA",
- "population": 20903273,
+ "population":"20,903,273",
  "gasolinePrice": 1.14,
  "img": "https://flagpedia.net/data/flags/w580/bf.png",
  "attractions": ["Les Cascades de Banfora","Laongo Sculptures","Nanzinga Forest"]			
@@ -275,7 +275,7 @@
  "name": "Burundi", 
 "capital": "Gitega",
  "isoAlpha3": "BDI",
- "population": 11890784,
+ "population":"11,890,784",
  "gasolinePrice": 1.23,
  "img": "https://flagpedia.net/data/flags/w580/bi.png",
  "attractions": ["Rusizi Nature Reserve","Musee Vivant","Livingston-Stanley Monument"]			
@@ -285,7 +285,7 @@
  "name": "Cambodia", 
 "capital": "Phnom Penh",
  "isoAlpha3": "KHM",
- "population": 16718965,
+ "population":"16,718,965",
  "gasolinePrice": 0.92,
  "img": "https://flagpedia.net/data/flags/w580/kh.png",
  "attractions": ["Angkor Wat","Bayon Temple","Ta Prohm"]	
@@ -295,7 +295,7 @@
  "name": "Cameroon",
 "capital": "Yaounde",
  "isoAlpha3": "CMR",
- "population": 26545863,
+ "population":"26,545,863",
  "gasolinePrice": 1.16,
  "img": "https://flagpedia.net/data/flags/w580/cm.png",
  "attractions": ["The Mount Cameroon","Mefou National Park","Chutes de la Lobe"]		
@@ -305,7 +305,7 @@
  "name": "Canada",
  "capital": "Ottawa", 
  "isoAlpha3": "CAN",
- "population": 37742154,
+ "population":"37,742,154",
  "gasolinePrice": 0.99,
  "img": "https://flagpedia.net/data/flags/w580/ca.png",
  "attractions": ["Niagara Falls","CN Tower","Moraine Lake"]		
@@ -315,7 +315,7 @@
  "name": "Cape Verde",
  "capital": "Praia", 
  "isoAlpha3": "CPV",
- "population": 555987,
+ "population":"555,987",
  "gasolinePrice": 1.32,
  "img": "https://flagpedia.net/data/flags/w580/cv.png",
  "attractions": ["Tarrafal Beach","Pico do Fogo","Buracona"]		
@@ -325,7 +325,7 @@
  "name": "Central African Republic",
  "capital": "Bangui", 
  "isoAlpha3": "CAF",
- "population": 4829767,
+ "population":"4,829,767",
  "gasolinePrice": 2,
 "img": "https://flagpedia.net/data/flags/w580/cf.png",
  "attractions": ["Dzanga-Sangha Reserve","Notre-Dame of Bangui Cathedral","Chutes de Boali"]		
@@ -335,7 +335,7 @@
  "name": "Chad",
  "capital": "N'Djamena", 
  "isoAlpha3": "TCD",
- "population": 16425864,
+ "population":"16,425,864",
  "gasolinePrice": 0.95,
  "img": "https://flagpedia.net/data/flags/w580/td.png",
  "attractions": ["Guelta d’Archei","Tibesti Mountains","Zakouma National Park"]		
@@ -345,7 +345,7 @@
  "name": "Chile",
  "capital": "Santiago", 
  "isoAlpha3": "CHL",
- "population": 19116201,
+ "population":"19,116,201",
  "gasolinePrice": 1.14,
  "img": "https://flagpedia.net/data/flags/w580/cl.png",
  "attractions": ["Atacama Desert","Lauca National Park","Eastern Island"]		
@@ -355,7 +355,7 @@
  "name": "China",
  "capital": "Beijing", 
  "isoAlpha3": "CHN",
- "population": 	1439323776,
+ "population":"1,439,323,776",
  "gasolinePrice": 1,
  "img": "https://flagpedia.net/data/flags/w580/cn.png",
  "attractions": ["Great Wall","The Forbidden City & the Imperial Palace","The Mogao Caves"]		
@@ -366,7 +366,7 @@
  "name": "Colombia",
  "capital": "Bogota", 
  "isoAlpha3": "COL",
- "population": 50882891,
+ "population":"50,882,891",
  "gasolinePrice": 0.63,
  "img": "https://flagpedia.net/data/flags/w580/co.png",
  "attractions": ["The Museum of Gold","The Tayrona National Natural Park","Crab Cay"]		
@@ -376,7 +376,7 @@
  "name": "Comoros",
  "capital": "Moroni", 
  "isoAlpha3": "COM",
- "population": 869601,
+ "population":"869,601",
  "gasolinePrice": 0,
 "img": "https://flagpedia.net/data/flags/w580/km.png",
  "attractions": ["Grande Mosquée de Moroni","Mount Karthala","Nioumachoua Beach"]		
@@ -386,7 +386,7 @@
  "name": "Democratic Republic of the Congo",
  "capital": "Kinshasa", 
  "isoAlpha3": "COD",
- "population": 89561403,
+ "population":"89,561,403",
  "gasolinePrice": 1,
 "img": "https://flagpedia.net/data/flags/w580/cd.png",
  "attractions": ["Mount Nyiragongo","Lola ya Bonobo","Zongo Falls"]		
@@ -396,7 +396,7 @@
  "name": "Republic of the Congo",
  "capital": "Brazzaville", 
  "isoAlpha3": "COG",
- "population": 5518087,
+ "population":"5,518,087",
  "gasolinePrice": 0.98,
  "img": "https://flagpedia.net/data/flags/w580/cg.png",
  "attractions": ["Basilique St. Anne","Odzala-Kokoua National Park","Lake Tele"]	
@@ -406,7 +406,7 @@
  "name": "Costa Rica",
  "capital": "San Jose", 
  "isoAlpha3": "CRI",
- "population": 5094118	,
+ "population":"5,094,118",
  "gasolinePrice": 1.13,
  "img": "https://flagpedia.net/data/flags/w580/cr.png",
  "attractions": ["Playa Manuel Antonio","Tortuguero National Park","La Paz Waterfalls"]		
@@ -416,7 +416,7 @@
  "name": "Côte d'Ivoire (Ivory Coast)",
  "capital": "Yamoussoukro", 
  "isoAlpha3": "CIV",
- "population": 26378274,
+ "population":"26,378,274",
  "gasolinePrice": 1.10,
  "img": "https://flagpedia.net/data/flags/w580/ci.png",
  "attractions": ["The Basilica of Our Lady of Peace","St Paul's Cathedral","Mount Tonkoui"]		
@@ -426,7 +426,7 @@
  "name": "Croatia",
  "capital": "Zagreb", 
  "isoAlpha3": "HRV",
- "population": 4105267,
+ "population":"4,105,267",
  "gasolinePrice": 1.60,
  "img": "https://flagpedia.net/data/flags/w580/hr.png",
  "attractions": ["Plitvice Lakes National Park","Diocletian's Palace","Dubrovnik"]		
@@ -436,7 +436,7 @@
  "name": "Cuba",
  "capital": "Havana", 
  "isoAlpha3": "CUB",
- "population": 	11326616,
+ "population":"11,326,616",
  "gasolinePrice": 1.2,
  "img": "https://flagpedia.net/data/flags/w580/cu.png",
  "attractions": ["Old Havana","Valle de Vinales","Plaza de la Catedral"]		
@@ -446,7 +446,7 @@
  "name": "Cyprus",
  "capital": "Nicosia", 
  "isoAlpha3": "CYP",
- "population": 1207359,
+ "population":"1,207,359",
  "gasolinePrice": 1.46,
  "img": "https://flagpedia.net/data/flags/w580/cy.png",
  "attractions": ["Nissi Beach","Kato Paphos Archaeological Park","Tombs of the Kings"]		
@@ -456,7 +456,7 @@
  "name": "Czech Republic",
  "capital": "Prague", 
  "isoAlpha3": "CZE",
- "population": 10708981,
+ "population":"10,708,981",
  "gasolinePrice": 1.47,
  "img": "https://flagpedia.net/data/flags/w580/cz.png",
  "attractions": ["Old Town Square","Prague Castle","Charles Bridge"]		
@@ -466,7 +466,7 @@
  "name": "Denmark",
  "capital": "Copenhagen", 
  "isoAlpha3": "DNK",
- "population": 5792202,
+ "population":"5,792,202",
  "gasolinePrice": 1.92,
  "img": "https://flagpedia.net/data/flags/w580/dk.png",
  "attractions": ["Rosenborg Castle","The National Gallery of Denmark","Tivoli Gardens"]		
@@ -476,7 +476,7 @@
  "name": "Djibouti",
  "capital": "Djibouti", 
  "isoAlpha3": "DJI",
- "population": 988000,
+ "population":"988,000",
  "gasolinePrice": 1.35,
  "img": "https://flagpedia.net/data/flags/w580/dj.png",
  "attractions": ["Lake Assal","Khor Ambado Beach","Lake Abbe"]		
@@ -486,7 +486,7 @@
  "name": "Dominica",
  "capital": "Roseau", 
  "isoAlpha3": "DMA",
- "population": 71986,
+ "population":"71,986",
  "gasolinePrice": 0.91,
  "img": "https://flagpedia.net/data/flags/w580/dm.png",
  "attractions": ["Trafalgar Falls","Boiling Lake","Emerald Pool Nature Trail"]		
@@ -496,7 +496,7 @@
  "name": "Dominican Republic",
  "capital": "Santo Domingo", 
  "isoAlpha3": "DOM",
- "population": 10847910,
+ "population":"10,847,910",
  "gasolinePrice": 1.15,
  "img": "https://flagpedia.net/data/flags/w580/do.png",
  "attractions": ["Isla Saona","Bavaro Beach","Zona Colonial"]		
@@ -506,7 +506,7 @@
  "name": "East Timor",
  "capital": "Dili", 
  "isoAlpha3": "TLS",
- "population": 1318445,
+ "population":"1,318,445",
  "gasolinePrice": 1.02,
  "img": "https://flagpedia.net/data/flags/w580/tl.png",
  "attractions": ["Cristo Rei","Akrema Beach","Mount Ramelau"]		
@@ -516,7 +516,7 @@
  "name": "Ecuador",
  "capital": "Quito", 
  "isoAlpha3": "ECU",
- "population": 17643054,
+ "population": "17,643,054",
  "gasolinePrice": 0.50,
  "img": "https://flagpedia.net/data/flags/w580/ec.png",
  "attractions": ["Iglesia de La Compania de Jesus","Galapagos Beach","El Cajas National Park"]		
@@ -526,7 +526,7 @@
  "name": "Egypt",
  "capital": "Cairo", 
  "isoAlpha3": "EGY",
- "population": 	102334404,
+ "population": "102,334,404",
  "gasolinePrice": 0.56,
  "img": "https://flagpedia.net/data/flags/w580/eg.png",
  "attractions": ["Pyramids of Giza","Cruising the Nile","Valley of the Kings"]		
@@ -536,7 +536,7 @@
  "name": "El Salvador",
  "capital": "San Salvador", 
  "isoAlpha3": "SLV",
- "population": 6486205,
+ "population": "6,486,205",
  "gasolinePrice": 0.95,
  "img": "https://flagpedia.net/data/flags/w580/sv.png",
  "attractions": ["Parque Nacional El Boqueron","Lake Coatepeque","Iglesia El Rosario"]		
@@ -546,7 +546,7 @@
  "name": "Great Britain",
  "capital": "London", 
  "isoAlpha3": "GBR",
- "population": 68177756,
+ "population":"68,177,756",
  "gasolinePrice": 1.77,
  "img": "https://flagpedia.net/data/flags/w580/gb.png",
  "attractions": ["Big Ben","Trafalgar Square","Buckingham Palace"]		
@@ -556,7 +556,7 @@
  "name": "Equatorial Guinea",
  "capital": "Malabo", 
  "isoAlpha3": "GNQ",
- "population": 1402985,
+ "population": "1,402,985",
  "gasolinePrice": 0.98,
  "img": "https://flagpedia.net/data/flags/w580/gq.png",
  "attractions": ["Catedral de Santa Isabel","Pico Basile","The Malabo National Park"]		
@@ -566,7 +566,7 @@
  "name": "Eritrea",
  "capital": "Asmara", 
  "isoAlpha3": "ERI",
- "population": 3546421,
+ "population": "3,546,421",
  "gasolinePrice": 2.20,
  "img": "https://flagpedia.net/data/flags/w580/er.png",
  "attractions": ["The Fiat Tagliero","Dahlak Kebir","Liberation Avenue"]		
@@ -576,7 +576,7 @@
  "name": "Estonia",
  "capital": "Tallinn", 
  "isoAlpha3": "EST",
- "population": 1326535,
+ "population": "1,326,535",
  "gasolinePrice": 1.67,
  "img": "https://flagpedia.net/data/flags/w580/ee.png",
  "attractions": ["Toompea Hill","Tallinn's Old Town","Lahemaa National Park"]		
@@ -586,7 +586,7 @@
  "name": "Eswatini",
  "capital": "Mbabana", 
  "isoAlpha3": "SWZ",
- "population": 1160164,
+ "population": "1,160,164",
  "gasolinePrice": 1.12,
  "img": "https://flagpedia.net/data/flags/w580/sz.png",
  "attractions": ["Swazi Cultural Village","Hlane Royal National Park","Mlilwane Wildlife Sanctuary"]		
@@ -596,7 +596,7 @@
  "name": "Ethiopia",
  "capital": "Addis Ababa", 
  "isoAlpha3": "ETH",
- "population": 114963588,
+ "population": "114,963,588",
  "gasolinePrice": 0.51,
  "img": "https://flagpedia.net/data/flags/w580/et.png",
  "attractions": ["Simien Mountains","National Museum of Ethiopia","Lalibela"]		
@@ -606,7 +606,7 @@
  "name": "Federated States of Micronesia",
  "capital": "Palikir", 
  "isoAlpha3": "FSM",
- "population": 548914,
+ "population":"548,914",
  "gasolinePrice": 1.14,
  "img": "https://flagpedia.net/data/flags/w580/fm.png",
  "attractions": ["Nan Madol","Tamilyog Trail","Truk Lagoon"]		
@@ -616,7 +616,7 @@
  "name": "Fiji",
  "capital": "Suva", 
  "isoAlpha3": "FJI",
- "population": 896445,
+ "population":"896,445",
  "gasolinePrice": 1.10,
  "img": "https://flagpedia.net/data/flags/w580/fj.png",
  "attractions": ["Blue Lagoon Cruise: Yasawa Islands","Taveuni Island","Suva Municipal Market"]		
@@ -626,7 +626,7 @@
  "name": "Finland",
  "capital": "Helsinki", 
  "isoAlpha3": "FIN",
- "population": 5540720,
+ "population":"5,540,720",
  "gasolinePrice": 1.96,
  "img": "https://flagpedia.net/data/flags/w580/fi.png",
  "attractions": ["Fortress of Suomenlinna","Rock Church","Turku Castle"]		
@@ -636,7 +636,7 @@
  "name": "France",
  "capital": "Paris", 
  "isoAlpha3": "FRA",
- "population": 65273511,
+ "population":"65,273,511",
  "gasolinePrice": 1.83,
  "img": "https://flagpedia.net/data/flags/w580/fr.png",
  "attractions": ["Eiffel Tower","Louvre Museum","Notre-Dame"]		
@@ -646,7 +646,7 @@
  "name": "Gabon",
  "capital": "Libreville", 
  "isoAlpha3": "GAB",
- "population": 2225734,
+ "population":"2,225,734",
  "gasolinePrice": 1.12,
  "img": "https://flagpedia.net/data/flags/w580/ga.png",
  "attractions": ["Pointe-Denis Beach","Cathedrale Saint Louis","Notre-dame de Lourdes"]		
@@ -656,7 +656,7 @@
  "name": "Gambia",
  "capital": "Banjul", 
  "isoAlpha3": "GMB",
- "population": 2416668,
+ "population":"2,416,668",
  "gasolinePrice": 1.03,
  "img": "https://flagpedia.net/data/flags/w580/gm.png",
  "attractions": ["Katchikally Crocodile Pool","Abuko Nature Reserve","Banjul Old Town"]		
@@ -666,7 +666,7 @@
  "name": "Georgia",
  "capital": "Tbilisi", 
  "isoAlpha3": "GEO",
- "population": 3989167,
+ "population":"3,989,167",
  "gasolinePrice": 0.84,
  "img": "https://flagpedia.net/data/flags/w580/ge.png",
  "attractions": ["Tbilisi Old Town","Gergeti Trinity Church","Vardzia"]		
@@ -676,7 +676,7 @@
  "name": "Germany",
  "capital": "Berlin", 
  "isoAlpha3": "DEU",
- "population": 83783942,
+ "population":"83,783,942",
  "gasolinePrice": 1.76,
  "img": "https://flagpedia.net/data/flags/w580/de.png",
  "attractions": ["Neuschwanstein Castle","The Brandenburg Gate","Cologne Cathedral"]		
@@ -686,7 +686,7 @@
  "name": "Ghana",
  "capital": "Accra", 
  "isoAlpha3": "GHA",
- "population": 31072940,
+ "population":"31,072,940",
  "gasolinePrice": 0.97,
  "img": "https://flagpedia.net/data/flags/w580/gh.png",
  "attractions": ["Cape Coast Castle","Kakum National Park","Wli Waterfalls"]		
@@ -696,7 +696,7 @@
  "name": "Greece",
  "capital": "Athens", 
  "isoAlpha3": "GRC",
- "population": 10423054,
+ "population":"10,423,054",
  "gasolinePrice": 1.93,
  "img": "https://flagpedia.net/data/flags/w580/gr.png",
  "attractions": ["The Acropolis of Athens","Santorini/Mykonos","Rhodes Town"]		
@@ -706,7 +706,7 @@
  "name": "Grenada",
  "capital": "Saint George's", 
  "isoAlpha3": "GRD",
- "population": 112523,
+ "population":"112,523",
  "gasolinePrice": 1.29,
  "img": "https://flagpedia.net/data/flags/w580/gd.png",
  "attractions": ["Grand Anse Beach","Belmont Estate","Sandy Island"]		
@@ -716,7 +716,7 @@
  "name": "Guatemala",
  "capital": "Guatemala City", 
  "isoAlpha3": "GTM",
- "population": 17915568,
+ "population":"17,915,568",
  "gasolinePrice": 0.93,
  "img": "https://flagpedia.net/data/flags/w580/gt.png",
  "attractions": ["Tikal","Volcán Pacaya","Lake Atitlán"]		
@@ -726,7 +726,7 @@
  "name": "Guinea",
  "capital": "Conakry", 
  "isoAlpha3": "GIN",
- "population": 13132795,
+ "population":"13,132,795",
  "gasolinePrice": 0.91,
  "img": "https://flagpedia.net/data/flags/w580/gn.png",
  "attractions": ["Îles de Los","Le Voile de la Mariee","The Sandervalia National Museum"]		
@@ -736,7 +736,7 @@
  "name": "Guinea-Bissau",
  "capital": "Bissau", 
  "isoAlpha3": "GNB",
- "population": 1968001,
+ "population":"1,968,001",
  "gasolinePrice": 1.22,
  "img": "https://flagpedia.net/data/flags/w580/gw.png",
  "attractions": ["Orango Island","Bubaque Island","Dulombi-Boe National Park"]		
@@ -746,7 +746,7 @@
  "name": "Guyana",
  "capital": "Georgetown", 
  "isoAlpha3": "GUY",
- "population": 786552,
+ "population":"786,552",
  "gasolinePrice": 0.93,
  "img": "https://flagpedia.net/data/flags/w580/gy.png",
  "attractions": ["Guyana National Museum","St. George's Cathedral","Kumu Falls"]		
@@ -756,7 +756,7 @@
  "name": "Haiti",
  "capital": "Port au Prince", 
  "isoAlpha3": "HTI",
- "population": 11402528,
+ "population":"11,402,528",
  "gasolinePrice": 0.63,
  "img": "https://flagpedia.net/data/flags/w580/ht.png",
  "attractions": ["Bassin Bleu","Saut-Mathurine","Kokoye Beach"]		
@@ -766,7 +766,7 @@
  "name": "Honduras",
  "capital": "Tegucigalpa", 
  "isoAlpha3": "HND",
- "population": 9904607,
+ "population":"9,904,607",
  "gasolinePrice": 1.1,
  "img": "https://flagpedia.net/data/flags/w580/hn.png",
  "attractions": ["West Bay Beach","Copan Ruinas","Cayos Cochinos"]		
@@ -776,7 +776,7 @@
  "name":"Hungary",
  "capital": "Budapest", 
  "isoAlpha3": "HUN",
- "population": 9660351,
+ "population":"9,660,351",
  "gasolinePrice": 1.41,
  "img": "https://flagpedia.net/data/flags/w580/hu.png",
  "attractions": ["Parliament","The Eger Castle","Fisherman's Bastion"]		
@@ -786,7 +786,7 @@
  "name": "Iceland",
  "capital": "Reykjavik", 
  "isoAlpha3": "ISL",
- "population": 	341243,
+ "population":"341,243",
  "gasolinePrice": 1.89,
  "img": "https://flagpedia.net/data/flags/w580/is.png",
  "attractions": ["Dettifoss","Hallgrímskirkja","Gullfoss"]		
@@ -796,7 +796,7 @@
  "name": "India",
  "capital": "New Delhi", 
  "isoAlpha3": "IND",
- "population": 1380004385,
+ "population":"1,380,004,385",
  "gasolinePrice": 1.24,
  "img": "https://flagpedia.net/data/flags/w580/in.png",
  "attractions": ["Taj Mahal","Agra Fort","Amber"]		
@@ -806,7 +806,7 @@
  "name": "Indonesia",
  "capital": "Jakarta", 
  "isoAlpha3": "IDN",
- "population": 	273523615,
+ "population":"273,523,615",
  "gasolinePrice": 0.74,
  "img": "https://flagpedia.net/data/flags/w580/id.png",
  "attractions": ["Bali","Monkey Forest Sanctuary","Tirta Empul Temple"]		
@@ -816,7 +816,7 @@
  "name": "Iran",
  "capital": "Tehran", 
  "isoAlpha3": "IRN",
- "population": 83992949,
+ "population":"83,992,949",
  "gasolinePrice": 0.06,
  "img": "https://flagpedia.net/data/flags/w580/ir.png",
  "attractions": ["The Nasir al-Mulk Mosque","Persepolis","The Ali Sadr Cave"]		
@@ -826,7 +826,7 @@
  "name": "Iraq",
  "capital": "Baghdad", 
  "isoAlpha3": "IRQ",
- "population": 40222493,
+ "population":"40,222,493",
  "gasolinePrice": 0.51,
  "img": "https://flagpedia.net/data/flags/w580/iq.png",
  "attractions": ["Sami Abdulrahman Park","The Imam Husain Shrine","Citadel of Arbil"]		
@@ -836,7 +836,7 @@
  "name": "Ireland",
  "capital": "Dublin", 
  "isoAlpha3": "IRL",
- "population": 4937786,
+ "population":"4,937,786",
  "gasolinePrice": 1.77,
  "img": "https://flagpedia.net/data/flags/w580/ie.png",
  "attractions": ["Kilmainham Gaol","Guinness Storehouse","Dún Aonghasa"]		
@@ -846,7 +846,7 @@
  "name": "Israel",
  "capital": "Jerusalem", 
  "isoAlpha3": "ISR",
- "population": 8655535,
+ "population":"8,655,535",
  "gasolinePrice": 1.93,
  "img": "https://flagpedia.net/data/flags/w580/il.png",
  "attractions": ["Masada","Shuk Machane Yehuda","Sea of Galilee"]		
@@ -856,7 +856,7 @@
  "name": "Italy",
  "capital": "Rome", 
  "isoAlpha3": "ITA",
- "population": 60461826,
+ "population":"60,461,826",
  "gasolinePrice": 1.90,
  "img": "https://flagpedia.net/data/flags/w580/it.png",
  "attractions": ["Colosseum","Pantheon","Leaning Tower of Pisa"]		
@@ -866,7 +866,7 @@
  "name": "Jamaica",
  "capital": "Kingston", 
  "isoAlpha3": "JAM",
- "population": 2961167,
+ "population":"2,961,167",
  "gasolinePrice": 1.12,
  "img": "https://flagpedia.net/data/flags/w580/jm.png",
  "attractions": ["Negril Beach & the Negril Cliffs","Rafting the Martha Brae River","Dunn's River Falls"]		
@@ -876,7 +876,7 @@
  "name": "Japan",
  "capital": "Tokyo", 
  "isoAlpha3": "JPN",
- "population": 126476461,
+ "population":"126,476,461",
  "gasolinePrice": 1.35,
  "img": "https://flagpedia.net/data/flags/w580/jp.png",
  "attractions": ["Mount Fuji","Hiroshima Peace Memorial Park","Imperial Tokyo"]		
@@ -886,7 +886,7 @@
  "name": "Jordan",
  "capital": "Amman", 
  "isoAlpha3": "JOR",
- "population": 10203134,
+ "population":"10,203,134",
  "gasolinePrice": 1.38,
  "img": "https://flagpedia.net/data/flags/w580/jo.png",
  "attractions": ["Petra","Wadi Rum Protected Area","Roman Ruins in Amman"]		
@@ -896,7 +896,7 @@
  "name": "Kazakhstan",
  "capital": "Nur-Sultan", 
  "isoAlpha3": "KAZ",
- "population": 18776707,
+ "population":"18,776,707",
  "gasolinePrice": 0.41,
  "img": "https://flagpedia.net/data/flags/w580/kz.png",
  "attractions": ["Kok-Tobe Hill","Khan Shatyr","Ascension Cathedral"]		
@@ -906,7 +906,7 @@
  "name": "Kenya",
  "capital": "Nairobi", 
  "isoAlpha3": "KEN",
- "population": 53771296,
+ "population":"53,771,296",
  "gasolinePrice": 1.15,
  "img": "https://flagpedia.net/data/flags/w580/ke.png",
  "attractions": ["Nairobi National Park","Maasai Mara National Reserve","Tsavo East National Park"]		
@@ -916,7 +916,7 @@
  "name": "Kiribati",
  "capital": "Tarawa Atoll", 
  "isoAlpha3": "KIR",
- "population": 119449,
+ "population":"119,449",
  "gasolinePrice": 0,
 "img": "https://flagpedia.net/data/flags/w580/ki.png",
  "attractions": ["Tarawa","Christmas Island","Outer Gilbert Islands"]		
@@ -926,7 +926,7 @@
  "name": "Kosovo",
  "capital": "Pristina", 
  "isoAlpha3": "XKX",
- "population": 1812473,
+ "population":"1,812,473",
  "gasolinePrice": 1.27,
  "img": "https://flagpedia.net/data/flags/w580/xk.png",
  "attractions": ["Pristina National Library","Kalaja Fortress","Visoki Decani Monastery"]		
@@ -936,7 +936,7 @@
  "name": "Kuwait",
  "capital": "Kuwait City", 
  "isoAlpha3": "KWT",
- "population": 4270571,
+ "population":"4,270,571",
  "gasolinePrice": 0.35,
  "img": "https://flagpedia.net/data/flags/w580/kw.png",
  "attractions": ["The Scientific Center","The Grand Mosque of Kuwait City","Kuwait Tower"]		
@@ -946,7 +946,7 @@
  "name": "Kyrgyzstan",
  "capital": "Bishkek", 
  "isoAlpha3": "KGZ",
- "population": 6524195,
+ "population":"6,524,195",
  "gasolinePrice": 0.60,
  "img": "https://flagpedia.net/data/flags/w580/kg.png",
  "attractions": ["Ala-Archa Gorge","Issyk-Kul Lake","Burana Tower"]		
@@ -956,7 +956,7 @@
  "name": "Laos",
  "capital": "Vientiane", 
  "isoAlpha3": "LAO",
- "population": 7275560,
+ "population":"7,275,560",
  "gasolinePrice": 1,
 "img": "https://flagpedia.net/data/flags/w580/la.png",
  "attractions": ["The Kuang Si Falls","Pha That Luang Vientiane","Phousi Hill"]		
@@ -966,7 +966,7 @@
  "name": "Latvia",
  "capital": "Riga", 
  "isoAlpha3": "LVA",
- "population": 1886198,
+ "population":"1,886,198",
  "gasolinePrice": 1.55,
  "img": "https://flagpedia.net/data/flags/w580/lv.png",
  "attractions": ["Riga Old Town","Venta Waterfall","Jurmala Beach"]		
@@ -976,7 +976,7 @@
  "name": "Lebanon",
  "capital": "Beirut", 
  "isoAlpha3": "LBN",
- "population": 6825445,
+ "population":"6,825,445",
  "gasolinePrice": 1.27,
  "img": "https://flagpedia.net/data/flags/w580/lb.png",
  "attractions": ["Jeita Grotto","National Museum of Beirut","Temples of Baalbek"]		
@@ -986,7 +986,7 @@
  "name": "Lesotho",
  "capital": "Maseru", 
  "isoAlpha3": "LSO",
- "population": 2142249,
+ "population":"2,142,249",
  "gasolinePrice": 0.96,
  "img": "https://flagpedia.net/data/flags/w580/ls.png",
  "attractions": ["Katse Dam","Maletsunyane Falls","Maloti"]		
@@ -996,7 +996,7 @@
  "name": "Liberia",
  "capital": "Monrovia", 
  "isoAlpha3": "LBR",
- "population": 5057681,
+ "population":"5,057,681",
  "gasolinePrice": 0.76,
  "img": "https://flagpedia.net/data/flags/w580/lr.png",
  "attractions": ["Liberian National Museum","Sapo National Park","Centennial Pavilion"]		
@@ -1006,7 +1006,7 @@
  "name": "Libya",
  "capital": "Tripoli", 
  "isoAlpha3": "LBY",
- "population": 6871292,
+ "population":"6,871,292",
  "gasolinePrice": 0,
 "img": "https://flagpedia.net/data/flags/w580/ly.png",
  "attractions": ["Leptis Magna","Martyrs' Square","Ptolemais"]		
@@ -1016,7 +1016,7 @@
  "name": "Liechtenstein",
  "capital": "Vaduz", 
  "isoAlpha3": "LIE",
- "population": 38128,
+ "population":"38,128",
  "gasolinePrice": 1.74,
  "img": "https://flagpedia.net/data/flags/w580/li.png",
  "attractions": ["Vaduz Castle","The Main Square","Liechtenstein National Museum"]		
@@ -1026,7 +1026,7 @@
  "name": "Lithuania",
  "capital": "Vilnius", 
  "isoAlpha3": "LTU",
- "population": 2722289,
+ "population":"2,722,289",
  "gasolinePrice": 1.4,
  "img": "https://flagpedia.net/data/flags/w580/lt.png",
  "attractions": ["Vilnius Old Town","Gediminas Castle Tower","Palanga Beach"]		
@@ -1036,7 +1036,7 @@
  "name": "Luxembourg",
  "capital": "Luxembourg", 
  "isoAlpha3": "LUX",
- "population": 	625978,
+ "population":"625,978",
  "gasolinePrice": 1.54,
  "img": "https://flagpedia.net/data/flags/w580/lu.png",
  "attractions": ["Casemates du Bock","Chateau de Vianden","Mullerthal Trail"]		
@@ -1046,7 +1046,7 @@
  "name": "Madagascar",
  "capital": "Antananarivo", 
  "isoAlpha3": "MDG",
- "population": 27691018,
+ "population":"27,691,018",
  "gasolinePrice": 1.1	,
  "img": "https://flagpedia.net/data/flags/w580/mg.png",
  "attractions": ["Avenue of the Baobabs","Lemurs' Park","Anja Reserve"]		
@@ -1056,7 +1056,7 @@
  "name": "Malawi",
  "capital": "Lilongwe", 
  "isoAlpha3": "MWI",
- "population": 19129952,
+ "population":"19,129,952",
  "gasolinePrice": 1.13,
  "img": "https://flagpedia.net/data/flags/w580/mw.png",
  "attractions": ["Mount Mulanje","Kande Beach","Kuti Wildlife Reserve"]		
@@ -1066,7 +1066,7 @@
  "name": "Malaysia",
  "capital": "Kuala Lumpur", 
  "isoAlpha3": "MYS",
- "population": 	32365999,
+ "population": "32,365,999",
  "gasolinePrice": 0.50,
  "img": "https://flagpedia.net/data/flags/w580/my.png",
  "attractions": ["Batu Caves","Petronas Twin Towers","Mount Kinabalu"]		
@@ -1076,7 +1076,7 @@
  "name": "Maldives",
  "capital": "Male", 
  "isoAlpha3": "MDV",
- "population": 540544,
+ "population": "540,544",
  "gasolinePrice": 0.76,
  "img": "https://flagpedia.net/data/flags/w580/mv.png",
  "attractions": ["National Museum","Alimatha Island","Blue Horizon"]		
@@ -1086,7 +1086,7 @@
  "name": "Mali",
  "capital": "Bamako", 
  "isoAlpha3": "MLI",
- "population":	20250833,
+ "population": "20,250,833",
  "gasolinePrice": 1.23,
  "img": "https://flagpedia.net/data/flags/w580/ml.png",
  "attractions": ["Bandiagara Cliffs","Great Mosque Of Djenne","Djinguereber Mosque"]		
@@ -1096,7 +1096,7 @@
  "name": "Malta",
  "capital": "Valletta", 
  "isoAlpha3": "MLT",
- "population": 	441543,
+ "population": "441,543",
  "gasolinePrice": 1.61,
  "img": "https://flagpedia.net/data/flags/w580/mt.png",
  "attractions": ["St. John's Co-Cathedral","Upper Barrakka Gardens","Popeye Village"]		
@@ -1106,7 +1106,7 @@
  "name": "Marshall Islands",
  "capital": "Majuro", 
  "isoAlpha3": "MHL",
- "population": 	59190,
+ "population": "59,190",
  "gasolinePrice": 1.15,
  "img": "https://flagpedia.net/data/flags/w580/mh.png",
  "attractions": ["Majuro Bridge","Arno Atol","Cathedral of the Assumption"]		
@@ -1116,7 +1116,7 @@
  "name": "Mauritania",
  "capital": "Nouakchott", 
  "isoAlpha3": "MRT",
- "population": 4649658,
+ "population": "4,649,658",
  "gasolinePrice": 1.11,
  "img": "https://flagpedia.net/data/flags/w580/mr.png",
  "attractions": ["Port de Peche","Mauritania Sahara","Arguin Bank National Park"]		
@@ -1126,7 +1126,7 @@
  "name": "Mauritius",
  "capital": "Port Louis", 
  "isoAlpha3": "MUS",
- "population": 1271768,
+ "population": "1,271,768",
  "gasolinePrice": 1.2,
  "img": "https://flagpedia.net/data/flags/w580/mu.png",
  "attractions": ["Île aux Cerfs","Seven Colored Earths","SSR Botanic Garden"]		
@@ -1136,7 +1136,7 @@
  "name": "Mexico",
  "capital": "Mexico City", 
  "isoAlpha3": "MEX",
- "population": 	128932753,
+ "population": "128,932,753",
  "gasolinePrice": 1.19,
  "img": "https://flagpedia.net/data/flags/w580/mx.png",
  "attractions": ["Ruins of Tulum","Chichen Itza","Palacio de Bellas Artes"]		
@@ -1146,7 +1146,7 @@
  "name": "Moldova",
  "capital": "Chisinau", 
  "isoAlpha3": "MDA",
- "population": 4033963,
+ "population": "4,033,963",
  "gasolinePrice": 1.09,
  "img": "https://flagpedia.net/data/flags/w580/md.png",
  "attractions": ["Cricova","Dendrarium Park","Mimi Castle"]		
@@ -1155,7 +1155,7 @@
  "id": 115,
  "name": "Monaco",
  "capital": "Monaco", 
- "population": 39242,
+ "population": "39,242",
  "gasolinePrice": 1.89,
  "img": "https://flagpedia.net/data/flags/w580/mc.png",
  "attractions": ["Port de Fontvieille","Casino of Monte-Carlo","Prince's Palace"]		
@@ -1165,7 +1165,7 @@
  "name": "Mongolia",
  "capital": "Ulaanbaatar", 
  "isoAlpha3": "MNG",
- "population": 3278290,
+ "population": "3,278,290",
  "gasolinePrice": 0.69,
  "img": "https://flagpedia.net/data/flags/w580/mn.png",
  "attractions": ["Gorkhi-Terelj National Park","Hustai National Park","Genghis Khan Square"]		
@@ -1175,7 +1175,7 @@
  "name": "Montenegro",
  "capital": "Podgorica", 
  "isoAlpha3": "MNE",
- "population": 628066,
+ "population": "628,066",
  "gasolinePrice": 1.56,
  "img": "https://flagpedia.net/data/flags/w580/me.png",
  "attractions": ["Bay of Kotor","Stari Grad Kotor","Tara River Canyon"]		
@@ -1185,7 +1185,7 @@
  "name": "Morocco",
  "capital": "Rabat", 
  "isoAlpha3": "MAR",
- "population": 36910560,
+ "population": "36,910,560",
  "gasolinePrice": 1.05,
  "img": "https://flagpedia.net/data/flags/w580/ma.png",
  "attractions": ["Bahia Palace","Jemaa el-Fnaa","Merzouga Desert"]		
@@ -1195,7 +1195,7 @@
  "name": "Mozambique",
  "capital": "Maputo", 
  "isoAlpha3": "MOZ",
- "population": 31255435,
+ "population":"31,255,435",
  "gasolinePrice": 1.1,
  "img": "https://flagpedia.net/data/flags/w580/mz.png",
  "attractions": ["Inhaca Island","Gorongosa National Park","Fort Sao Sebastian"]		
@@ -1205,7 +1205,7 @@
  "name": "Myanmar",
  "capital": "Nay Pyi Taw", 
  "isoAlpha3": "MMR",
- "population": 54409800,
+ "population":"54,409,800",
  "gasolinePrice": 0.70,
  "img": "https://flagpedia.net/data/flags/w580/mm.png",
  "attractions": ["Bagan Temples","Ngapali Beach","Inle Lake"]		
@@ -1215,7 +1215,7 @@
  "name": "Namibia",
  "capital": "Windhoek", 
  "isoAlpha3": "NAM",
- "population": 	2540905,
+ "population":"2,540,905",
  "gasolinePrice": 0.88,
  "img": "https://flagpedia.net/data/flags/w580/na.png",
  "attractions": ["Sossusvlei","Swakopmund","Deadvlei"]		
@@ -1225,7 +1225,7 @@
  "name": "Nauru",
  "capital": "No official capital", 
  "isoAlpha3": "NRU",
- "population": 10824,
+ "population":"10,824",
  "gasolinePrice": 0,
 "img": "https://flagpedia.net/data/flags/w580/nr.png",
  "attractions": ["Anibare Bay","Central Plateau","Japanese Guns"]		
@@ -1235,7 +1235,7 @@
  "name": "Nepal",
  "capital": "Kathmandu", 
  "isoAlpha3": "NPL",
- "population": 29136808,
+ "population":"29,136,808",
  "gasolinePrice": 1.01,
  "img": "https://flagpedia.net/data/flags/w580/np.png",
  "attractions": ["Boudhanath Stupa","Thamel","Mount Everest"]		
@@ -1245,7 +1245,7 @@
  "name": "Netherlands",
  "capital": "Amsterdam", 
  "isoAlpha3": "NLD",
- "population": 17134872,
+ "population":"17,134,872",
  "gasolinePrice": 2.10,
  "img": "https://flagpedia.net/data/flags/w580/nl.png",
  "attractions": ["Amsterdam's Canals","Keukenhof","Van Gogh Museum"]		
@@ -1255,7 +1255,7 @@
  "name": "New Zealand",
  "capital": "Wellington", 
  "isoAlpha3": "NZL",
- "population": 	4822233,
+ "population":"4,822,233",
  "gasolinePrice": 1.64,
  "img": "https://flagpedia.net/data/flags/w580/nz.png",
  "attractions": ["Routeburn Track","Milford Sound","Hobbiton Movie Set"]		
@@ -1265,7 +1265,7 @@
  "name": "Nicaragua",
  "capital": "Managua", 
  "isoAlpha3": "NIC",
- "population": 6624554,
+ "population":"6,624,554",
  "gasolinePrice": 1.07,
  "img": "https://flagpedia.net/data/flags/w580/ni.png",
  "attractions": ["Islets of Granada","Volcan cerro negro","Apoyo"]		
@@ -1275,7 +1275,7 @@
  "name": "Niger",
  "capital": "Niamey", 
  "isoAlpha3": "NER",
- "population": 24206644,
+ "population":"24,206,644",
  "gasolinePrice": 1.01,
  "img": "https://flagpedia.net/data/flags/w580/ne.png",
  "attractions": ["Agadez Grande Mosquee","Koure Giraffe Reserve","Niger Sahara"]		
@@ -1285,7 +1285,7 @@
  "name": "Nigeria",
  "capital": "Abuja", 
  "isoAlpha3": "NGA",
- "population": 206139589,
+ "population":"206,139,589",
  "gasolinePrice": 0.42,
  "img": "https://flagpedia.net/data/flags/w580/ng.png",
  "attractions": ["Lekki Conservation Centre","Nike Art Gallery","Abuja Arts & Crafts Village"]		
@@ -1295,7 +1295,7 @@
  "name": "North Korea",
  "capital": "Pyongyang", 
  "isoAlpha3": "PRK",
- "population": 25778816,
+ "population":"25,778,816",
  "gasolinePrice": 0,
 "img": "https://flagpedia.net/data/flags/w580/kp.png",
  "attractions": ["Tower of the Juche Idea","Kim Il-sung Square","War Museum"]		
@@ -1305,7 +1305,7 @@
  "name": "North Macedonia",
  "capital": "Skopje", 
  "isoAlpha3": "MKD",
- "population": 2083374,
+ "population":"2,083,374",
  "gasolinePrice": 1.31,
  "img": "https://flagpedia.net/data/flags/w580/mk.png",
  "attractions": ["Matka","Old Bazaar","Galicica National Park"]		
@@ -1314,7 +1314,7 @@
  "id": 131,
  "name": "Northern Ireland",
  "capital": "Belfast", 
- "population": 1810863,
+ "population":"1,810,863",
  "gasolinePrice": 1.73,
  "img": "https://flagpedia.net/data/flags/w580/gb-nir.png",
  "attractions": ["Giant's Causeway","Causeway Coastal Route","City Hall"]		
@@ -1324,7 +1324,7 @@
  "name": "Norway",
  "capital": "Oslo", 
  "isoAlpha3": "NOR",
- "population": 5421241,
+ "population":"5,421,241",
  "gasolinePrice": 2.05,
  "img": "https://flagpedia.net/data/flags/w580/no.png",
  "attractions": ["Geiranger Fjord","Lofoten Island","Preikestolen"]		
@@ -1334,7 +1334,7 @@
  "name": "Oman",
  "capital": "Muscat", 
  "isoAlpha3": "OMN",
- "population": 5106626,
+ "population":"5,106,626",
  "gasolinePrice": 0.56,
  "img": "https://flagpedia.net/data/flags/w580/om.png",
  "attractions": ["Wadi Bani Khalid","Wahiba Sands","ultan Qaboos Grand Mosque"]		
@@ -1344,7 +1344,7 @@
  "name": "Pakistan",
  "capital": "Islamabad", 
  "isoAlpha3": "PAK",
- "population": 220892340,
+ "population":"220,892,340",
  "gasolinePrice": 0.70,
  "img": "https://flagpedia.net/data/flags/w580/pk.png",
  "attractions": ["Badshahi Mosque","Lahore Fort","Hunza Valley"]		
@@ -1354,7 +1354,7 @@
  "name": "Palau",
  "capital": "Melekeok", 
  "isoAlpha3": "PLW",
- "population":	18094,
+ "population":"18,094",
  "gasolinePrice": 1.33,
  "img": "https://flagpedia.net/data/flags/w580/pw.png",
  "attractions": ["Milky Way","Rock Islands","Ngardmau Falls"]		
@@ -1364,7 +1364,7 @@
  "name": "Palestine State",
  "capital": "Jerusalem", 
  "isoAlpha3": "PSE",
- "population": 5101414,
+ "population":"5,101,414",
  "gasolinePrice": 1.54,
  "img": "https://flagpedia.net/data/flags/w580/ps.png",
  "attractions": ["Hisham's Palace","Zedekiah's Cave","Abraham Mosque"]		
@@ -1374,7 +1374,7 @@
  "name": "Panama",
  "capital": "Panama City", 
  "isoAlpha3": "PAN",
- "population": 4314767,
+ "population":"4,314,767",
  "gasolinePrice": 0.85,
  "img": "https://flagpedia.net/data/flags/w580/pa.png",
  "attractions": ["Panama Canal","Casco Viejo","Isla Perro"]		
@@ -1384,7 +1384,7 @@
  "name": "Papua New Guinea",
  "capital": "Port Moresby", 
  "isoAlpha3": "PNG",
- "population": 8947024,
+ "population":"8,947,024",
  "gasolinePrice": 1.08,
  "img": "https://flagpedia.net/data/flags/w580/pg.png",
  "attractions": ["Kokoda Track","Kitava Island","Mount Wilhelm"]		
@@ -1394,7 +1394,7 @@
  "name": "Paraguay",
  "capital": "Asuncion", 
  "isoAlpha3": "PRY",
- "population": 7132538,
+ "population":"7,132,538",
  "gasolinePrice": 0.99,
  "img": "https://flagpedia.net/data/flags/w580/py.png",
  "attractions": ["Iguazu Falls","Ruta Trans Chaco Road","Presa De Itaipu"]		
@@ -1404,7 +1404,7 @@
  "name": "Peru",
  "capital": "Lima", 
  "isoAlpha3": "PER",
- "population": 32971854,
+ "population":"32,971,854",
  "gasolinePrice": 0.99,
  "img": "https://flagpedia.net/data/flags/w580/pe.png",
  "attractions": ["Machu Picchu","Sacsayhuamán","Colca Canyon"]		
@@ -1414,7 +1414,7 @@
  "name": "Philippines",
  "capital": "Manila", 
  "isoAlpha3": "PHL",
- "population": 109581078,
+ "population":"109,581,078",
  "gasolinePrice": 1.05,
  "img": "https://flagpedia.net/data/flags/w580/ph.png",
  "attractions": ["Chocolate Hills","Alona Beach","Yapak Beach"]		
@@ -1424,7 +1424,7 @@
  "name": "Poland",
  "capital": "Warsaw", 
  "isoAlpha3": "POL",
- "population": 37846611,
+ "population":"37,846,611",
  "gasolinePrice": 1.39,
  "img": "https://flagpedia.net/data/flags/w580/pl.png",
  "attractions": ["Auschwitz-Birkenau Museum","Warsaw Old Town","Wieliczka Salt Mine"]		
@@ -1434,7 +1434,7 @@
  "name": "Portugal",
  "capital": "Lisbon", 
  "isoAlpha3": "PRT",
- "population": 10196709,
+ "population":"10,196,709",
  "gasolinePrice": 1.90,
  "img": "https://flagpedia.net/data/flags/w580/pt.png",
  "attractions": ["Torre de Belem","Falesia Beach","Oceanário de Lisboa"]		
@@ -1444,7 +1444,7 @@
  "name": "Qatar",
  "capital": "Doha", 
  "isoAlpha3": "QAT",
- "population": 2881053,
+ "population":"2,881,053",
  "gasolinePrice": 0.50,
  "img": "https://flagpedia.net/data/flags/w580/qa.png",
  "attractions": ["Souq Waqif","The Corniche","Museum of Islamic Art"]		
@@ -1454,7 +1454,7 @@
  "name": "Romania",
  "capital": "Bucharest", 
  "isoAlpha3": "ROU",
- "population": 19237691,
+ "population":"19,237,691",
  "gasolinePrice": 1.33,
  "img": "https://flagpedia.net/data/flags/w580/ro.png",
  "attractions": ["Bran Castle (Dracula's Castle)","Palace of Parliament","Peles Castle"]		
@@ -1464,7 +1464,7 @@
  "name": "Russia",
  "capital": "Moscow", 
  "isoAlpha3": "RUS",
- "population": 	145934462,
+ "population":"145,934,462",
  "gasolinePrice": 0.46,
  "img": "https://flagpedia.net/data/flags/w580/ru.png",
  "attractions": ["St. Basil's Cathedral","Moscow Kremlin","Baikal Lake"]		
@@ -1474,7 +1474,7 @@
  "name": "Rwanda",
  "capital": "Kigali", 
  "isoAlpha3": "RWA",
- "population": 12952218,
+ "population":"12,952,218",
  "gasolinePrice": 0.65,
  "img": "https://flagpedia.net/data/flags/w580/rw.png",
  "attractions": ["Volcans National Park","Kigali Genocide Memorial","Akagera National Park"]		
@@ -1484,7 +1484,7 @@
  "name": "Saint Kitts and Nevis",
  "capital": "Basseterre", 
  "isoAlpha3": "KNA",
- "population": 53199,
+ "population":"53,199",
  "gasolinePrice": 2.44,
  "img": "https://flagpedia.net/data/flags/w580/kn.png",
  "attractions": ["Brimstone Hill Fortress National Park","Frigate Bay","St. Kitts Scenic Railway"]		
@@ -1494,7 +1494,7 @@
  "name": "Saint Lucia",
  "capital": "Castries", 
  "isoAlpha3": "LCA",
- "population": 183627,
+ "population":"183,627",
  "gasolinePrice": 1.09,
  "img": "https://flagpedia.net/data/flags/w580/lc.png",
  "attractions": ["The Pitons","Marigot Bay","Anse Chastanet Marine National Park"]		
@@ -1504,7 +1504,7 @@
  "name": "Saint Vincent and the Grenadines",
  "capital": "Kingstown", 
  "isoAlpha3": "VCT",
- "population": 110940,
+ "population":"110,940",
  "gasolinePrice": 3.60,
  "img": "https://flagpedia.net/data/flags/w580/vc.png",
  "attractions": ["Mustique","Tobago Cays","Bequia"]		
@@ -1514,7 +1514,7 @@
  "name": "Samoa",
  "capital": "Apia", 
  "isoAlpha3": "WSM",
- "population": 198414,
+ "population":"198,414",
  "gasolinePrice": 1.05,
  "img": "https://flagpedia.net/data/flags/w580/ws.png",
  "attractions": ["To Sua Ocean Trench","Papaseea Sliding Rock","Lalomanu Beach"]		
@@ -1524,7 +1524,7 @@
  "name": "San Marino",
  "capital": "San Marino", 
  "isoAlpha3": "SMR",
- "population": 	33931,
+ "population":"33,931",
  "gasolinePrice": 1.76,
  "img": "https://flagpedia.net/data/flags/w580/sm.png",
  "attractions": ["Guaita","Piazza della Libertà","Mount Titan"]		
@@ -1534,7 +1534,7 @@
  "name": "Sao Tome and Principe",
  "capital": "Sao Tome", 
  "isoAlpha3": "STP",
- "population": 	219159,
+ "population":"219,159",
  "gasolinePrice": 1.18,
  "img": "https://flagpedia.net/data/flags/w580/st.png",
  "attractions": ["National Museum","Cascata de Sao Nicolau","Banana Beach"]		
@@ -1544,7 +1544,7 @@
  "name": "Saudi Arabia",
  "capital": "Riyadh", 
  "isoAlpha3": "SAU",
- "population": 34813871,
+ "population":"34,813,871",
  "gasolinePrice": 0.56,
  "img": "https://flagpedia.net/data/flags/w580/sa.png",
  "attractions": ["Mecca","Quba Mosque","Al Masjid an Nabawi"]		
@@ -1553,7 +1553,7 @@
  "id": 155,
  "name": "Scotland",
  "capital": "Edinburgh", 
- "population": 5463300,
+ "population":"5,463,300",
  "gasolinePrice": 1.71,
  "img": "https://flagpedia.net/data/flags/w580/gb-sct.png",
  "attractions": ["Edinburgh Castle","Loch Lomond","Loch Ness"]		
@@ -1563,7 +1563,7 @@
  "name": "Senegal",
  "capital": "Dakar", 
  "isoAlpha3": "SEN",
- "population": 	16743927,
+ "population": "16,743,927",
  "gasolinePrice": 1.42,
  "img": "https://flagpedia.net/data/flags/w580/sn.png",
  "attractions": ["Lac Retba","Goree","Reserve De Bandia"]		
@@ -1573,7 +1573,7 @@
  "name": "Serbia",
  "capital": "Belgrade", 
  "isoAlpha3": "SRB",
- "population": 8737371,
+ "population":"8,737,371",
  "gasolinePrice": 1.55,
  "img": "https://flagpedia.net/data/flags/w580/rs.png",
  "attractions": ["Belgrade Fortress","Nis Fortress","Knez Mihailova"]		
@@ -1583,7 +1583,7 @@
  "name": "Seychelles",
  "capital": "Victoria", 
  "isoAlpha3": "SYC",
- "population": 	98347,
+ "population": "98,347",
  "gasolinePrice": 1.46,
  "img": "https://flagpedia.net/data/flags/w580/sc.png",
  "attractions": ["Anse Lazio","Anse Source D'Argent","Vallée de Mai Nature Reserve"]		
@@ -1593,7 +1593,7 @@
  "name": "Sierra Leone",
  "capital": "Freetown", 
  "isoAlpha3": "SLE",
- "population": 7976983,
+ "population": "7,976,983",
  "gasolinePrice": 0.83,
  "img": "https://flagpedia.net/data/flags/w580/sl.png",
  "attractions": ["River Number Two Beach","Tacugama Chimpanzee Sanctuary","Sea Coach Express"]		
@@ -1603,7 +1603,7 @@
  "name": "Singapore",
  "capital": "Singapore", 
  "isoAlpha3": "SGP",
- "population": 	5850342,
+ "population":"5,850,342",
  "gasolinePrice": 1.73,
  "img": "https://flagpedia.net/data/flags/w580/sg.png",
  "attractions": ["Marina Bay Sands","Gardens by the Bay","Sentosa"]		
@@ -1613,7 +1613,7 @@
  "name": "Slovakia",
  "capital": "Bratislava", 
  "isoAlpha3": "SVK",
- "population": 	5459642,
+ "population":"5,459,642",
  "gasolinePrice": 1.35,
  "img": "https://flagpedia.net/data/flags/w580/sk.png",
  "attractions": ["Devin Castle","Bratislava Old Town","Slovak Paradise National Park"]		
@@ -1623,7 +1623,7 @@
  "name": "Slovenia",
  "capital": "Ljubljana", 
  "isoAlpha3": "SVN",
- "population": 	2078938,
+ "population":"2,078,938",
  "gasolinePrice": 1.40,
  "img": "https://flagpedia.net/data/flags/w580/si.png",
  "attractions": ["Postojna Caves","Ljubljana Castle","Ljubljana Old Town"]		
@@ -1633,7 +1633,7 @@
  "name": "Solomon Islands",
  "capital": "Honiara", 
  "isoAlpha3": "SLB",
- "population": 	686884,
+ "population":"686,884",
  "gasolinePrice": 1.08,
  "img": "https://flagpedia.net/data/flags/w580/sb.png",
  "attractions": ["Marovo Lagoon","Kennedy Island","Kasolo Island"]		
@@ -1643,7 +1643,7 @@
  "name": "Somalia",
  "capital": "Mogadishu", 
  "isoAlpha3": "SOM",
- "population": 	15893222,
+ "population":"15,893,222",
  "gasolinePrice": 0.86,
  "img": "https://flagpedia.net/data/flags/w580/so.png",
  "attractions": ["Hargeisa","Laas Geel","Zeila"]		
@@ -1653,7 +1653,7 @@
  "name": "South Africa",
  "capital": "Pretoria", 
  "isoAlpha3": "ZAF",
- "population": 	59308690,
+ "population":"59,308,690",
  "gasolinePrice": 1.19,
  "img": "https://flagpedia.net/data/flags/w580/za.png",
  "attractions": ["Cape of Good Hope","Kruger National Park","Victoria & Alfred Waterfront"]		
@@ -1663,7 +1663,7 @@
  "name": "South Korea",
  "capital": "Seoul", 
  "isoAlpha3": "KOR",
- "population": 	51269185,
+ "population":"51,269,185",
  "gasolinePrice": 1.36,
  "img": "https://flagpedia.net/data/flags/w580/kr.png",
  "attractions": ["Gyeongbokgung Palace","Bukchon Hanok Village","Seoul Tower"]		
@@ -1673,7 +1673,7 @@
  "name": "South Sudan",
  "capital": "Juba", 
  "isoAlpha3": "SSD",
- "population": 	11193725,
+ "population":"11,193,725",
  "gasolinePrice": 1.70,
  "img": "https://flagpedia.net/data/flags/w580/ss.png",
  "attractions": ["Boma National Park","Bandingilo National Park","Kidepo Game Reserve"]		
@@ -1683,7 +1683,7 @@
  "name": "Spain",
  "capital": "Madrid", 
  "isoAlpha3": "ESP",
- "population":	46754778,
+ "population": "46,754,778",
  "gasolinePrice": 1.59,
  "img": "https://flagpedia.net/data/flags/w580/es.png",
  "attractions": ["Park Guell","Sagrada Familia","Alhambra"]		
@@ -1693,7 +1693,7 @@
  "name": "Sri Lanka",
  "capital": "Colombo", 
  "isoAlpha3": "LKA",
- "population": 21413249,
+ "population": "21,413,249",
  "gasolinePrice": 0.82,
  "img": "https://flagpedia.net/data/flags/w580/lk.png",
  "attractions": ["Sigiriya World Heritage Site","The Golden Temple","Horton Plains National Park"]		
@@ -1703,7 +1703,7 @@
  "name": "Sudan",
  "capital": "Khartoum", 
  "isoAlpha3": "SDN",
- "population": 43849260,
+ "population": "43,849,260",
  "gasolinePrice": 0.53,
  "img": "https://flagpedia.net/data/flags/w580/sd.png",
  "attractions": ["Gebel Barkal","Sanganeb National Park","Khalifa House Museum"]		
@@ -1713,7 +1713,7 @@
  "name": "Suriname",
  "capital": "Paramaribo", 
  "isoAlpha3": "SUR",
- "population": 581363,
+ "population":"581,363",
  "gasolinePrice": 0.57,
  "img": "https://flagpedia.net/data/flags/w580/sr.png",
  "attractions": ["Saint Peter and Paul Basilica","Fort Zeelandia","Tafelberg Nature Preserve"]		
@@ -1723,7 +1723,7 @@
  "name": "Sweden",
  "capital": "Stockholm", 
  "isoAlpha3": "SWE",
- "population": 10099265,
+ "population":"10,099,265",
  "gasolinePrice": 1.86,
  "img": "https://flagpedia.net/data/flags/w580/se.png",
  "attractions": ["Vasa Museum","Skansen","Stockholm Old Town"]		
@@ -1733,7 +1733,7 @@
  "name": "Switzerland",
  "capital": "Bern", 
  "isoAlpha3": "CHE",
- "population": 	8654622,
+ "population":"8,654,622",
  "gasolinePrice": 1.68,
  "img": "https://flagpedia.net/data/flags/w580/ch.png",
  "attractions": ["Geneva Lake","Zurich Lake","The Matterhorn"]		
@@ -1743,7 +1743,7 @@
  "name": "Syria",
  "capital": "Damascus", 
  "isoAlpha3": "SYR",
- "population": 	17500658,
+ "population":"17,500,658",
  "gasolinePrice":  1.45,
  "img": "https://flagpedia.net/data/flags/w580/sy.png",
  "attractions": ["Umayyad Mosque","Palmyra","Aleppo Citadel"]		
@@ -1753,7 +1753,7 @@
  "name": "Taiwan",
  "capital": "Taipei", 
  "isoAlpha3": "TWN",
- "population": 	23816775,
+ "population":"23,816,775",
  "gasolinePrice": 1,
 "img": "https://flagpedia.net/data/flags/w580/tw.png",
  "attractions": ["The National Palace Museum","Xinyi District 101","Chiang Kai-Shek Memorial Hall"]		
@@ -1763,7 +1763,7 @@
  "name": "Tajikistan",
  "capital": "Dushanbe", 
  "isoAlpha3": "TJK",
- "population": 	9537645,
+ "population":"9,537,645",
  "gasolinePrice": 0.69,
  "img": "https://flagpedia.net/data/flags/w580/tj.png",
  "attractions": ["Nurek Dam","Rudaki Park","Iskanderkul Lake"]		
@@ -1773,7 +1773,7 @@
  "name": "Tanzania",
  "capital": "Dodoma", 
  "isoAlpha3": "TZA",
- "population": 	59734218,
+ "population":"59,734,218",
  "gasolinePrice": 0.91,
  "img": "https://flagpedia.net/data/flags/w580/tz.png",
  "attractions": ["Ngorongoro Crater","Mount Kilimanjaro","Zanzibar"]		
@@ -1783,7 +1783,7 @@
  "name": "Thailand",
  "capital": "Bangkok", 
  "isoAlpha3": "THA",
- "population": 69799978,
+ "population":"69,799,978",
  "gasolinePrice": 1.11,
  "img": "https://flagpedia.net/data/flags/w580/th.png",
  "attractions": ["Wat Pho","Khao Yai National Park","The Grand Palace"]		
@@ -1793,7 +1793,7 @@
  "name": "Togo",
  "capital": "Lome", 
  "isoAlpha3": "TGO",
- "population": 	8278724,
+ "population":"8,278,724",
  "gasolinePrice": 0.78,
  "img": "https://flagpedia.net/data/flags/w580/tg.png",
  "attractions": ["Koutammakou","Monument de L'Independance","Cascade de Kpime"]		
@@ -1803,7 +1803,7 @@
  "name": "Tonga",
  "capital": "Nuku'alofa", 
  "isoAlpha3": "TON",
- "population": 	105695,
+ "population":"105,695",
  "gasolinePrice": 1.04,
  "img": "https://flagpedia.net/data/flags/w580/to.png",
  "attractions": ["Mapu'a 'a Vaea Blowholes","Anahulu Cave","Ha'amonga'a Maui Trilithon"]		
@@ -1813,7 +1813,7 @@
  "name": "Trinidad and Tobago",
  "capital": "Port of Spain", 
  "isoAlpha3": "TTO",
- "population": 	1399488,
+ "population":"1,399,488",
  "gasolinePrice": 0.76,
  "img": "https://flagpedia.net/data/flags/w580/tt.png",
  "attractions": ["Maracas Beach","Englishman's Bay","Pigeon Point Beach"]		
@@ -1823,7 +1823,7 @@
  "name": "Tunisia",
  "capital": "Tunis", 
  "isoAlpha3": "TUN",
- "population": 	11818619,
+ "population":"11,818,619",
  "gasolinePrice": 0.76,
  "img": "https://flagpedia.net/data/flags/w580/tn.png",
  "attractions": ["El Djem Amphitheater","Mahdia Beach","Thugga"]		
@@ -1833,7 +1833,7 @@
  "name": "Turkey",
  "capital": "Ankara", 
  "isoAlpha3": "TUR",
- "population":	84339067,
+ "population":"84,339,067",
  "gasolinePrice": 0.86,
  "img": "https://flagpedia.net/data/flags/w580/tr.png",
  "attractions": ["Sultan Ahmed Mosque","Hagia Sophia","Topkapi"]		
@@ -1843,7 +1843,7 @@
  "name": "Turkmenistan",
  "capital": "Ashgabat", 
  "isoAlpha3": "TKM",
- "population": 	6031200,
+ "population":"6,031,200",
  "gasolinePrice": 0.42,
  "img": "https://flagpedia.net/data/flags/w580/tm.png",
  "attractions": ["'Door to Hell'","Parthian Settlement of Nisa","Gypjak Mosque"]		
@@ -1853,7 +1853,7 @@
  "name": "Tuvalu",
  "capital": "Funafuti", 
  "isoAlpha3": "TUV",
- "population": 	11792,
+ "population":"11,792",
  "gasolinePrice": 0,
 "img": "https://flagpedia.net/data/flags/w580/tv.png",
  "attractions": ["Tuvalu Philatelic Bureau","Funafuti Marine Area","Tuvalu National Library"]		
@@ -1863,7 +1863,7 @@
  "name": "Uganda",
  "capital": "Kampala", 
  "isoAlpha3": "UGA",
- "population": 	45741007,
+ "population":"45,741,007",
  "gasolinePrice": 1.15,
  "img": "https://flagpedia.net/data/flags/w580/ug.png",
  "attractions": ["Murchison Falls National Park","Gaddafi National Mosque","Kampala"]		
@@ -1873,7 +1873,7 @@
  "name": "Ukraine",
  "capital": "Kiev", 
  "isoAlpha3": "UKR",
- "population": 	43733762,
+ "population":"43,733,762",
  "gasolinePrice": 1.02,
  "img": "https://flagpedia.net/data/flags/w580/ua.png",
  "attractions": ["Chernobyl","St. Sophia's Cathedral","L'viv's Historic Center"]		
@@ -1883,7 +1883,7 @@
  "name": "United Arab Emirates",
  "capital": "Abu Dhabi", 
  "isoAlpha3": "ARE",
- "population": 	9890402,
+ "population":"9,890,402",
  "gasolinePrice": 0.59,
  "img": "https://flagpedia.net/data/flags/w580/ae.png",
  "attractions": ["Sheikh Zayed Mosque","Burj Khalifa","The Dubai Mall"]		
@@ -1893,7 +1893,7 @@
  "name": "United States",
  "capital": "Washington D.C.", 
  "isoAlpha3": "USA",
- "population": 	331002651,
+ "population":"331,002,651",
  "gasolinePrice": 0.85,
  "img": "https://flagpedia.net/data/flags/w580/us.png",
  "attractions": ["Grand Canyon","Times Square","Yosemite National Park"]		
@@ -1903,7 +1903,7 @@
  "name": "Uruguay",
  "capital": "Montevideo", 
  "isoAlpha3": "URY",
- "population": 	3473730,
+ "population":"3,473,730",
  "gasolinePrice": 1.32,
  "img": "https://flagpedia.net/data/flags/w580/uy.png",
  "attractions": ["Rambla de Montevideo","Plaza Independencia","Palacio Salvo"]		
@@ -1913,7 +1913,7 @@
  "name": "Uzbekistan",
  "capital": "Tashkent", 
  "isoAlpha3": "UZB",
- "population": 	33469203,
+ "population":"33,469,203",
  "gasolinePrice": 0.67,
  "img": "https://flagpedia.net/data/flags/w580/uz.png",
  "attractions": ["Ichan Kala","Amir Timur Museum","Registan"]		
@@ -1923,7 +1923,7 @@
  "name": "Vanuatu",
  "capital": "Port Vila", 
  "isoAlpha3": "VUT",
- "population": 	307145,
+ "population":"307,145",
  "gasolinePrice": 1.46,
  "img": "https://flagpedia.net/data/flags/w580/vu.png",
  "attractions": ["Mount Yasur","Champagne Beach","Millennium Cave"]		
@@ -1933,7 +1933,7 @@
  "name": "Vatican City",
  "capital": "Vatican City", 
  "isoAlpha3": "VAT",
- "population": 	825,
+ "population":"825",
  "gasolinePrice": 0,
  "img": "https://flagpedia.net/data/flags/w580/va.png",
  "attractions": ["St. Peter's Basilica","Vatican Museums","Sistine Chapel"]		
@@ -1943,7 +1943,7 @@
  "name": "Venezuela",
  "capital": "Caracas", 
  "isoAlpha3": "VEN",
- "population": 	28435940,
+ "population":"28,435,940",
  "gasolinePrice": 0.02,
  "img": "https://flagpedia.net/data/flags/w580/ve.png",
  "attractions": ["Playa El Yaque","Cayo de Agua","Médanos de Coro"]		
@@ -1953,7 +1953,7 @@
  "name": "Vietnam",
  "capital": "Hanoi", 
  "isoAlpha3": "VNM",
- "population": 	97338579,
+ "population":"97,338,579",
  "gasolinePrice": 0.83,
  "img": "https://flagpedia.net/data/flags/w580/vn.png",
  "attractions": ["Cu Chi Tunnels","Halong Bay","The Marble Mountains"]		
@@ -1962,7 +1962,7 @@
  "id": 196,
  "name": "Wales",
  "capital": "Cardiff", 
- "population": 	3063456,
+ "population":"3,063,456",
  "gasolinePrice": 1.70,
  "img": "https://flagpedia.net/data/flags/w580/gb-wls.png",
  "attractions": ["Snowdonia National Park","Conwy","Beaumaris Castle"]		
@@ -1972,7 +1972,7 @@
  "name": "Yemen",
  "capital": "Sana'a", 
  "isoAlpha3": "YEM",
- "population": 	29825964,
+ "population":"29,825,964",
  "gasolinePrice": 1.51,
  "img": "https://flagpedia.net/data/flags/w580/ye.png",
  "attractions": ["Qalansiyah Beach","Cairo Castle","Stone House"]		
@@ -1982,7 +1982,7 @@
  "name": "Zambia",
  "capital": "Lusaka", 
  "isoAlpha3": "ZMB",
- "population": 	18383955,
+ "population":"18,383,955",
  "gasolinePrice": 0.97,
  "img": "https://flagpedia.net/data/flags/w580/zm.png",
  "attractions": ["Victoria Falls","Devil's Pool","Chaminuka Game Reserve"]		
@@ -1992,7 +1992,7 @@
  "name": "Zimbabwe",
  "capital": "Harare", 
  "isoAlpha3": "ZWE",
- "population": 	14862924,
+ "population":"14,862,924",
  "gasolinePrice": 1.35,
  "img": "https://flagpedia.net/data/flags/w580/zw.png",
  "attractions": ["Victoria Falls Bridge","Matobo National Park","Harare"]		
